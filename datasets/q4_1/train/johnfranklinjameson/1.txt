@@ -1,0 +1,1200 @@
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>
+<s> the project gutenberg ebook of privateering and piracy in the colonial period by various this ebook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever <\s>
+<s> you may copy it give it away or re-use it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.org title privateering and piracy in the colonial period illustrative documents author various editor john franklin jameson release date march 20 2008 ebook #24882 language english start of this project gutenberg ebook privateering and piracy produced by suzanne shell linda cantoni and the online distributed proofreading team at http://www.pgdp.net. <\s>
+<s> this e-book was created from a 1970 reprint published by augustus m <\s>
+<s> kelly publishers new york <\s>
+<s> transcriber's notes this book contains documents written in 17th and 18th century english dutch french and other languages <\s>
+<s> inconsistencies of spelling punctuation capitalization and hyphenation have been preserved as they appear in the original <\s>
+<s> see the last paragraph of the preface for the editor's note on this a few obvious printer errors in the editor's footnotes have been corrected <\s>
+<s> this book contains characters with macrons which are represented here in brackets with an equal sign e g [= a <\s>
+<s> the original contains various symbols to represent signature marks <\s>
+<s> these have been described in brackets e g john x smith <\s>
+<s> the original contains a number of blank spaces to represent missing matter <\s>
+<s> these are represented here as a series of four hyphens <\s>
+<s> in the original there are a few numbers enclosed in square brackets <\s>
+<s> they are here enclosed in curly brackets in order to avoid confusion with the square-bracketed footnote numbers used in this e-text privateering and piracy in the colonial period illustrative documents edited under the auspices of the national society of the colonial dames of america by john franklin jameson director of the department of historical research in the carnegie institution of washington new york the macmillan company 1923 to the honored memory of john jameson of boston 1828-1905 voyager teacher lawyer scholar whose love of learning and whose unselfish devotion made it natural and possible that i should lead the student's life preface the national society of the colonial dames of america have formed the laudable habit of illustrating the colonial period of united states history in which they are especially interested by published volumes of original historical material previously unprinted and relating to that period <\s>
+<s> thus in the course of years they have made a large addition to the number of documentary sources available to the student of that period <\s>
+<s> first they published in 1906 in two handsome volumes the _correspondence of william pitt when secretary of state with colonial governors and military and naval commanders in america edited by the late miss gertrude selwyn kimball containing material of great importance to the history of the colonies as a whole and of the management of the french and indian war <\s>
+<s> next in 1911 and 1914 they published the two volumes of professor james c <\s>
+<s> ballagh's valuable edition of the _letters of richard henry lee <\s>
+<s> then in 1912 they brought out again in two volumes the _correspondence of governor william shirley edited by dr <\s>
+<s> lincoln and illustrating the history of several colonies particularly those of new england during the period of what in our colonial history is called king george's war <\s>
+<s> more recently in 1916 the society published an entertaining volume of hitherto unprinted _travels in the american colonies edited by dr <\s>
+<s> it was resolved that the next volume after these should be devoted to documents relating to maritime history <\s>
+<s> in proportion to its importance that aspect of our colonial history has in general received too little attention <\s>
+<s> in time of peace the colonists nearly all of whom dwelt within a hundred miles of ocean or tidewater maintained constantly a maritime commerce that had a large importance to their economic life and gave employment to no small part of their population <\s>
+<s> in time of war their naval problems and dangers and achievements were hardly less important than those of land warfare but have been far less exploited whether in narrative histories or in volumes of documentary materials <\s>
+<s> accordingly the society's committee on publication readily acceded to the suggestion that a volume should be made up of documents illustrating the history of privateering and piracy as these stand related to the life of america during the colonial period--for it is agreed that few aspects of our maritime history in that period have greater importance and interest than these two <\s>
+<s> in some of our colonial wars as later in those of the revolution and of 1812 american privateering assumed such proportions as to make it for brief periods one of the leading american industries <\s>
+<s> we cannot quite say the same concerning american piracy and indeed it might be thought disrespectful to our ancestors--or predecessors for pirates mostly died young and left few descendants--but at least it will be conceded that piracy at times flourished in american waters that not a few of the pirates and of those on shore who received their goods and otherwise aided them were americans that their activities had an important influence on the development of american commerce and that documents relative to piracy make interesting reading <\s>
+<s> it is a matter for regret and on the editor's part for apology that the book should have been so long in preparation <\s>
+<s> work on it was begun prosperously before our country was engaged in war but the spare time which the editor can command always slight in amount was much reduced during the period of warfare <\s>
+<s> moreover the society very properly determined that so long as war continued the publication of their volumes and the expenditures now attendant upon printing ought to be postponed in favor of those patriotic undertakings especially for the relief of suffering which have made their name grateful to all lovers of the navy and in all places where the _comfort_ and the _mercy_ have sailed <\s>
+<s> it may be objected against the plan of this book that privateering and piracy should not be conjoined in one volume with documents intermingled in one chronological order lest the impression be created that piracy and privateering were much the same <\s>
+<s> it is true that in theory and in legal definition they are widely different things and stand on totally different bases <\s>
+<s> legally a privateer is an armed vessel or its commander which in time of war though owners and officers and crew are private persons has a commission from a belligerent government to commit acts of warfare on vessels of its enemy <\s>
+<s> legally a pirate is one who commits robbery or other acts of violence on the sea or on the land through descent from the sea without having any authority from and independently of any organized government or political society <\s>
+<s> fighting and bloodshed and murder it may be remarked by the way though natural concomitants of the pirate's trade are not as is often supposed essentials of the crime of piracy but wide as is the legal distinction between the authorized warfare of the privateer and the unauthorized violence of the pirate in practice it was very difficult to keep the privateer and his crew far from the eye of authority within the bounds of legal conduct or to prevent him from broadening out his operations into piracy especially if a merely privateering cruise was proving unprofitable <\s>
+<s> privateering was open to many abuses and it was not without good reason that the leading powers of europe in 1856 by the declaration of paris agreed to its abandonment <\s>
+<s> the object of the following collection of documents is not to give the whole history of any episode of piracy or of the career of any privateer but rather by appropriate selection to illustrate as well as is possible in one volume all the different aspects of both employments and to present specimens of all the different sorts of papers to which they gave rise <\s>
+<s> nearly all the pieces are documents hitherto unprinted but a few that have already been printed mostly in books not easy of access have been included in order to round out a story or a series <\s>
+<s> the collection ends with the termination of the last colonial war in 1763 <\s>
+<s> presented in chronological order it may have a casual as it certainly has a miscellaneous appearance <\s>
+<s> but variety was intended and on closer inspection and comparison the selection will be seen to have a more methodical character than at first appears corresponding to the systematic procedure followed in privateering in prize cases and in trials for piracy <\s>
+<s> on the outbreak of war in which great britain was involved it was customary for the king to issue a commission to the lord high admiral or to the lords of the admiralty appointed to execute that office authorizing him or them to empower proper officials such as colonial governors to grant letters of marque or privateering commissions to suitable persons under adequate safeguards 1 the lords of the admiralty then issued warrants to the colonial governors see doc <\s>
+<s> 127 authorizing them to issue such commissions or letters of marque <\s>
+<s> a specimen american privateering commission may be seen in doc <\s>
+<s> 144 a portuguese letter of marque and a paper by which its recipient purported to assign it to another in docs <\s>
+<s> royal instructions were issued to all commanders of privateers doc <\s>
+<s> 126 and each was required to furnish or bondsmen were required to furnish on his behalf caution or security 2 for the proper observance of these instructions and the payment of all dues to the crown or admiralty <\s>
+<s> relations between the commander and the crew except as regulated by the superior authority of these instructions and of the prize acts or other statutes were governed by the articles of agreement doc <\s>
+<s> 202 signed when enlisting <\s>
+<s> footnote 1 see r g <\s>
+<s> marsden in _english historical review xxi <\s>
+<s> 251-257 and a commission in rymer's _foedera_ xviii <\s>
+<s> 12 footnote 2 specimen 1762 in anthony stokes _a view of the constitution of the british colonies london 1783 pp <\s>
+<s> 315-317 these were the essential documents of a privateering voyage <\s>
+<s> there would probably be also accounts for supplies like john tweedy's very curious bill for medicines doc <\s>
+<s> 158 and accounts between crew and owners doc <\s>
+<s> 146 and general accounts of the voyage doc <\s>
+<s> there might be an agreement of two privateers to cruise together and divide the spoil doc <\s>
+<s> there might even be a journal of the whole voyage like the extraordinarily interesting journal kept on the privateer _revenge_ by the captain's quartermaster in 1741 doc <\s>
+<s> 145 one of the very few such narratives preserved <\s>
+<s> other documents of various kinds illustrating miscellaneous incidents of privateering will be found elsewhere in the volume <\s>
+<s> both privateers and naval vessels belonging to the government made prize of ships and goods belonging to the enemy but many questions were certain to arise concerning the legality of captures and concerning the proper ownership and disposal of ships and goods <\s>
+<s> hence the necessity for prize courts acting under admiralty law and the law of nations <\s>
+<s> the instructions to privateers required them see doc <\s>
+<s> 126 section iii to bring captured ships or goods into some port of great britain or her colonial dominions for adjudication by such a court <\s>
+<s> in england it was the high court of admiralty that tried such cases <\s>
+<s> at the beginning of a war a commission under the great seal 3 addressed to the lords of the admiralty instructed them to issue a warrant to the judge of that court authorizing him during the duration of the war to take cognizance of prize causes <\s>
+<s> after 1689 it was customary to provide for trial of admiralty causes in colonial ports by giving to each colonial governor in addition to his commission as governor a commission as vice-admiral <\s>
+<s> before 1689 this was done in a few instances chiefly of proprietary colonies the earliest such instance being that exhibited in our doc <\s>
+<s> 1 but in the case of colonies having no royal governor corporation colonies we find various courts in that earlier period exercising admiralty jurisdiction docs <\s>
+<s> from queen anne's reign on doc <\s>
+<s> 102 jurisdiction in prize causes was conferred as in the case of the judge of the high court of admiralty in london by warrant doc <\s>
+<s> 182 from the lord high admiral or lords of the admiralty pursuant to the commission issued to them as stated above at the beginning of the war <\s>
+<s> 116 we see the judge of the high court of admiralty expressing the belief that it would be better if all prizes were brought to his court in london for adjudication but the inconvenience would have been too great <\s>
+<s> footnote 3 such a commission 1748 is printed in r g <\s>
+<s> marsden _law and custom of the sea navy records society ii <\s>
+<s> 279 and another 1756 in stokes p <\s>
+<s> 278 the governor's commission as vice-admiral issued after 1689 at any rate under the great seal of the high court of admiralty gave him authority to hold an admiralty court in person <\s>
+<s> often the governor was not well fitted for such work though not often so frank as sir henry morgan doc <\s>
+<s> 46 note 1 in admitting his deficiencies <\s>
+<s> as admiralty business increased it became customary to appoint admiralty judges to hold vice-admiralty courts in individual colonies or in groups of colonies <\s>
+<s> sometimes especially in the earlier period they were commissioned by the governor of the colony acting under a warrant from the lords of the admiralty doc <\s>
+<s> 69 empowering him so to do; more often they were commissioned directly by those lords under the great seal of the admiralty <\s>
+<s> 180 is a commission of the former sort doc <\s>
+<s> 181 of the latter <\s>
+<s> when war broke out authority to try prize cases was conveyed as above to the vice-admiral the vice-admiralty judge and their deputies <\s>
+<s> in the trial of a prize case the first essential document was the libel docs <\s>
+<s> 188 by which claim was laid to ship or goods <\s>
+<s> witnesses were examined chiefly by means of the systematic series of questions called standing interrogatories doc <\s>
+<s> their testimony taken down in written depositions constitutes much the largest class of documents in this volume <\s>
+<s> most narratives of privateering or of piracy are found in the form of depositions <\s>
+<s> reports of trials embracing proceedings and documents and testimony are found in docs <\s>
+<s> 165 sentences or decrees of the judge in docs <\s>
+<s> 155 inventories of prizes in docs <\s>
+<s> 161 an account of sales in doc <\s>
+<s> if a party to a prize appealed from the sentence of the vice-admiralty court docs <\s>
+<s> 196 he was required to give bond doc <\s>
+<s> 152 for due prosecution of the appeal in england <\s>
+<s> from 1628 to 1708 such appeals were heard by the high court of admiralty after 1708 they went to a body of privy councillors specially commissioned for the purpose called the lords commissioners of appeal in prize causes see doc <\s>

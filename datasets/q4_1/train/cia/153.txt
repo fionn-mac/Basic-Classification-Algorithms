@@ -1,0 +1,1000 @@
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>
+<s> 66 bolivia 47,050 2009 est <\s>
+<s> 67 hungary 35,580 2009 est <\s>
+<s> 68 papua new guinea 35,090 2009 est <\s>
+<s> 69 poland 34,140 2009 est <\s>
+<s> 70 belarus 31,400 2009 est <\s>
+<s> 71 spain 27,230 2009 est <\s>
+<s> 72 austria 25,410 2009 est <\s>
+<s> 73 philippines 25,290 2009 est <\s>
+<s> 74 croatia 23,960 2009 est <\s>
+<s> 75 burma 18,880 2009 est <\s>
+<s> 76 virgin islands 16,870 2009 est <\s>
+<s> 77 mauritania 16,510 2009 est <\s>
+<s> 78 congo democratic republic of the 16,360 2009 est <\s>
+<s> 79 suriname 15,190 2009 est <\s>
+<s> 80 guatemala 13,530 2009 est <\s>
+<s> 81 serbia 12,170 2009 est <\s>
+<s> 82 belgium 11,220 2009 est <\s>
+<s> 83 czech republic 10,970 2009 est <\s>
+<s> 84 chile 10,850 2009 est <\s>
+<s> 85 singapore 9,667 2009 est <\s>
+<s> 86 finland 8,718 2009 est <\s>
+<s> 87 estonia 7,600 2009 est <\s>
+<s> 88 ghana 7,081 2009 est <\s>
+<s> 89 greece 6,779 2009 est <\s>
+<s> 90 lithuania 6,333 2009 est <\s>
+<s> 91 bangladesh 5,733 2009 est <\s>
+<s> 92 albania 5,400 2009 est <\s>
+<s> 93 mongolia 5,100 2009 94 sweden 4,833 2009 est <\s>
+<s> 95 portugal 4,721 2009 est <\s>
+<s> 96 slovakia 4,114 2009 est <\s>
+<s> 97 morocco 4,053 2009 est <\s>
+<s> 98 belize 3,990 2009 est <\s>
+<s> 99 israel 3,806 2009 est <\s>
+<s> 100 switzerland 3,488 2009 est <\s>
+<s> 101 bulgaria 3,227 2009 est <\s>
+<s> 102 aruba 2,235 2009 est <\s>
+<s> 103 puerto rico 1,783 2009 est <\s>
+<s> 104 uruguay 997                           2009 est <\s>
+<s> 105 georgia 995                           2009 est <\s>
+<s> 106 kyrgyzstan 979                           2009 est <\s>
+<s> 107 barbados 765                           2009 est <\s>
+<s> 108 tajikistan 221                           2009 est <\s>
+<s> 109 zambia 160                           2009 est <\s>
+<s> 110 korea north 118                           2009 est <\s>
+<s> 111 somalia 108                           2009 est <\s>
+<s> 112 paraguay 31 2009 est <\s>
+<s> 113 sierra leone 29 2009 est <\s>
+<s> 114 slovenia 5 2009 est <\s>
+<s> 115 panama 2 2009 est <\s>
+<s> 116 afghanistan 0 2009 est <\s>
+<s> 117 benin 0 2009 est <\s>
+<s> 118 bhutan 0 2009 est <\s>
+<s> 119 botswana 0 2009 est <\s>
+<s> 120 zimbabwe 0 2009 est <\s>
+<s> 121 western sahara 0 2009 est <\s>
+<s> 122 west bank 0 2009 est <\s>
+<s> 123 vanuatu 0 2009 est <\s>
+<s> 124 turks and caicos islands 0 2009 est <\s>
+<s> 125 tonga 0 2009 est <\s>
+<s> 126 togo 0 2009 est <\s>
+<s> 127 tanzania 0 2009 est <\s>
+<s> 128 swaziland 0 2009 est <\s>
+<s> 129 sri lanka 0 2008 est <\s>
+<s> 130 solomon islands 0 2009 est <\s>
+<s> 131 seychelles 0 2009 est <\s>
+<s> 132 senegal 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2009 est <\s>
+<s> 134 samoa 0 2009 est <\s>
+<s> 135 saint vincent and the grenadines 0 2009 est <\s>
+<s> 136 saint pierre and miquelon 0 2009 est <\s>
+<s> 137 saint lucia 0 2009 est <\s>
+<s> 138 saint kitts and nevis 0 2009 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2009 est <\s>
+<s> 140 rwanda 0 2009 est <\s>
+<s> 141 new caledonia 0 2009 est <\s>
+<s> 142 nepal 0 2009 est <\s>
+<s> 143 nauru 0 2009 est <\s>
+<s> 144 namibia 0 2009 est <\s>
+<s> 145 mozambique 0 2009 est <\s>
+<s> 146 montserrat 0 2009 est <\s>
+<s> 147 montenegro 0 2009 est <\s>
+<s> 148 moldova 0 2009 est <\s>
+<s> 149 luxembourg 0 2009 est <\s>
+<s> 150 niue 0 2009 est <\s>
+<s> 151 niger 0 2009 est <\s>
+<s> 152 nicaragua 0 2008 est <\s>
+<s> 153 liberia 0 2009 est <\s>
+<s> 154 lesotho 0 2009 est <\s>
+<s> 155 lebanon 0 2009 est <\s>
+<s> 156 latvia 0 2009 est <\s>
+<s> 157 laos 0 2009 est <\s>
+<s> 158 kosovo 0 2007 159 kiribati 0 2009 est <\s>
+<s> 160 kenya 0 2008 est <\s>
+<s> 161 mauritius 0 2009 est <\s>
+<s> 162 malta 0 2009 est <\s>
+<s> 163 mali 0 2009 est <\s>
+<s> 164 maldives 0 2009 est <\s>
+<s> 165 malawi 0 2009 est <\s>
+<s> 166 madagascar 0 2009 est <\s>
+<s> 167 macedonia 0 2009 est <\s>

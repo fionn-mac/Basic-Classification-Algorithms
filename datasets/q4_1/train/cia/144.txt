@@ -1,0 +1,600 @@
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>
+<s> 165 honduras -1.27 2010 est <\s>
+<s> 166 philippines -1.31 2010 est <\s>
+<s> 167 nepal -1.35 2010 est <\s>
+<s> 168 azerbaijan -1.42 2010 est <\s>
+<s> 169 cuba -1.56 2010 est <\s>
+<s> 170 solomon islands -1.94 2009 est <\s>
+<s> 171 turkmenistan -1.95 2010 est <\s>
+<s> 172 senegal -1.99 2010 est <\s>
+<s> 173 dominican republic -2.04 2010 est <\s>
+<s> 174 bangladesh -2.12 2010 est <\s>
+<s> 175 guatemala -2.17 2010 est <\s>
+<s> 176 gabon -2.24 2010 est <\s>
+<s> 177 latvia -2.32 2010 est <\s>
+<s> 178 pakistan -2.36 2010 est <\s>
+<s> 179 lebanon -2.43 na 180 kyrgyzstan -2.58 2010 est <\s>
+<s> 181 bulgaria -2.80 2010 est <\s>
+<s> 182 jordan -2.81 2010 est <\s>
+<s> 183 uzbekistan -2.84 2010 est <\s>
+<s> 184 kiribati -2.87 na 185 south africa -3.13 2010 est <\s>
+<s> 186 kazakhstan -3.28 2010 est <\s>
+<s> 187 estonia -3.29 2010 est <\s>
+<s> 188 gibraltar -3.32 2010 est <\s>
+<s> 189 albania -3.35 2010 est <\s>
+<s> 190 mexico -3.38 2010 est <\s>
+<s> 191 grenada -3.67 2010 est <\s>
+<s> 192 morocco -3.88 2010 est <\s>
+<s> 193 saint lucia -3.93 2010 est <\s>
+<s> 194 chad -3.95 2010 est <\s>
+<s> 195 armenia -4.16 2010 est <\s>
+<s> 196 georgia -4.16 2010 est <\s>
+<s> 197 qatar -4.41 2010 est <\s>
+<s> 198 sierra leone -4.66 2010 est <\s>
+<s> 199 virgin islands -5.27 2010 est <\s>
+<s> 200 marshall islands -5.30 2010 est <\s>
+<s> 201 mali -5.38 2010 est <\s>
+<s> 202 dominica -5.44 2010 est <\s>
+<s> 203 jamaica -5.52 2010 est <\s>
+<s> 204 wallis and futuna -5.87 2010 est <\s>
+<s> 205 greenland -5.99 2010 est <\s>
+<s> 206 american samoa -6.83 2010 est <\s>
+<s> 207 tuvalu -7.07 na 208 trinidad and tobago -7.11 2010 est <\s>
+<s> 209 fiji -7.37 2010 est <\s>
+<s> 210 haiti -8.32 2011 est <\s>
+<s> 211 lesotho -8.68 2010 est <\s>
+<s> 212 el salvador -9.13 2010 est <\s>
+<s> 213 saint pierre and miquelon -9.25 2010 est <\s>
+<s> 214 sao tome and principe -9.52 2010 est <\s>
+<s> 215 saint vincent and the grenadines -11.36 2010 est <\s>
+<s> 216 samoa -11.52 2010 est <\s>
+<s> 217 maldives -12.60 2010 est <\s>
+<s> 218 guyana -15.83 2010 est <\s>
+<s> 219 nauru -16.08 na 220 micronesia federated states of -21.01 2010 est <\s>
+<s> 221 northern mariana islands -73.56 2010 est <\s>
+<s> rank code 2113 country comparison :: geography note this entry includes miscellaneous geographic information of significance not included elsewhere <\s>
+<s> rank country geography note date of information rank code 2115 country comparison :: political pressure groups and leaders this entry includes a listing of a country's political social labor or religious organizations that are involved in politics or that exert political pressure but whose leaders do not stand for legislative election <\s>
+<s> international movements or organizations are generally not listed <\s>
+<s> rank country political pressure groups and leadersdate of information rank code 2116 country comparison :: economy overview this entry briefly describes the type of economy including the degree of market orientation the level of economic development the most important natural resources and the unique areas of specialization <\s>
+<s> it also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends <\s>
+<s> rank country economy overview date of information rank code 2117 country comparison :: pipelines this entry gives the lengths and types of pipelines for transporting products like natural gas crude oil or petroleum products <\s>
+<s> rank country km date of information 1 united states 548,665 00 2009 2 united states 244,620 00 2009 3 russia 159,552 00 2009 4 canada 74,980 00 2009 5 russia 74,285 00 2009 6 ukraine 33,327 00 2009 7 china 32,545 00 2009 8 argentina 28,248 00 2009 9 australia 27,105 00 2009 10 germany 24,364 00 2009 11 canada 23,564 00 2009 12 mexico 22,705 00 2009 13 china 20,097 00 2009 14 iran 19,246 00 2009 15 italy 17,558 00 2009 16 france 14,688 00 2009 17 algeria 14,648 00 2009 18 russia 13,658 00 2009 19 poland 13,631 00 2009 20 kazakhstan 11,146 00 2009 21 china 10,915 00 2009 22 turkey 10,630 00 2009 23 pakistan 10,402 00 2009 24 kazakhstan 10,376 00 2009 25 brazil 9,989 00 2009 26 uzbekistan 9,706 00 2009 27 mexico 8,688 00 2009 28 united kingdom 7,992 00 2009 29 iran 7,936 00 2009 30 spain 7,738 00 2009 31 india 7,659 00 2009 32 algeria 7,579 00 2009 33 india 7,542 00 2009 34 india 7,201 00 2009 35 iran 7,018 00 2009 36 czech republic 7,010 00 2009 37 libya 6,987 00 2009 38 slovakia 6,769 00 2009 39 venezuela 6,695 00 2009 40 mexico 6,520 00 2009 41 turkmenistan 6,417 00 2009 42 egypt 6,262 00 2009 43 colombia 6,097 00 2009 44 argentina 5,977 00 2009 45 indonesia 5,800 00 2009 46 indonesia 5,721 00 2009 47 venezuela 5,258 00 2009 48 belarus 5,250 00 2009 49 bolivia 5,192 00 2009 50 france 5,080 00 2009 51 iraq 5,032 00 2009 52 colombia 4,567 00 2009 53 brazil 4,517 00 2009 54 ukraine 4,514 00 2009 55 brazil 4,465 00 2009 56 united kingdom 4,417 00 2009 57 hungary 4,407 00 2009 58 egypt 4,319 00 2009 59 saudi arabia 4,241 00 2009 60 ukraine 4,211 00 2009 61 oman 4,209 00 2009 62 nigeria 4,090 00 2009 63 sudan 4,070 00 2009 64 japan 3,879 00 2009 65 germany 3,843 00 2009 66 netherlands 3,816 00 2009 67 argentina 3,636 00 2009 68 turkey 3,636 00 2009 69 romania 3,588 00 2009 70 oman 3,558 00 2009 71 spain 3,445 00 2009 72 nigeria 3,424 00 2009 73 colombia 3,382 00 2009 74 germany 3,379 00 2009 75 azerbaijan 3,361 00 2009 76 australia 3,258 00 2009 77 syria 3,101 00 2009 78 france 2,943 00 2009 79 algeria 2,933 00 2009 80 bulgaria 2,926 00 2009 81 libya 2,860 00 2009 82 denmark 2,858 00 2009 83 austria 2,721 00 2009 84 chile 2,673 00 2009 85 bangladesh 2,597 00 2009 86 nigeria 2,565 00 2009 87 iraq 2,501 00 2009 88 bolivia 2,488 00 2009 89 romania 2,424 00 2009 90 armenia 2,233 00 2009 91 burma 2,228 00 2009 92 tunisia 2,179 00 2009 93 india 2,163 00 2009 94 united arab emirates 2,152 00 2009 95 pakistan 2,011 00 2009 96 syria 1,997 00 2009 97 malaysia 1,965 00 2009 98 algeria 1,937 00 2009 99 serbia 1,921 00 2009 100 moldova 1,906 00 2009 101 saudi arabia 1,880 00 2009 102 mexico 1,875 00 2009 103 new zealand 1,838 00 2009 104 belarus 1,730 00 2009 105 lithuania 1,695 00 2009 106 switzerland 1,662 00 2009 107 iraq 1,637 00 2009 108 sudan 1,613 00 2009 109 georgia 1,596 00 2009 110 bolivia 1,590 00 2009 111 ireland 1,550 00 2009 112 belarus 1,528 00 2009 113 venezuela 1,484 00 2009 114 turkmenistan 1,457 00 2009 115 azerbaijan 1,424 00 2009 116 korea south 1,423 00 2009 117 poland 1,384 00 2009 118 south africa 1,379 00 2009 119 ecuador 1,374 00 2009 120 indonesia 1,370 00 2009 121 yemen 1,367 00 2009 122 thailand 1,348 00 2009 123 belgium 1,330 00 2009 124 croatia 1,327 00 2009 125 united arab emirates 1,310 00 2009 126 ecuador 1,301 00 2009 127 tunisia 1,285 00 2009 128 georgia 1,258 00 2009 129 italy 1,241 00 2009 130 greece 1,197 00 2009 131 saudi arabia 1,183 00 2009 132 saudi arabia 1,148 00 2009 133 portugal 1,098 00 2009 134 kazakhstan 1,095 00 2009 135 peru 1,083 00 2009 136 peru 1,018 00 2009 137 hungary 987.00 2009 138 qatar 980.00 2009 139 south africa 980.00 2009 140 venezuela 980.00 2009 141 egypt 956.00 2009 142 latvia 948.00 2009 143 kenya 928.00 2009 144 iraq 918.00 2009 145 mozambique 918.00 2009 146 south africa 908.00 2009 147 egypt 895.00 2009 148 chile 892.00 2009 149 cameroon 889.00 2009 150 tanzania 888.00 2009 151 uzbekistan 868.00 2009 152 estonia 859.00 2009 153 gabon 858.00 2009 154 slovenia 840.00 2009 155 morocco 830.00 2009 156 korea south 827.00 2009 157 costa rica 796.00 2009 158 pakistan 787.00 2009 159 sweden 786.00 2009 160 poland 777.00 2009 161 libya 776.00 2009 162 zambia 771.00 2009 163 chile 769.00 2009 164 congo democratic republic of the 756.00 2009 165 indonesia 735.00 2009 166 netherlands 716.00 2009 167 united kingdom 699.00 2009 168 finland 694.00 2009 169 peru 677.00 2009 170 austria 663.00 2009 171 trinidad and tobago 659.00 2009 172 kazakhstan 658.00 2009 173 croatia 583.00 2009 174 iran 570.00 2009 175 spain 560.00 2009 176 burma 558.00 2009 177 tajikistan 549.00 2009 178 czech republic 547.00 2009 179 kuwait 540.00 2009 180 laos 540.00 2009 181 belgium 535.00 2009 182 peru 533.00 2009 183 chile 519.00 2009 184 guatemala 480.00 2009 185 afghanistan 466.00 2009 186 united arab emirates 458.00 2009 187 israel 442.00 2009 188 jordan 439.00 2009 189 morocco 439.00 2009 190 ecuador 435.00 2009 191 yemen 423.00 2009 192 slovakia 416.00 2009 193 latvia 415.00 2009 194 taiwan 405.00 2009 195 qatar 382.00 2009 196 tunisia 372.00 2009 197 netherlands 365.00 2009 198 brazil 353.00 2009 199 albania 339.00 2009 200 bulgaria 339.00 2009 201 trinidad and tobago 336.00 2009 202 hungary 335.00 2009 203 new zealand 331.00 2009 204 serbia 323.00 2009 205 thailand 323.00 2009 206 egypt 320.00 2009 207 ghana 309.00 2009 208 new zealand 288.00 2009 209 mozambique 278.00 2009 210 zimbabwe 270.00 2009 211 kuwait 269.00 2009 212 macedonia 268.00 2009 213 oman 263.00 2009 214 israel 261.00 2009 215 kyrgyzstan 254.00 2009 216 tanzania 254.00 2009 217 chad 250.00 2009 218 australia 240.00 2009 219 gabon 240.00 2009 220 cuba 230.00 2009 221 mexico 228.00 2009 222 uruguay 226.00 2009 223 united arab emirates 220.00 2009 224 saudi arabia 212.00 2009 225 united arab emirates 212.00 2009 226 congo republic of the 211.00 2009 227 albania 207.00 2009 228 vietnam 206.00 2009 229 new zealand 198.00 2009 230 papua new guinea 195.00 2009 231 portugal 188.00 2009 232 cote d'ivoire 180.00 2009 233 israel 176.00 2009 234 new zealand 172.00 2009 235 japan 167.00 2009 236 belgium 158.00 2009 237 austria 157.00 2009 238 bulgaria 156.00 2009 239 sudan 156.00 2009 240 luxembourg 155.00 2009 241 uruguay 155.00 2009 242 korea north 154.00 2009 243 qatar 145.00 2009 244 venezuela 141.00 2009 245 qatar 132.00 2009 246 russia 127.00 2009 247 russia 122.00 2009 248 macedonia 120.00 2009 249 lithuania 114.00 2009 250 malaysia 114.00 2009 251 philippines 112.00 2009 252 denmark 107.00 2009 253 philippines 107.00 2009 254 singapore 106.00 2009 255 nigeria 97.00 2009 256 czech republic 94.00 2009 257 switzerland 94.00 2009 258 cote d'ivoire 92.00 2009 259 qatar 90.00 2009 260 angola 87.00 2009 261 cote d'ivoire 86.00 2009 262 greece 75.00 2009 263 indonesia 73.00 2009 264 vietnam 66.00 2009 265 norway 64.00 2009 266 brazil 62.00 2009 267 egypt 59.00 2009 268 united kingdom 59.00 2009 269 kuwait 57.00 2009 270 nicaragua 54.00 2009 271 japan 53.00 2009 272 bolivia 51.00 2009 273 suriname 50.00 2009 274 jordan 49.00 2009 275 lebanon 43.00 2009 276 united kingdom 43.00 2009 277 senegal 43.00 2009 278 vietnam 42.00 2009 279 argentina 41.00 2009 280 cuba 41.00 2009 281 congo democratic republic of the 39.00 2009 282 equatorial guinea 38.00 2009 283 tajikistan 38.00 2009 284 brunei 37.00 2009 285 congo democratic republic of the 37.00 2009 286 bahrain 32.00 2009 287 malaysia 31.00 2009 288 norway 31.00 2009 289 nigeria 26.00 2009 290 yemen 22.00 2009 291 bahrain 20.00 2009 292 liechtenstein 20.00 2009 293 brunei 18.00 2009 294 kyrgyzstan 16.00 2009 295 peru 15.00 2009 296 egypt 13.00 2009 297 indonesia 12.00 2009 298 iran 12.00 2009 299 portugal 11.00 2009 300 slovenia 11.00 2009 301 south africa 11.00 2009 302 senegal 8.00 2009 303 tanzania 8.00 2009 304 congo republic of the 7.00 2009 305 iran 7.00 2009 306 switzerland 7.00 2009 307 ecuador 5.00 2009 308 ghana 5.00 2009 309 kenya 4.00 2009 310 egypt 3.00 2009 311 malaysia 3.00 2009 312 angola 2.00 2009 313 india 2.00 2009 314 australia 1.00 2009 315 azerbaijan 1.00 2009 rank code 2118 country comparison :: political parties and leaders this entry includes a listing of significant political organizations and their leaders <\s>
+<s> rank country political parties and leaders date of information rank code 2119 country comparison :: population this entry gives an estimate from the us bureau of the census based on statistics from population censuses vital statistics registration systems or sample surveys pertaining to the recent past and on assumptions about future trends <\s>
+<s> the total population presents one overall measure of the potential impact of the country on the world and within its region <\s>
+<s> note starting with the 1993 factbook demographic estimates for some countries mostly african have explicitly taken into account the effects of the growing impact of the hiv aids epidemic <\s>
+<s> these countries are currently the bahamas benin botswana brazil burkina faso burma burundi cambodia cameroon central african republic democratic republic of the congo republic of the congo cote d'ivoire ethiopia gabon ghana guyana haiti honduras kenya lesotho malawi mozambique namibia nigeria rwanda south africa swaziland tanzania thailand togo uganda zambia and zimbabwe <\s>
+<s> rank country population date of information 1 china 1,330 141,295 july 2010 est <\s>
+<s> 2 india 1,173 108,018 july 2010 est <\s>
+<s> 3 united states 310,232 863 july 2010 est <\s>
+<s> 4 indonesia 242,968 342 july 2010 est <\s>
+<s> 5 brazil 201,103 330 july 2010 est <\s>
+<s> 6 pakistan 184,404 791 july 2010 est <\s>
+<s> 7 bangladesh 156,118 464 july 2010 est <\s>
+<s> 8 nigeria 152,217 341 july 2010 est <\s>
+<s> 9 russia 139,390 205 july 2010 est <\s>
+<s> 10 japan 126,804 433 july 2010 est <\s>
+<s> 11 mexico 112,468 855 july 2010 est <\s>
+<s> 12 philippines 99,900 177 july 2010 est <\s>
+<s> 13 vietnam 89,571 130 july 2010 est <\s>
+<s> 14 ethiopia 88,013 491 july 2010 est <\s>
+<s> 15 germany 82,282 988 july 2010 est <\s>
+<s> 16 egypt 80,471 869 july 2010 est <\s>
+<s> 17 turkey 77,804 122 july 2010 est <\s>
+<s> 18 iran 76,923 300 july 2010 est <\s>
+<s> 19 congo democratic republic of the 70,916 439 july 2010 est <\s>
+<s> 20 thailand 67,089 500 july 2010 est <\s>
+<s> 21 france 64,768 389 july 2010 est <\s>
+<s> 22 united kingdom 62,348 447 july 2010 est <\s>
+<s> 23 italy 58,090 681 july 2010 est <\s>
+<s> 24 burma 53,414 374 july 2010 est <\s>
+<s> 25 south africa 49,109 107 july 2010 est <\s>
+<s> 26 korea south 48,636 068 july 2010 est <\s>
+<s> 27 spain 46,505 963 july 2010 est <\s>
+<s> 28 ukraine 45,415 596 july 2010 est <\s>
+<s> 29 colombia 44,205 293 july 2010 est <\s>
+<s> 30 sudan 43,939 598 july 2010 est <\s>
+<s> 31 tanzania 41,892 895 july 2010 est <\s>
+<s> 32 argentina 41,343 201 july 2010 est <\s>
+<s> 33 kenya 40,046 566 july 2010 est <\s>
+<s> 34 poland 38,463 689 july 2010 est <\s>
+<s> 35 algeria 34,586 184 july 2010 est <\s>
+<s> 36 canada 33,759 742 july 2010 est <\s>

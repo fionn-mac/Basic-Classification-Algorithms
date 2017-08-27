@@ -1,0 +1,3500 @@
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>
+<s> 736 chile 0.98 2010 est <\s>
+<s> 737 comoros 0.98 2010 est <\s>
+<s> 738 sint maarten 0.98 2010 739 sierra leone 0.98 2010 est <\s>
+<s> 740 senegal 0.98 2010 est <\s>
+<s> 741 saint pierre and miquelon 0.98 2010 est <\s>
+<s> 742 saint barthelemy 0.98 2010 est <\s>
+<s> 743 norway 0.98 2010 est <\s>
+<s> 744 netherlands 0.98 2010 est <\s>
+<s> 745 mozambique 0.98 2010 est <\s>
+<s> 746 jamaica 0.98 2010 est <\s>
+<s> 747 hungary 0.98 2010 est <\s>
+<s> 748 haiti 0.98 2010 est <\s>
+<s> 749 guernsey 0.98 2010 est <\s>
+<s> 750 gambia the 0.98 2010 est <\s>
+<s> 751 gambia the 0.98 2010 est <\s>
+<s> 752 eritrea 0.98 2010 est <\s>
+<s> 753 denmark 0.98 2010 est <\s>
+<s> 754 comoros 0.98 2010 est <\s>
+<s> 755 turks and caicos islands 0.98 2010 est <\s>
+<s> 756 turkmenistan 0.98 2010 est <\s>
+<s> 757 turkmenistan 0.98 2010 est <\s>
+<s> 758 thailand 0.98 2010 est <\s>
+<s> 759 thailand 0.98 2010 est <\s>
+<s> 760 tanzania 0.98 2010 est <\s>
+<s> 761 tanzania 0.98 2010 est <\s>
+<s> 762 tajikistan 0.98 2010 est <\s>
+<s> 763 sweden 0.98 2010 est <\s>
+<s> 764 western sahara 0.98 2010 est <\s>
+<s> 765 venezuela 0.98 2010 est <\s>
+<s> 766 united kingdom 0.98 2010 est <\s>
+<s> 767 swaziland 0.98 2010 est <\s>
+<s> 768 mali 0.98 2010 est <\s>
+<s> 769 maldives 0.98 2010 est <\s>
+<s> 770 liechtenstein 0.98 2010 est <\s>
+<s> 771 liberia 0.98 2010 est <\s>
+<s> 772 laos 0.98 2010 est <\s>
+<s> 773 laos 0.98 2010 est <\s>
+<s> 774 korea north 0.98 2010 est <\s>
+<s> 775 colombia 0.98 2010 est <\s>
+<s> 776 central african republic 0.98 2010 est <\s>
+<s> 777 brazil 0.98 2010 est <\s>
+<s> 778 burundi 0.98 2010 est <\s>
+<s> 779 central african republic 0.98 2010 est <\s>
+<s> 780 canada 0.98 2010 est <\s>
+<s> 781 brazil 0.98 2010 est <\s>
+<s> 782 argentina 0.97 2010 est <\s>
+<s> 783 sao tome and principe 0.97 2010 est <\s>
+<s> 784 nauru 0.97 2010 est <\s>
+<s> 785 morocco 0.97 2010 est <\s>
+<s> 786 kiribati 0.97 2010 est <\s>
+<s> 787 jordan 0.97 2010 est <\s>
+<s> 788 jersey 0.97 2010 est <\s>
+<s> 789 jamaica 0.97 2010 est <\s>
+<s> 790 guatemala 0.97 2010 est <\s>
+<s> 791 germany 0.97 2010 est <\s>
+<s> 792 ethiopia 0.97 2010 est <\s>
+<s> 793 equatorial guinea 0.97 2010 est <\s>
+<s> 794 ecuador 0.97 2010 est <\s>
+<s> 795 colombia 0.97 2010 est <\s>
+<s> 796 burundi 0.97 2010 est <\s>
+<s> 797 united states 0.97 2010 est <\s>
+<s> 798 tuvalu 0.97 2010 est <\s>
+<s> 799 togo 0.97 2010 est <\s>
+<s> 800 switzerland 0.97 2010 est <\s>
+<s> 801 sri lanka 0.97 2010 est <\s>
+<s> 802 mauritius 0.97 2010 est <\s>
+<s> 803 luxembourg 0.97 2010 est <\s>
+<s> 804 liechtenstein 0.97 2010 est <\s>
+<s> 805 lesotho 0.97 2010 est <\s>
+<s> 806 western sahara 0.97 2010 est <\s>
+<s> 807 venezuela 0.97 2010 est <\s>
+<s> 808 bulgaria 0.97 2010 est <\s>
+<s> 809 azerbaijan 0.97 2010 est <\s>
+<s> 810 bosnia and herzegovina 0.97 2010 est <\s>
+<s> 811 azerbaijan 0.97 2010 est <\s>
+<s> 812 bahamas the 0.97 2010 est <\s>
+<s> 813 barbados 0.97 2010 est <\s>
+<s> 814 bermuda 0.97 2010 est <\s>
+<s> 815 bahamas the 0.96 2010 est <\s>
+<s> 816 sri lanka 0.96 2010 est <\s>
+<s> 817 spain 0.96 2010 est <\s>
+<s> 818 sint maarten 0.96 2010 819 nepal 0.96 2010 est <\s>
+<s> 820 mozambique 0.96 2010 est <\s>
+<s> 821 morocco 0.96 2010 est <\s>
+<s> 822 kyrgyzstan 0.96 2010 est <\s>
+<s> 823 kyrgyzstan 0.96 2010 est <\s>
+<s> 824 italy 0.96 2010 est <\s>
+<s> 825 isle of man 0.96 2010 est <\s>
+<s> 826 greece 0.96 2010 est <\s>
+<s> 827 france 0.96 2010 est <\s>
+<s> 828 finland 0.96 2010 est <\s>
+<s> 829 ethiopia 0.96 2010 est <\s>
+<s> 830 eritrea 0.96 2010 est <\s>
+<s> 831 togo 0.96 2010 est <\s>
+<s> 832 mexico 0.96 2010 est <\s>
+<s> 833 lithuania 0.96 2010 est <\s>
+<s> 834 libya 0.96 2010 est <\s>
+<s> 835 lesotho 0.96 2010 est <\s>
+<s> 836 lebanon 0.96 2010 est <\s>
+<s> 837 cook islands 0.96 2010 est <\s>

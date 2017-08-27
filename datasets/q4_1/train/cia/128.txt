@@ -1,0 +1,2000 @@
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>
+<s> 65 slovenia 24,970 000,000 2010 est <\s>
+<s> 66 belarus 24,490 000,000 2010 est <\s>
+<s> 67 greece 21,140 000,000 2010 est <\s>
+<s> 68 pakistan 20,290 000,000 2010 est <\s>
+<s> 69 bulgaria 19,330 000,000 2010 est <\s>
+<s> 70 lithuania 19,290 000,000 2010 est <\s>
+<s> 71 luxembourg 17,820 000,000 2010 est <\s>
+<s> 72 ecuador 17,370 000,000 2010 est <\s>
+<s> 73 bangladesh 16,240 000,000 2010 74 tunisia 16,110 000,000 2010 est <\s>
+<s> 75 bahrain 15,130 000,000 2010 est <\s>
+<s> 76 morocco 14,490 000,000 2010 est <\s>
+<s> 77 uzbekistan 13,130 000,000 2010 est <\s>
+<s> 78 syria 12,840 000,000 2010 est <\s>
+<s> 79 panama 12,520 000,000 2010 est <\s>
+<s> 80 trinidad and tobago 12,060 000,000 2010 est <\s>
+<s> 81 croatia 11,510 000,000 2010 est <\s>
+<s> 82 estonia 10,770 000,000 2010 est <\s>
+<s> 83 brunei 10,670 000,000 2008 84 cote d'ivoire 10,250 000,000 2010 est <\s>
+<s> 85 equatorial guinea 10,240 000,000 2010 est <\s>
+<s> 86 costa rica 10,010 000,000 2010 est <\s>
+<s> 87 sudan 9,777 000,000 2010 est <\s>
+<s> 88 turkmenistan 9,672 000,000 2010 est <\s>
+<s> 89 serbia 9,372 000,000 2010 est <\s>
+<s> 90 congo republic of the 9,200 000,000 2010 est <\s>
+<s> 91 guatemala 8,470 000,000 2010 est <\s>
+<s> 92 sri lanka 7,908 000,000 2010 est <\s>
+<s> 93 latvia 7,894 000,000 2010 est <\s>
+<s> 94 burma 7,841 000,000 2010 est <\s>
+<s> 95 paraguay 7,606 000,000 2010 est <\s>
+<s> 96 yemen 7,462 000,000 2010 est <\s>
+<s> 97 uruguay 7,413 000,000 2010 est <\s>
+<s> 98 jordan 7,333 000,000 2010 est <\s>
+<s> 99 ghana 7,326 000,000 2010 est <\s>
+<s> 100 gabon 6,803 000,000 2010 est <\s>
+<s> 101 zambia 6,463 000,000 2010 est <\s>
+<s> 102 dominican republic 6,161 000,000 2010 est <\s>
+<s> 103 bolivia 6,058 000,000 2010 est <\s>
+<s> 104 papua new guinea 5,976 000,000 2010 est <\s>
+<s> 105 honduras 5,879 000,000 2010 est <\s>
+<s> 106 cambodia 5,212 000,000 2010 est <\s>
+<s> 107 lebanon 5,187 000,000 2010 est <\s>
+<s> 108 kenya 5,141 000,000 2010 est <\s>
+<s> 109 bosnia and herzegovina 4,787 000,000 2010 est <\s>
+<s> 110 san marino 4,628 000,000 2007 111 iceland 4,619 000,000 2010 est <\s>
+<s> 112 botswana 4,419 000,000 2010 est <\s>
+<s> 113 el salvador 4,377 000,000 2010 est <\s>
+<s> 114 cameroon 4,371 000,000 2010 est <\s>
+<s> 115 namibia 4,277 000,000 2010 est <\s>
+<s> 116 virgin islands 4,234 000,000 2001 117 liechtenstein 3,920 000,000 2008 118 tanzania 3,809 000,000 2010 est <\s>
+<s> 119 congo democratic republic of the 3,800 000,000 2009 est <\s>
+<s> 120 cuba 3,311 000,000 2010 est <\s>
+<s> 121 nicaragua 3,182 000,000 2010 est <\s>
+<s> 122 macedonia 3,171 000,000 2010 est <\s>
+<s> 123 chad 3,036 000,000 2010 est <\s>
+<s> 124 malta 2,954 000,000 2010 est <\s>
+<s> 125 uganda 2,941 000,000 2010 est <\s>
+<s> 126 mozambique 2,517 000,000 2010 est <\s>
+<s> 127 georgia 2,290 000,000 2010 est <\s>
+<s> 128 cyprus 2,232 000,000 2010 est <\s>
+<s> 129 senegal 2,112 000,000 2010 est <\s>
+<s> 130 mauritius 2,041 000,000 2010 est <\s>
+<s> 131 korea north 1,997 000,000 2009 132 mongolia 1,902 000,000 2009 133 zimbabwe 1,869 000,000 2010 est <\s>
+<s> 134 ethiopia 1,729 000,000 2010 est <\s>
+<s> 135 kyrgyzstan 1,682 000,000 2010 est <\s>
+<s> 136 jamaica 1,487 000,000 2010 est <\s>
+<s> 137 guinea 1,468 000,000 2010 est <\s>
+<s> 138 moldova 1,450 000,000 2010 est <\s>
+<s> 139 swaziland 1,417 000,000 2010 est <\s>
+<s> 140 madagascar 1,412 000,000 2010 est <\s>
+<s> 141 mauritania 1,395 000,000 2006 142 suriname 1,391 000,000 2006 est <\s>
+<s> 143 new caledonia 1,341 000,000 2006 144 albania 1,339 000,000 2010 est <\s>
+<s> 145 tajikistan 1,318 000,000 2010 est <\s>
+<s> 146 laos 1,215 000,000 2010 est <\s>
+<s> 147 fiji 1,202 000,000 2006 148 liberia 1,197 000,000 2006 149 malawi 1,189 000,000 2010 est <\s>
+<s> 150 benin 1,125 000,000 2010 est <\s>
+<s> 151 burkina faso 991,000 000                 2010 est <\s>
+<s> 152 lesotho 985,000 000                 2010 est <\s>
+<s> 153 macau 950,000 000                 2009 est <\s>
+<s> 154 curacao 876,000 000                 2008 est <\s>
+<s> 155 togo 859,000 000                 2010 est <\s>
+<s> 156 nepal 849,000 000                 2009 157 faroe islands 848,000 000                 2008 158 armenia 846,000 000                 2010 est <\s>
+<s> 159 guyana 814,000 000                 2010 est <\s>
+<s> 160 bermuda 763,000 000                 2006 161 monaco 716,300 000                 2005 162 bahamas the 674,000 000                 2006 163 haiti 559,000 000                 2010 est <\s>
+<s> 164 afghanistan 547,000 000                 2009 est <\s>
+<s> 165 west bank 529,000 000                 2008 166 bhutan 513,000 000                 2008 167 greenland 485,000 000                 2008 168 seychelles 464,000 000                 2010 est <\s>
+<s> 169 american samoa 445,600 000 fy04 est <\s>
+<s> 170 niger 428,000 000                 2006 171 belize 404,000 000                 2010 est <\s>
+<s> 172 barbados 385,000 000                 2006 173 somalia 300,000 000                 2006 174 mali 294,000 000                 2006 175 saint lucia 288,000 000                 2006 176 gibraltar 271,000 000                 2004 est <\s>
+<s> 177 solomon islands 237,000 000                 2006 178 rwanda 226,000 000                 2010 est <\s>
+<s> 179 sierra leone 216,000 000                 2006 180 french polynesia 211,000 000                 2005 est <\s>
+<s> 181 saint vincent and the grenadines 193,000 000                 2006 182 montenegro 171,300 000                 2003 183 turks and caicos islands 169,200 000                 2000 184 central african republic 146,700 000                 2007 est <\s>
+<s> 185 guinea-bissau 133,000 000                 2006 186 samoa 131,000 000                 2006 187 falkland islands islas malvinas 125,000 000                 2004 est <\s>
+<s> 188 aruba 124,000 000                 2006 189 anguilla 119,500 000                 2009 est <\s>
+<s> 190 cape verde 114,000 000                 2010 est <\s>
+<s> 191 gambia the 107,000 000                 2010 est <\s>
+<s> 192 djibouti 100,000 000                 2009 193 northern mariana islands 98,200 000                  2008 194 dominica 94,000 000                  2006 195 andorra 89,500 000                  2008 196 maldives 88,000 000                  2009 est <\s>
+<s> 197 antigua and barbuda 84,300 000                  2007 est <\s>
+<s> 198 saint kitts and nevis 84,000 000                  2006 199 burundi 71,000 000                  2010 est <\s>
+<s> 200 vanuatu 40,000 000                  2006 201 grenada 38,000 000                  2006 202 comoros 32,000 000                  2006 203 british virgin islands 25,300 000                  2002 204 eritrea 25,000 000                  2010 est <\s>
+<s> 205 tonga 22,000 000                  2006 206 marshall islands 19,400 000                  2008 est <\s>

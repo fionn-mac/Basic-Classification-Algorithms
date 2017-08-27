@@ -1,0 +1,400 @@
+<s> roman-dutch law serves as the basis for legal systems in seven african countries as well as guyana indonesia and sri lanka <\s>
+<s> this law system which originated in the province of holland and expanded throughout the netherlands to be replaced by the french civil code in 1809 was instituted in a number of sub-saharan african countries during the dutch colonial period <\s>
+<s> the dutch jurist philosopher hugo grotius was the first to attempt to reduce roman-dutch civil law into a system in his jurisprudence of holland written 1619-20 commentary published 1621 <\s>
+<s> the dutch historian lawyer simon van leeuwen coined the term roman-dutch law in 1652 <\s>
+<s> spanish law a type of civil law often referred to as the spanish civil code it is the present legal system of spain and is the basis of legal systems in 12 countries mostly in central and south america but also in southwestern europe northern and western africa and southeastern asia <\s>
+<s> the spanish civil code reflects a complex mixture of customary roman napoleonic local and modern codified law <\s>
+<s> the laws of the visigoth invaders of spain in the 5th to 7th centuries had the earliest major influence on spanish legal system development <\s>
+<s> the christian reconquest of spain in the 11th through 15th centuries witnessed the development of customary law which combined canon religious and roman law <\s>
+<s> during several centuries of hapsburg and bourbon rule systematic recompilations of the existing national legal system were attempted but these often conflicted with local and regional customary civil laws <\s>
+<s> legal system development for most of the 19th century concentrated on formulating a national civil law system which was finally enacted in 1889 as the spanish civil code <\s>
+<s> several sections of the code have been revised the most recent of which are the penal code in 1989 and the judiciary code in 2001 <\s>
+<s> the spanish civil code separates public and private law <\s>
+<s> public law includes constitutional law administrative law criminal law process law financial and tax law and international public law <\s>
+<s> private law includes civil law commercial law labor law and international private law <\s>
+<s> united states law a type of common law which is the basis of the legal system of the united states and that of its island possessions in the caribbean and the pacific <\s>
+<s> this legal system has several layers more possibly than in most other countries and is due in part to the division between federal and state law <\s>
+<s> the united states was founded not as one nation but as a union of 13 colonies each claiming independence from the british crown <\s>
+<s> the us constitution implemented in 1789 began shifting power away from the states and toward the federal government though the states today retain substantial legal authority <\s>
+<s> us law draws its authority from four sources constitutional law statutory law administrative regulations and case law <\s>
+<s> constitutional law is based on the us constitution and serves as the supreme federal law <\s>
+<s> taken together with those of the state constitutions these documents outline the general structure of the federal and state governments and provide the rules and limits of power <\s>
+<s> us statutory law is legislation enacted by the us congress and is codified in the united states code <\s>
+<s> the 50 state legislatures have similar authority to enact state statutes <\s>
+<s> administrative law is the authority delegated to federal and state executive agencies <\s>
+<s> case law also referred to as common law covers areas where constitutional or statutory law is lacking <\s>
+<s> case law is a collection of judicial decisions customs and general principles that began in england centuries ago that were adopted in america at the time of the revolution and that continue to develop today <\s>
+<s> rank country legal system date of information rank code 2101 country comparison :: legislative branch this entry contains information on the structure unicameral bicameral tricameral formal name number of seats and term of office <\s>
+<s> elections includes the nature of the election process or accession to power date of the last election and date of the next election <\s>
+<s> election results includes the percent of vote and or number of seats held by each party in the last election <\s>
+<s> rank country legislative branch date of information rank code 2102 country comparison :: life expectancy at birth this entry contains the average number of years to be lived by a group of people born in the same year if mortality at each age remains constant in the future <\s>
+<s> the entry includes total population as well as the male and female components <\s>
+<s> life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages <\s>
+<s> it can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures <\s>
+<s> rank country years date of information 1 monaco 89.78 2010 est <\s>
+<s> 2 macau 84.38 2010 est <\s>
+<s> 3 san marino 82.95 2010 est <\s>
+<s> 4 andorra 82.36 2010 est <\s>
+<s> 5 japan 82.17 2010 est <\s>
+<s> 6 guernsey 82.08 2010 est <\s>
+<s> 7 singapore 82.06 2010 est <\s>
+<s> 8 hong kong 81.96 2010 est <\s>
+<s> 9 australia 81.72 2010 est <\s>
+<s> 10 canada 81.29 2010 est <\s>
+<s> 11 jersey 81.28 2010 est <\s>
+<s> 12 france 81.09 2010 est <\s>
+<s> 13 spain 81.07 2010 est <\s>
+<s> 14 sweden 80.97 2010 est <\s>
+<s> 15 switzerland 80.97 2010 est <\s>
+<s> 16 israel 80.86 2010 est <\s>
+<s> 17 iceland 80.79 2010 est <\s>
+<s> 18 anguilla 80.77 2010 est <\s>
+<s> 19 bermuda 80.60 2010 est <\s>
+<s> 20 cayman islands 80.57 2010 est <\s>
+<s> 21 isle of man 80.53 2010 est <\s>
+<s> 22 new zealand 80.48 2010 est <\s>
+<s> 23 italy 80.33 2010 est <\s>
+<s> 24 liechtenstein 80.19 2010 est <\s>
+<s> 25 norway 80.08 2010 est <\s>
+<s> 26 ireland 80.07 2010 est <\s>
+<s> 27 jordan 79.92 2010 est <\s>
+<s> 28 united kingdom 79.92 2010 est <\s>
+<s> 29 greece 79.80 2010 est <\s>
+<s> 30 saint pierre and miquelon 79.74 2010 est <\s>
+<s> 31 austria 79.65 2010 est <\s>
+<s> 32 malta 79.59 2010 est <\s>
+<s> 33 faroe islands 79.58 2010 est <\s>
+<s> 34 netherlands 79.55 2010 est <\s>
+<s> 35 luxembourg 79.48 2010 est <\s>
+<s> 36 germany 79.41 2010 est <\s>
+<s> 37 belgium 79.37 2010 est <\s>
+<s> 38 virgin islands 79.19 2010 est <\s>
+<s> 39 finland 79.13 2010 est <\s>
+<s> 40 wallis and futuna 78.83 2010 est <\s>
+<s> 41 european union 78.82 2010 est <\s>
+<s> 42 korea south 78.81 2010 est <\s>
+<s> 43 puerto rico 78.77 2010 est <\s>
+<s> 44 bosnia and herzegovina 78.66 2010 est <\s>
+<s> 45 saint helena ascension and tristan da cunha 78.60 2010 est <\s>
+<s> 46 gibraltar 78.53 2010 est <\s>
+<s> 47 denmark 78.47 2010 est <\s>
+<s> 48 portugal 78.38 2010 est <\s>
+<s> 49 united states 78.24 2010 est <\s>
+<s> 50 taiwan 78.15 2010 est <\s>
+<s> 51 kuwait 77.89 2010 est <\s>
+<s> 52 cyprus 77.66 2010 est <\s>
+<s> 53 cuba 77.64 2010 est <\s>
+<s> 54 panama 77.61 2010 est <\s>
+<s> 55 costa rica 77.54 2010 est <\s>
+<s> 56 chile 77.53 2010 est <\s>
+<s> 57 libya 77.47 2010 est <\s>
+<s> 58 british virgin islands 77.45 2010 est <\s>
+<s> 59 albania 77.22 2010 est <\s>
+<s> 60 dominican republic 77.15 2010 est <\s>
+<s> 61 slovenia 77.12 2010 est <\s>
+<s> 62 czech republic 77.01 2010 est <\s>
+<s> 63 georgia 76.93 2010 est <\s>
+<s> 64 french polynesia 76.91 2010 est <\s>
+<s> 65 northern mariana islands 76.90 2010 est <\s>
+<s> 66 argentina 76.76 2010 est <\s>
+<s> 67 saint lucia 76.65 2010 est <\s>
+<s> roman-dutch law serves as the basis for legal systems in seven african countries as well as guyana indonesia and sri lanka <\s>
+<s> this law system which originated in the province of holland and expanded throughout the netherlands to be replaced by the french civil code in 1809 was instituted in a number of sub-saharan african countries during the dutch colonial period <\s>
+<s> the dutch jurist philosopher hugo grotius was the first to attempt to reduce roman-dutch civil law into a system in his jurisprudence of holland written 1619-20 commentary published 1621 <\s>
+<s> the dutch historian lawyer simon van leeuwen coined the term roman-dutch law in 1652 <\s>
+<s> spanish law a type of civil law often referred to as the spanish civil code it is the present legal system of spain and is the basis of legal systems in 12 countries mostly in central and south america but also in southwestern europe northern and western africa and southeastern asia <\s>
+<s> the spanish civil code reflects a complex mixture of customary roman napoleonic local and modern codified law <\s>
+<s> the laws of the visigoth invaders of spain in the 5th to 7th centuries had the earliest major influence on spanish legal system development <\s>
+<s> the christian reconquest of spain in the 11th through 15th centuries witnessed the development of customary law which combined canon religious and roman law <\s>
+<s> during several centuries of hapsburg and bourbon rule systematic recompilations of the existing national legal system were attempted but these often conflicted with local and regional customary civil laws <\s>
+<s> legal system development for most of the 19th century concentrated on formulating a national civil law system which was finally enacted in 1889 as the spanish civil code <\s>
+<s> several sections of the code have been revised the most recent of which are the penal code in 1989 and the judiciary code in 2001 <\s>
+<s> the spanish civil code separates public and private law <\s>
+<s> public law includes constitutional law administrative law criminal law process law financial and tax law and international public law <\s>
+<s> private law includes civil law commercial law labor law and international private law <\s>
+<s> united states law a type of common law which is the basis of the legal system of the united states and that of its island possessions in the caribbean and the pacific <\s>
+<s> this legal system has several layers more possibly than in most other countries and is due in part to the division between federal and state law <\s>
+<s> the united states was founded not as one nation but as a union of 13 colonies each claiming independence from the british crown <\s>
+<s> the us constitution implemented in 1789 began shifting power away from the states and toward the federal government though the states today retain substantial legal authority <\s>
+<s> us law draws its authority from four sources constitutional law statutory law administrative regulations and case law <\s>
+<s> constitutional law is based on the us constitution and serves as the supreme federal law <\s>
+<s> taken together with those of the state constitutions these documents outline the general structure of the federal and state governments and provide the rules and limits of power <\s>
+<s> us statutory law is legislation enacted by the us congress and is codified in the united states code <\s>
+<s> the 50 state legislatures have similar authority to enact state statutes <\s>
+<s> administrative law is the authority delegated to federal and state executive agencies <\s>
+<s> case law also referred to as common law covers areas where constitutional or statutory law is lacking <\s>
+<s> case law is a collection of judicial decisions customs and general principles that began in england centuries ago that were adopted in america at the time of the revolution and that continue to develop today <\s>
+<s> rank country legal system date of information rank code 2101 country comparison :: legislative branch this entry contains information on the structure unicameral bicameral tricameral formal name number of seats and term of office <\s>
+<s> elections includes the nature of the election process or accession to power date of the last election and date of the next election <\s>
+<s> election results includes the percent of vote and or number of seats held by each party in the last election <\s>
+<s> rank country legislative branch date of information rank code 2102 country comparison :: life expectancy at birth this entry contains the average number of years to be lived by a group of people born in the same year if mortality at each age remains constant in the future <\s>
+<s> the entry includes total population as well as the male and female components <\s>
+<s> life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages <\s>
+<s> it can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures <\s>
+<s> rank country years date of information 1 monaco 89.78 2010 est <\s>
+<s> 2 macau 84.38 2010 est <\s>
+<s> 3 san marino 82.95 2010 est <\s>
+<s> 4 andorra 82.36 2010 est <\s>
+<s> 5 japan 82.17 2010 est <\s>
+<s> 6 guernsey 82.08 2010 est <\s>
+<s> 7 singapore 82.06 2010 est <\s>
+<s> 8 hong kong 81.96 2010 est <\s>
+<s> 9 australia 81.72 2010 est <\s>
+<s> 10 canada 81.29 2010 est <\s>
+<s> 11 jersey 81.28 2010 est <\s>
+<s> 12 france 81.09 2010 est <\s>
+<s> 13 spain 81.07 2010 est <\s>
+<s> 14 sweden 80.97 2010 est <\s>
+<s> 15 switzerland 80.97 2010 est <\s>
+<s> 16 israel 80.86 2010 est <\s>
+<s> 17 iceland 80.79 2010 est <\s>
+<s> 18 anguilla 80.77 2010 est <\s>
+<s> 19 bermuda 80.60 2010 est <\s>
+<s> 20 cayman islands 80.57 2010 est <\s>
+<s> 21 isle of man 80.53 2010 est <\s>
+<s> 22 new zealand 80.48 2010 est <\s>
+<s> 23 italy 80.33 2010 est <\s>
+<s> 24 liechtenstein 80.19 2010 est <\s>
+<s> 25 norway 80.08 2010 est <\s>
+<s> 26 ireland 80.07 2010 est <\s>
+<s> 27 jordan 79.92 2010 est <\s>
+<s> 28 united kingdom 79.92 2010 est <\s>
+<s> 29 greece 79.80 2010 est <\s>
+<s> 30 saint pierre and miquelon 79.74 2010 est <\s>
+<s> 31 austria 79.65 2010 est <\s>
+<s> 32 malta 79.59 2010 est <\s>
+<s> 33 faroe islands 79.58 2010 est <\s>
+<s> 34 netherlands 79.55 2010 est <\s>
+<s> 35 luxembourg 79.48 2010 est <\s>
+<s> 36 germany 79.41 2010 est <\s>
+<s> 37 belgium 79.37 2010 est <\s>
+<s> 38 virgin islands 79.19 2010 est <\s>
+<s> 39 finland 79.13 2010 est <\s>
+<s> 40 wallis and futuna 78.83 2010 est <\s>
+<s> 41 european union 78.82 2010 est <\s>
+<s> 42 korea south 78.81 2010 est <\s>
+<s> 43 puerto rico 78.77 2010 est <\s>
+<s> 44 bosnia and herzegovina 78.66 2010 est <\s>
+<s> 45 saint helena ascension and tristan da cunha 78.60 2010 est <\s>
+<s> 46 gibraltar 78.53 2010 est <\s>
+<s> 47 denmark 78.47 2010 est <\s>
+<s> 48 portugal 78.38 2010 est <\s>
+<s> 49 united states 78.24 2010 est <\s>
+<s> 50 taiwan 78.15 2010 est <\s>
+<s> 51 kuwait 77.89 2010 est <\s>
+<s> 52 cyprus 77.66 2010 est <\s>
+<s> 53 cuba 77.64 2010 est <\s>
+<s> 54 panama 77.61 2010 est <\s>
+<s> 55 costa rica 77.54 2010 est <\s>
+<s> 56 chile 77.53 2010 est <\s>
+<s> 57 libya 77.47 2010 est <\s>
+<s> 58 british virgin islands 77.45 2010 est <\s>
+<s> 59 albania 77.22 2010 est <\s>
+<s> 60 dominican republic 77.15 2010 est <\s>
+<s> 61 slovenia 77.12 2010 est <\s>
+<s> 62 czech republic 77.01 2010 est <\s>
+<s> 63 georgia 76.93 2010 est <\s>
+<s> 64 french polynesia 76.91 2010 est <\s>
+<s> 65 northern mariana islands 76.90 2010 est <\s>
+<s> 66 argentina 76.76 2010 est <\s>
+<s> 67 saint lucia 76.65 2010 est <\s>
+<s> roman-dutch law serves as the basis for legal systems in seven african countries as well as guyana indonesia and sri lanka <\s>
+<s> this law system which originated in the province of holland and expanded throughout the netherlands to be replaced by the french civil code in 1809 was instituted in a number of sub-saharan african countries during the dutch colonial period <\s>
+<s> the dutch jurist philosopher hugo grotius was the first to attempt to reduce roman-dutch civil law into a system in his jurisprudence of holland written 1619-20 commentary published 1621 <\s>
+<s> the dutch historian lawyer simon van leeuwen coined the term roman-dutch law in 1652 <\s>
+<s> spanish law a type of civil law often referred to as the spanish civil code it is the present legal system of spain and is the basis of legal systems in 12 countries mostly in central and south america but also in southwestern europe northern and western africa and southeastern asia <\s>
+<s> the spanish civil code reflects a complex mixture of customary roman napoleonic local and modern codified law <\s>
+<s> the laws of the visigoth invaders of spain in the 5th to 7th centuries had the earliest major influence on spanish legal system development <\s>
+<s> the christian reconquest of spain in the 11th through 15th centuries witnessed the development of customary law which combined canon religious and roman law <\s>
+<s> during several centuries of hapsburg and bourbon rule systematic recompilations of the existing national legal system were attempted but these often conflicted with local and regional customary civil laws <\s>
+<s> legal system development for most of the 19th century concentrated on formulating a national civil law system which was finally enacted in 1889 as the spanish civil code <\s>
+<s> several sections of the code have been revised the most recent of which are the penal code in 1989 and the judiciary code in 2001 <\s>
+<s> the spanish civil code separates public and private law <\s>
+<s> public law includes constitutional law administrative law criminal law process law financial and tax law and international public law <\s>
+<s> private law includes civil law commercial law labor law and international private law <\s>
+<s> united states law a type of common law which is the basis of the legal system of the united states and that of its island possessions in the caribbean and the pacific <\s>
+<s> this legal system has several layers more possibly than in most other countries and is due in part to the division between federal and state law <\s>
+<s> the united states was founded not as one nation but as a union of 13 colonies each claiming independence from the british crown <\s>
+<s> the us constitution implemented in 1789 began shifting power away from the states and toward the federal government though the states today retain substantial legal authority <\s>
+<s> us law draws its authority from four sources constitutional law statutory law administrative regulations and case law <\s>
+<s> constitutional law is based on the us constitution and serves as the supreme federal law <\s>
+<s> taken together with those of the state constitutions these documents outline the general structure of the federal and state governments and provide the rules and limits of power <\s>
+<s> us statutory law is legislation enacted by the us congress and is codified in the united states code <\s>
+<s> the 50 state legislatures have similar authority to enact state statutes <\s>
+<s> administrative law is the authority delegated to federal and state executive agencies <\s>
+<s> case law also referred to as common law covers areas where constitutional or statutory law is lacking <\s>
+<s> case law is a collection of judicial decisions customs and general principles that began in england centuries ago that were adopted in america at the time of the revolution and that continue to develop today <\s>
+<s> rank country legal system date of information rank code 2101 country comparison :: legislative branch this entry contains information on the structure unicameral bicameral tricameral formal name number of seats and term of office <\s>
+<s> elections includes the nature of the election process or accession to power date of the last election and date of the next election <\s>
+<s> election results includes the percent of vote and or number of seats held by each party in the last election <\s>
+<s> rank country legislative branch date of information rank code 2102 country comparison :: life expectancy at birth this entry contains the average number of years to be lived by a group of people born in the same year if mortality at each age remains constant in the future <\s>
+<s> the entry includes total population as well as the male and female components <\s>
+<s> life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages <\s>
+<s> it can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures <\s>
+<s> rank country years date of information 1 monaco 89.78 2010 est <\s>
+<s> 2 macau 84.38 2010 est <\s>
+<s> 3 san marino 82.95 2010 est <\s>
+<s> 4 andorra 82.36 2010 est <\s>
+<s> 5 japan 82.17 2010 est <\s>
+<s> 6 guernsey 82.08 2010 est <\s>
+<s> 7 singapore 82.06 2010 est <\s>
+<s> 8 hong kong 81.96 2010 est <\s>
+<s> 9 australia 81.72 2010 est <\s>
+<s> 10 canada 81.29 2010 est <\s>
+<s> 11 jersey 81.28 2010 est <\s>
+<s> 12 france 81.09 2010 est <\s>
+<s> 13 spain 81.07 2010 est <\s>
+<s> 14 sweden 80.97 2010 est <\s>
+<s> 15 switzerland 80.97 2010 est <\s>
+<s> 16 israel 80.86 2010 est <\s>
+<s> 17 iceland 80.79 2010 est <\s>
+<s> 18 anguilla 80.77 2010 est <\s>
+<s> 19 bermuda 80.60 2010 est <\s>
+<s> 20 cayman islands 80.57 2010 est <\s>
+<s> 21 isle of man 80.53 2010 est <\s>
+<s> 22 new zealand 80.48 2010 est <\s>
+<s> 23 italy 80.33 2010 est <\s>
+<s> 24 liechtenstein 80.19 2010 est <\s>
+<s> 25 norway 80.08 2010 est <\s>
+<s> 26 ireland 80.07 2010 est <\s>
+<s> 27 jordan 79.92 2010 est <\s>
+<s> 28 united kingdom 79.92 2010 est <\s>
+<s> 29 greece 79.80 2010 est <\s>
+<s> 30 saint pierre and miquelon 79.74 2010 est <\s>
+<s> 31 austria 79.65 2010 est <\s>
+<s> 32 malta 79.59 2010 est <\s>
+<s> 33 faroe islands 79.58 2010 est <\s>
+<s> 34 netherlands 79.55 2010 est <\s>
+<s> 35 luxembourg 79.48 2010 est <\s>
+<s> 36 germany 79.41 2010 est <\s>
+<s> 37 belgium 79.37 2010 est <\s>
+<s> 38 virgin islands 79.19 2010 est <\s>
+<s> 39 finland 79.13 2010 est <\s>
+<s> 40 wallis and futuna 78.83 2010 est <\s>
+<s> 41 european union 78.82 2010 est <\s>
+<s> 42 korea south 78.81 2010 est <\s>
+<s> 43 puerto rico 78.77 2010 est <\s>
+<s> 44 bosnia and herzegovina 78.66 2010 est <\s>
+<s> 45 saint helena ascension and tristan da cunha 78.60 2010 est <\s>
+<s> 46 gibraltar 78.53 2010 est <\s>
+<s> 47 denmark 78.47 2010 est <\s>
+<s> 48 portugal 78.38 2010 est <\s>
+<s> 49 united states 78.24 2010 est <\s>
+<s> 50 taiwan 78.15 2010 est <\s>
+<s> 51 kuwait 77.89 2010 est <\s>
+<s> 52 cyprus 77.66 2010 est <\s>
+<s> 53 cuba 77.64 2010 est <\s>
+<s> 54 panama 77.61 2010 est <\s>
+<s> 55 costa rica 77.54 2010 est <\s>
+<s> 56 chile 77.53 2010 est <\s>
+<s> 57 libya 77.47 2010 est <\s>
+<s> 58 british virgin islands 77.45 2010 est <\s>
+<s> 59 albania 77.22 2010 est <\s>
+<s> 60 dominican republic 77.15 2010 est <\s>
+<s> 61 slovenia 77.12 2010 est <\s>
+<s> 62 czech republic 77.01 2010 est <\s>
+<s> 63 georgia 76.93 2010 est <\s>
+<s> 64 french polynesia 76.91 2010 est <\s>
+<s> 65 northern mariana islands 76.90 2010 est <\s>
+<s> 66 argentina 76.76 2010 est <\s>
+<s> 67 saint lucia 76.65 2010 est <\s>
+<s> roman-dutch law serves as the basis for legal systems in seven african countries as well as guyana indonesia and sri lanka <\s>
+<s> this law system which originated in the province of holland and expanded throughout the netherlands to be replaced by the french civil code in 1809 was instituted in a number of sub-saharan african countries during the dutch colonial period <\s>
+<s> the dutch jurist philosopher hugo grotius was the first to attempt to reduce roman-dutch civil law into a system in his jurisprudence of holland written 1619-20 commentary published 1621 <\s>
+<s> the dutch historian lawyer simon van leeuwen coined the term roman-dutch law in 1652 <\s>
+<s> spanish law a type of civil law often referred to as the spanish civil code it is the present legal system of spain and is the basis of legal systems in 12 countries mostly in central and south america but also in southwestern europe northern and western africa and southeastern asia <\s>
+<s> the spanish civil code reflects a complex mixture of customary roman napoleonic local and modern codified law <\s>
+<s> the laws of the visigoth invaders of spain in the 5th to 7th centuries had the earliest major influence on spanish legal system development <\s>
+<s> the christian reconquest of spain in the 11th through 15th centuries witnessed the development of customary law which combined canon religious and roman law <\s>
+<s> during several centuries of hapsburg and bourbon rule systematic recompilations of the existing national legal system were attempted but these often conflicted with local and regional customary civil laws <\s>
+<s> legal system development for most of the 19th century concentrated on formulating a national civil law system which was finally enacted in 1889 as the spanish civil code <\s>
+<s> several sections of the code have been revised the most recent of which are the penal code in 1989 and the judiciary code in 2001 <\s>
+<s> the spanish civil code separates public and private law <\s>
+<s> public law includes constitutional law administrative law criminal law process law financial and tax law and international public law <\s>
+<s> private law includes civil law commercial law labor law and international private law <\s>
+<s> united states law a type of common law which is the basis of the legal system of the united states and that of its island possessions in the caribbean and the pacific <\s>
+<s> this legal system has several layers more possibly than in most other countries and is due in part to the division between federal and state law <\s>
+<s> the united states was founded not as one nation but as a union of 13 colonies each claiming independence from the british crown <\s>
+<s> the us constitution implemented in 1789 began shifting power away from the states and toward the federal government though the states today retain substantial legal authority <\s>
+<s> us law draws its authority from four sources constitutional law statutory law administrative regulations and case law <\s>
+<s> constitutional law is based on the us constitution and serves as the supreme federal law <\s>
+<s> taken together with those of the state constitutions these documents outline the general structure of the federal and state governments and provide the rules and limits of power <\s>
+<s> us statutory law is legislation enacted by the us congress and is codified in the united states code <\s>
+<s> the 50 state legislatures have similar authority to enact state statutes <\s>
+<s> administrative law is the authority delegated to federal and state executive agencies <\s>
+<s> case law also referred to as common law covers areas where constitutional or statutory law is lacking <\s>
+<s> case law is a collection of judicial decisions customs and general principles that began in england centuries ago that were adopted in america at the time of the revolution and that continue to develop today <\s>
+<s> rank country legal system date of information rank code 2101 country comparison :: legislative branch this entry contains information on the structure unicameral bicameral tricameral formal name number of seats and term of office <\s>
+<s> elections includes the nature of the election process or accession to power date of the last election and date of the next election <\s>
+<s> election results includes the percent of vote and or number of seats held by each party in the last election <\s>
+<s> rank country legislative branch date of information rank code 2102 country comparison :: life expectancy at birth this entry contains the average number of years to be lived by a group of people born in the same year if mortality at each age remains constant in the future <\s>
+<s> the entry includes total population as well as the male and female components <\s>
+<s> life expectancy at birth is also a measure of overall quality of life in a country and summarizes the mortality at all ages <\s>
+<s> it can also be thought of as indicating the potential return on investment in human capital and is necessary for the calculation of various actuarial measures <\s>
+<s> rank country years date of information 1 monaco 89.78 2010 est <\s>
+<s> 2 macau 84.38 2010 est <\s>
+<s> 3 san marino 82.95 2010 est <\s>
+<s> 4 andorra 82.36 2010 est <\s>
+<s> 5 japan 82.17 2010 est <\s>
+<s> 6 guernsey 82.08 2010 est <\s>
+<s> 7 singapore 82.06 2010 est <\s>
+<s> 8 hong kong 81.96 2010 est <\s>
+<s> 9 australia 81.72 2010 est <\s>
+<s> 10 canada 81.29 2010 est <\s>
+<s> 11 jersey 81.28 2010 est <\s>
+<s> 12 france 81.09 2010 est <\s>
+<s> 13 spain 81.07 2010 est <\s>
+<s> 14 sweden 80.97 2010 est <\s>
+<s> 15 switzerland 80.97 2010 est <\s>
+<s> 16 israel 80.86 2010 est <\s>
+<s> 17 iceland 80.79 2010 est <\s>
+<s> 18 anguilla 80.77 2010 est <\s>
+<s> 19 bermuda 80.60 2010 est <\s>
+<s> 20 cayman islands 80.57 2010 est <\s>
+<s> 21 isle of man 80.53 2010 est <\s>
+<s> 22 new zealand 80.48 2010 est <\s>
+<s> 23 italy 80.33 2010 est <\s>
+<s> 24 liechtenstein 80.19 2010 est <\s>
+<s> 25 norway 80.08 2010 est <\s>
+<s> 26 ireland 80.07 2010 est <\s>
+<s> 27 jordan 79.92 2010 est <\s>
+<s> 28 united kingdom 79.92 2010 est <\s>
+<s> 29 greece 79.80 2010 est <\s>
+<s> 30 saint pierre and miquelon 79.74 2010 est <\s>
+<s> 31 austria 79.65 2010 est <\s>
+<s> 32 malta 79.59 2010 est <\s>
+<s> 33 faroe islands 79.58 2010 est <\s>
+<s> 34 netherlands 79.55 2010 est <\s>
+<s> 35 luxembourg 79.48 2010 est <\s>
+<s> 36 germany 79.41 2010 est <\s>
+<s> 37 belgium 79.37 2010 est <\s>
+<s> 38 virgin islands 79.19 2010 est <\s>
+<s> 39 finland 79.13 2010 est <\s>
+<s> 40 wallis and futuna 78.83 2010 est <\s>
+<s> 41 european union 78.82 2010 est <\s>
+<s> 42 korea south 78.81 2010 est <\s>
+<s> 43 puerto rico 78.77 2010 est <\s>
+<s> 44 bosnia and herzegovina 78.66 2010 est <\s>
+<s> 45 saint helena ascension and tristan da cunha 78.60 2010 est <\s>
+<s> 46 gibraltar 78.53 2010 est <\s>
+<s> 47 denmark 78.47 2010 est <\s>
+<s> 48 portugal 78.38 2010 est <\s>
+<s> 49 united states 78.24 2010 est <\s>
+<s> 50 taiwan 78.15 2010 est <\s>
+<s> 51 kuwait 77.89 2010 est <\s>
+<s> 52 cyprus 77.66 2010 est <\s>
+<s> 53 cuba 77.64 2010 est <\s>
+<s> 54 panama 77.61 2010 est <\s>
+<s> 55 costa rica 77.54 2010 est <\s>
+<s> 56 chile 77.53 2010 est <\s>
+<s> 57 libya 77.47 2010 est <\s>
+<s> 58 british virgin islands 77.45 2010 est <\s>
+<s> 59 albania 77.22 2010 est <\s>
+<s> 60 dominican republic 77.15 2010 est <\s>
+<s> 61 slovenia 77.12 2010 est <\s>
+<s> 62 czech republic 77.01 2010 est <\s>
+<s> 63 georgia 76.93 2010 est <\s>
+<s> 64 french polynesia 76.91 2010 est <\s>
+<s> 65 northern mariana islands 76.90 2010 est <\s>
+<s> 66 argentina 76.76 2010 est <\s>
+<s> 67 saint lucia 76.65 2010 est <\s>

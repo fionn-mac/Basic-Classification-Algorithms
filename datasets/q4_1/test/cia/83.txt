@@ -1,0 +1,2200 @@
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>
+<s> 99 iran 1.25 2010 est <\s>
+<s> 100 bahrain 1.24 2010 est <\s>
+<s> 101 bhutan 1.24 2010 est <\s>
+<s> 102 swaziland 1.21 2010 est <\s>
+<s> 103 american samoa 1.21 2010 est <\s>
+<s> 104 peru 1.19 2010 est <\s>
+<s> 105 colombia 1.18 2010 est <\s>
+<s> 106 algeria 1.18 2010 est <\s>
+<s> 107 australia 1.17 2010 est <\s>
+<s> 108 brazil 1.17 2010 est <\s>
+<s> 109 luxembourg 1.16 2010 est <\s>
+<s> 110 turkmenistan 1.14 2010 est <\s>
+<s> 111 world 1.13 2009 est <\s>
+<s> 112 mexico 1.12 2010 est <\s>
+<s> 113 suriname 1.11 2010 est <\s>
+<s> 114 san marino 1.11 2010 est <\s>
+<s> 115 indonesia 1.10 2010 est <\s>
+<s> 116 burma 1.10 2010 est <\s>
+<s> 117 vietnam 1.10 2010 est <\s>
+<s> 118 morocco 1.08 2010 est <\s>
+<s> 119 argentina 1.04 2010 est <\s>
+<s> 120 ireland 1.01 2010 est <\s>
+<s> 121 united states 0.97 2010 est <\s>
+<s> 122 tunisia 0.97 2010 est <\s>
+<s> 123 isle of man 0.97 2010 est <\s>
+<s> 124 seychelles 0.97 2010 est <\s>
+<s> 125 uzbekistan 0.94 2010 est <\s>
+<s> 126 bahamas the 0.94 2010 est <\s>
+<s> 127 namibia 0.91 2010 est <\s>
+<s> 128 new zealand 0.90 2010 est <\s>
+<s> 129 macau 0.89 2010 est <\s>
+<s> 130 qatar 0.87 2010 est <\s>
+<s> 131 singapore 0.86 2010 est <\s>
+<s> 132 sri lanka 0.86 2010 est <\s>
+<s> 133 jersey 0.86 2010 est <\s>
+<s> 134 chile 0.86 2010 est <\s>
+<s> 135 saint kitts and nevis 0.84 2010 est <\s>
+<s> 136 fiji 0.83 2010 est <\s>
+<s> 137 azerbaijan 0.81 2010 est <\s>
+<s> 138 canada 0.80 2010 est <\s>
+<s> 139 haiti 0.79 2011 est <\s>
+<s> 140 mauritius 0.75 2010 est <\s>
+<s> 141 jamaica 0.75 2010 est <\s>
+<s> 142 iceland 0.70 2010 est <\s>
+<s> 143 liechtenstein 0.68 2010 est <\s>
+<s> 144 tuvalu 0.66 2010 est <\s>
+<s> 145 thailand 0.65 2010 est <\s>
+<s> 146 lebanon 0.62 2010 est <\s>
+<s> 147 bermuda 0.62 2010 est <\s>
+<s> 148 samoa 0.61 2010 est <\s>
+<s> 149 nauru 0.59 2010 est <\s>
+<s> 150 grenada 0.56 2010 est <\s>
+<s> 151 united kingdom 0.56 2010 est <\s>
+<s> 152 france 0.53 2010 est <\s>
+<s> 153 china 0.49 2010 est <\s>
+<s> 154 spain 0.49 2010 est <\s>
+<s> 155 hong kong 0.48 2010 est <\s>
+<s> 156 guernsey 0.47 2010 est <\s>
+<s> 157 uruguay 0.45 2010 est <\s>
+<s> 158 faroe islands 0.42 2010 est <\s>
+<s> 159 saint helena ascension and tristan da cunha 0.40 2010 est <\s>
+<s> 160 kazakhstan 0.40 2010 est <\s>
+<s> 161 saint lucia 0.40 2010 est <\s>
+<s> 162 malta 0.39 2010 est <\s>
+<s> 163 montserrat 0.39 2010 est <\s>
+<s> 164 netherlands 0.39 2010 est <\s>
+<s> 165 korea north 0.39 2010 est <\s>
+<s> 166 andorra 0.38 2010 est <\s>
+<s> 167 barbados 0.37 2010 est <\s>
+<s> 168 palau 0.37 2010 est <\s>
+<s> 169 wallis and futuna 0.37 2010 est <\s>
+<s> 170 norway 0.33 2010 est <\s>
+<s> 171 el salvador 0.33 2010 est <\s>
+<s> 172 lesotho 0.28 2010 est <\s>
+<s> 173 gibraltar 0.27 2010 est <\s>
+<s> 174 puerto rico 0.27 2010 est <\s>
+<s> 175 denmark 0.27 2010 est <\s>
+<s> 176 korea south 0.26 2010 est <\s>
+<s> 177 macedonia 0.26 2010 est <\s>
+<s> 178 albania 0.25 2010 est <\s>
+<s> 179 portugal 0.24 2010 est <\s>
+<s> 180 switzerland 0.22 2010 est <\s>
+<s> 181 cuba 0.22 2010 est <\s>
+<s> 182 dominica 0.21 2010 est <\s>
+<s> 183 taiwan 0.21 2010 est <\s>
+<s> 184 sweden 0.16 2010 est <\s>
+<s> 185 slovakia 0.13 2010 est <\s>
+<s> 186 greece 0.11 2010 est <\s>
+<s> 187 finland 0.08 2010 est <\s>
+<s> 188 belgium 0.08 2010 est <\s>
+<s> 189 greenland 0.06 2010 est <\s>
+<s> 190 austria 0.04 2010 est <\s>
+<s> 191 armenia 0.02 2010 est <\s>
+<s> 192 bosnia and herzegovina 0.02 2010 est <\s>
+<s> 193 falkland islands islas malvinas 0.01 2009 est <\s>
+<s> 194 norfolk island 0.01 2010 est <\s>
+<s> 195 holy see vatican city 0.00 2010 est <\s>
+<s> 196 christmas island 0.00 2010 est <\s>
+<s> 197 cocos keeling islands 0.00 2010 est <\s>
+<s> 198 pitcairn islands 0.00 2010 est <\s>

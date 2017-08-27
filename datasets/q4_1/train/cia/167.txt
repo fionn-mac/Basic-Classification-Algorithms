@@ -1,0 +1,1000 @@
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>
+<s> 113 tajikistan 0 2009 est <\s>
+<s> 114 syria 0 2008 est <\s>
+<s> 115 switzerland 0 2008 est <\s>
+<s> 116 sweden 0 2008 est <\s>
+<s> 117 swaziland 0 2008 est <\s>
+<s> 118 suriname 0 2008 est <\s>
+<s> 119 sudan 0 2008 est <\s>
+<s> 120 sri lanka 0 2008 est <\s>
+<s> 121 south africa 0 2008 est <\s>
+<s> 122 somalia 0 2008 est <\s>
+<s> 123 solomon islands 0 2008 est <\s>
+<s> 124 slovenia 0 2009 est <\s>
+<s> 125 singapore 0 2008 est <\s>
+<s> 126 sierra leone 0 2008 est <\s>
+<s> 127 seychelles 0 2008 est <\s>
+<s> 128 serbia 0 2008 est <\s>
+<s> 129 senegal 0 2008 est <\s>
+<s> 130 saudi arabia 0 2008 est <\s>
+<s> 131 sao tome and principe 0 2008 est <\s>
+<s> 132 samoa 0 2008 est <\s>
+<s> 133 saint vincent and the grenadines 0 2008 est <\s>
+<s> 134 saint pierre and miquelon 0 2008 est <\s>
+<s> 135 saint lucia 0 2008 est <\s>
+<s> 136 saint kitts and nevis 0 2008 est <\s>
+<s> 137 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 138 rwanda 0 2008 est <\s>
+<s> 139 romania 0 2008 est <\s>
+<s> 140 puerto rico 0 2008 est <\s>
+<s> 141 portugal 0 2008 est <\s>
+<s> 142 philippines 0 2008 est <\s>
+<s> 143 paraguay 0 2009 est <\s>
+<s> 144 papua new guinea 0 2008 est <\s>
+<s> 145 panama 0 2008 est <\s>
+<s> 146 pakistan 0 2008 est <\s>
+<s> 147 niue 0 2008 est <\s>
+<s> 148 niger 0 2008 est <\s>
+<s> 149 nicaragua 0 2008 est <\s>
+<s> 150 mauritius 0 2008 est <\s>
+<s> 151 mauritania 0 2008 est <\s>
+<s> 152 malta 0 2009 est <\s>
+<s> 153 mali 0 2008 est <\s>
+<s> 154 maldives 0 2009 est <\s>
+<s> 155 malawi 0 2008 est <\s>
+<s> 156 madagascar 0 2008 est <\s>
+<s> 157 macedonia 0 2009 est <\s>
+<s> 158 macau 0 2009 est <\s>
+<s> 159 luxembourg 0 2008 est <\s>
+<s> 160 lithuania 0 2008 est <\s>
+<s> 161 liberia 0 2008 est <\s>
+<s> 162 lesotho 0 2008 est <\s>
+<s> 163 lebanon 0 2009 est <\s>
+<s> 164 latvia 0 2008 est <\s>
+<s> 165 laos 0 2008 est <\s>
+<s> 166 israel 0 2008 est <\s>
+<s> 167 ireland 0 2008 est <\s>
+<s> 168 iraq 0 2008 est <\s>
+<s> 169 india 0 2008 est <\s>
+<s> 170 iceland 0 2008 est <\s>
+<s> 171 hong kong 0 2009 est <\s>
+<s> 172 honduras 0 2008 est <\s>
+<s> 173 haiti 0 2008 est <\s>
+<s> 174 georgia 0 2008 est <\s>
+<s> 175 gambia the 0 2008 est <\s>
+<s> 176 gabon 0 2008 est <\s>
+<s> 177 french polynesia 0 2008 est <\s>
+<s> 178 finland 0 2008 est <\s>
+<s> 179 fiji 0 2008 est <\s>
+<s> 180 faroe islands 0 2008 181 falkland islands islas malvinas 0 2008 est <\s>
+<s> 182 cote d'ivoire 0 2008 est <\s>
+<s> 183 costa rica 0 2008 est <\s>
+<s> 184 cook islands 0 2008 est <\s>
+<s> 185 congo republic of the 0 2008 est <\s>
+<s> 186 congo democratic republic of the 0 2008 est <\s>
+<s> 187 comoros 0 2008 est <\s>
+<s> 188 chile 0 2008 est <\s>
+<s> 189 chad 0 2008 est <\s>
+<s> 190 cyprus 0 2008 est <\s>
+<s> 191 central african republic 0 2008 est <\s>
+<s> 192 cayman islands 0 2008 est <\s>
+<s> 193 cape verde 0 2008 est <\s>
+<s> 194 cameroon 0 2008 est <\s>
+<s> 195 cambodia 0 2008 est <\s>
+<s> 196 burundi 0 2008 est <\s>
+<s> 197 burkina faso 0 2008 est <\s>
+<s> 198 bulgaria 0 2008 199 bangladesh 0 2008 est <\s>
+<s> 200 bahamas the 0 2008 est <\s>
+<s> 201 armenia 0 2008 est <\s>
+<s> 202 aruba 0 2008 est <\s>
+<s> 203 antigua and barbuda 0 2008 est <\s>
+<s> 204 angola 0 2008 est <\s>
+<s> 205 albania 0 2008 est <\s>
+<s> rank code 2184 country comparison :: internet hosts this entry lists the number of internet hosts available within a country <\s>
+<s> an internet host is a computer connected directly to the internet normally an internet service provider's isp computer is a host <\s>
+<s> internet users may use either a hard-wired terminal at an institution with a mainframe computer connected directly to the internet or may connect remotely by way of a modem via telephone line cable or satellite to the internet service provider's host computer <\s>
+<s> the number of hosts is one indicator of the extent of internet connectivity <\s>
+<s> rank country internet hosts date of information 1 united states 439,000 000 na 2 japan 54,846 000                    2010 3 italy 23,160 000                    2010 4 germany 21,729 000                    2010 5 brazil 19,316 000                    2010 6 china 15,251 000                    2010 7 france 15,182 000                    2010 8 australia 13,361 000                    2010 9 mexico 12,854 000                    2010 10 netherlands 12,607 000                    2010 11 poland 10,510 000                    2010 12 russia 10,382 000                    2010 13 canada 7,770 000                     2010 14 united kingdom 7,030 000                     2010 15 taiwan 6,336 000                     2010 16 argentina 6,025 000                     2010 17 switzerland 4,816 000                     2010 18 india 4,536 000                     2010 19 belgium 4,465 000                     2010 20 sweden 4,396 000                     2010 21 finland 4,394 000                     2010 22 denmark 4,145 000                     2010 23 spain 3,822 000                     2010 24 south africa 3,751 000                     2010 25 czech republic 3,494 000                     2010 26 turkey 3,433 000                     2010 27 norway 3,352 000                     2010 28 portugal 3,267 000                     2010 29 austria 3,266 000                     2010 30 hungary 2,655 000                     2010 31 greece 2,574 000                     2010 32 colombia 2,527 000                     2010 33 new zealand 2,470 000                     2010 34 romania 2,464 000                     2010 35 israel 1,689 000                     2010 36 ireland 1,339 000                     2010 37 thailand 1,335 000                     2010 38 croatia 1,287 000                     2010 39 indonesia 1,269 000                     2010 40 lithuania 1,170 000                     2010 41 slovakia 1,133 000                     2010 42 ukraine 1,098 000                     2010 43 chile 1,056 000                     2010 44 singapore 992,786 2010 45 hong kong 817,701 2010 46 bulgaria 785,546 2010 47 uruguay 765,525 2010 48 estonia 729,534 2010 49 serbia 528,253 2010 50 moldova 492,181 2010 51 saudi arabia 488,598 2010 52 niue 397,270 2010 53 philippines 394,990 2010 54 united arab emirates 379,309 2010 55 iceland 344,748 2010 56 malaysia 344,452 2010 57 pakistan 330,466 2010 58 korea south 291,329 2010 59 latvia 289,478 2010 60 dominican republic 283,298 2010 61 morocco 277,793 2010 62 peru 268,225 2010 63 luxembourg 244,225 2010 64 venezuela 238,665 2010 65 guatemala 196,870 2010 66 cyprus 187,881 2010 67 egypt 187,197 2010 68 trinidad and tobago 168,876 2010 69 paraguay 167,281 2010 70 nicaragua 157,162 2010 71 belarus 147,311 2010 72 slovenia 137,494 2010 73 vietnam 129,318 2010 74 bolivia 125,462 2010 75 iran 119,947 2010 76 georgia 110,680 2010 77 tuvalu 109,478 2010 78 kyrgyzstan 97,976 2010 79 bosnia and herzegovina 95,234 2010 80 namibia 76,020 2010 81 bangladesh 68,224 2010 82 ecuador 67,975 2010 83 armenia 65,279 2010 84 macedonia 60,533 2010 85 kazakhstan 53,984 2010 86 bahrain 53,944 2010 87 lebanon 51,451 2010 88 brunei 50,997 2010 89 uzbekistan 47,718 2010 90 kenya 47,676 2010 91 nepal 43,928 2010 92 jordan 42,412 2010 93 ghana 41,082 2010 94 mauritius 36,653 2010 95 french polynesia 36,056 2010 96 cocos keeling islands 35,312 2010 97 costa rica 34,024 2010 98 zimbabwe 29,866 2010 99 madagascar 27,606 2010 100 andorra 26,773 2010 101 aruba 25,080 2010 102 malta 24,941 2010 103 tanzania 24,182 2010 104 monaco 23,621 2010 105 azerbaijan 22,737 2010 106 new caledonia 22,456 2010 107 bahamas the 21,939 2010 108 cayman islands 21,910 2010 109 mozambique 21,172 2010 110 tonga 20,847 2010 111 uganda 19,927 2010 112 bermuda 19,855 2010 113 fiji 17,088 2010 114 samoa 17,044 2010 115 honduras 16,075 2010 116 greenland 15,668 2010 117 albania 15,098 2010 118 zambia 14,771 2010 119 el salvador 13,849 2010 120 libya 12,432 2010 121 cote d'ivoire 9,865 2010 122 antigua and barbuda 9,795 2010 123 panama 9,585 2010 124 liechtenstein 9,418 2010 125 bhutan 9,147 2010 126 oman 9,114 2010 127 turks and caicos islands 8,969 2010 128 faroe islands 8,936 2010 129 virgin islands 8,933 2010 130 san marino 8,895 2010 131 sri lanka 8,865 2010 132 guyana 8,840 2010 133 syria 8,114 2010 134 mongolia 7,942 2010 135 antarctica 7,765 2010 136 saint helena ascension and tristan da cunha 6,873 2010 137 montenegro 6,247 2010 138 cambodia 5,452 2010 139 papua new guinea 4,285 2010 140 nauru 4,158 2010 141 solomon islands 4,065 2010 142 angola 3,717 2010 143 jamaica 3,099 2010 144 micronesia federated states of 3,097 2010 145 cuba 3,025 2010 146 congo democratic republic of the 3,006 2010 147 belize 2,880 2010 148 botswana 2,739 2010 149 christmas island 2,542 2010 150 cook islands 2,521 2010 151 kuwait 2,485 2010 152 swaziland 2,335 2010 153 maldives 2,164 2010 154 gibraltar 2,053 2010 155 burkina faso 1,877 2010 156 wallis and futuna 1,734 2010 157 american samoa 1,676 2010 158 sao tome and principe 1,514 2010 159 barbados 1,508 2010 160 tajikistan 1,504 2010 161 laos 1,468 2010 162 gambia the 1,453 2010 163 nigeria 1,378 2010 164 vanuatu 1,347 2010 165 benin 1,286 2010 166 eritrea 1,241 2010 167 malawi 870                           2010 168 togo 860                           2010 169 british indian ocean territory 827                           2010 170 qatar 822                           2010 171 rwanda 815                           2010 172 turkmenistan 794                           2010 173 isle of man 765                           2010 174 dominica 718                           2010 175 lesotho 632                           2010 176 algeria 572                           2010 177 montserrat 552                           2010 178 tokelau 526                           2010 179 mali 524                           2010 180 british virgin islands 497                           2010 181 tunisia 490                           2010 182 puerto rico 482                           2010 183 south georgia and south sandwich islands 320                     2010 184 sierra leone 281                           2010 185 haiti 273                           2010 186 anguilla 271                           2010 187 seychelles 256                           2010 188 yemen 255                           2010 189 macau 252                           2010 190 senegal 241                           2010 191 jersey 237                           2010 192 saint vincent and the grenadines 211                           2010 193 timor-leste 206                           2010 194 burundi 201                           2010 195 guernsey 197                           2010 196 djibouti 195                           2010 197 burma 172                           2010 198 niger 172                           2010 199 suriname 171                           2010 200 ethiopia 151                           2010 201 saint lucia 106                           2010 202 norfolk island 93 2010 203 falkland islands islas malvinas 91 2010 204 cameroon 90 2010 205 gabon 90 2010 206 guinea-bissau 82 2010 207 sudan 70 2010 208 holy see vatican city 68 2010 209 grenada 52 2010 210 saint kitts and nevis 51 2010 211 afghanistan 46 2010 212 french southern and antarctic lands 44 2010 213 congo republic of the 42 2010 214 kiribati 31 2010 215 cape verde 26 2010 216 mauritania 23 2010 217 central african republic 20 2010 218 pitcairn islands 20 2010 219 comoros 14 2010 220 guinea 14 2010 221 equatorial guinea 9 2010 222 iraq 9 2010 223 northern mariana islands 9 2010 224 liberia 8 2010 225 bouvet island 6 2010 226 chad 5 2010 227 korea north 3 2010 228 somalia 3 2010 229 palau 3 2010 230 marshall islands 3 2010 231 mayotte 1 2010 232 saint pierre and miquelon 0 2010 rank code 2185 country comparison :: investment gross fixed this entry records total business spending on fixed assets such as factories machinery equipment dwellings and inventories of raw materials which provide the basis for future production <\s>
+<s> it is measured gross of the depreciation of the assets i e it includes investment that merely replaces worn-out or scrapped capital <\s>
+<s> rank country of gdp date of information 1 china 47.80 2010 est <\s>
+<s> 2 congo republic of the 41.50 2010 est <\s>
+<s> 3 sao tome and principe 41.00 2010 est <\s>

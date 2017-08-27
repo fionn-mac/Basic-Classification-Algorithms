@@ -1,0 +1,500 @@
+<s> 112 congo democratic republic of the 4,300 000,000 2009 est <\s>
+<s> 113 ethiopia 4,289 000,000 31 december 2010 est <\s>
+<s> 114 uzbekistan 4,236 000,000 31 december 2010 est <\s>
+<s> 115 moldova 4,146 000,000 31 december 2010 est <\s>
+<s> 116 algeria 4,138 000,000 31 december 2010 est <\s>
+<s> 117 nicaragua 4,030 000,000 31 december 2010 est <\s>
+<s> 118 senegal 3,885 000,000 31 december 2010 est <\s>
+<s> 119 kyrgyzstan 3,738 000,000 30 june 2010 120 honduras 3,540 000,000 31 december 2010 est <\s>
+<s> 121 zambia 3,495 000,000 31 december 2010 est <\s>
+<s> 122 georgia 3,381 000,000 31 december 2009 123 cameroon 3,344 000,000 31 december 2010 est <\s>
+<s> 124 azerbaijan 3,221 000,000 31 december 2010 est <\s>
+<s> 125 liberia 3,200 000,000 2005 est <\s>
+<s> 126 laos 3,085 000,000 2009 est <\s>
+<s> 127 iceland 3,073 000,000 2002 128 guinea 3,072 000,000 31 december 2009 est <\s>
+<s> 129 somalia 3,000 000,000 2001 est <\s>
+<s> 130 madagascar 2,973 000,000 31 december 2010 est <\s>
+<s> 131 benin 2,894 000,000 31 december 2009 est <\s>
+<s> 132 uganda 2,888 000,000 31 december 2010 est <\s>
+<s> 133 mali 2,800 000,000 2002 134 afghanistan 2,700 000,000 2008/2009 135 gabon 2,374 000,000 31 december 2010 est <\s>
+<s> 136 namibia 2,373 000,000 31 december 2010 est <\s>
+<s> 137 botswana 2,222 000,000 31 december 2010 est <\s>
+<s> 138 niger 2,100 000,000 2003 est <\s>
+<s> 139 burkina faso 2,002 000,000 31 december 2010 est <\s>
+<s> 140 tajikistan 1,997 000,000 31 december 2010 est <\s>
+<s> 141 mongolia 1,860 000,000 2009 142 sierra leone 1,610 000,000 2003 est <\s>
+<s> 143 albania 1,550 000,000 2004 144 papua new guinea 1,548 000,000 31 december 2010 est <\s>
+<s> 145 seychelles 1,374 000,000 31 december 2010 est <\s>
+<s> 146 malawi 1,213 000,000 31 december 2010 est <\s>
+<s> 147 burundi 1,200 000,000 2003 148 central african republic 1,153 000,000 2007 est <\s>
+<s> 149 west bank 1,040 000,000 2010 est <\s>
+<s> 150 belize 1,010 000,000 2009 est <\s>
+<s> 151 guinea-bissau 941,500 000                 2000 est <\s>
+<s> 152 bhutan 836,000 000                 2009 153 equatorial guinea 832,000 000 31 december 2010 est <\s>
+<s> 154 guyana 804,300 000 30 september 2008 155 barbados 668,000 000                 2003 156 montenegro 650,000 000                 2006 157 lesotho 647,000 000 31 december 2010 est <\s>
+<s> 158 maldives 589,000 000                 2009 est <\s>
+<s> 159 gambia the 530,000 000 31 december 2010 est <\s>
+<s> 160 suriname 504,300 000                 2005 est <\s>
+<s> 161 swaziland 497,000 000 31 december 2010 est <\s>
+<s> 162 haiti 494,000 000 31 december 2010 est <\s>
+<s> 163 saint vincent and the grenadines 479,000 000                 2010 est <\s>
+<s> 164 aruba 478,600 000                 2005 est <\s>
+<s> 165 djibouti 428,000 000                 2006 166 antigua and barbuda 359,800 000 june 2006 167 grenada 347,000 000                 2004 168 bahamas the 342,600 000                 2004 est <\s>
+<s> 169 cape verde 325,000 000                 2002 170 sao tome and principe 318,000 000                 2002 171 saint kitts and nevis 314,000 000                 2004 172 saint lucia 257,000 000                 2004 173 comoros 232,000 000                 2000 est <\s>
+<s> 174 dominica 213,000 000                 2004 175 samoa 177,000 000                 2004 176 solomon islands 166,000 000                 2004 177 bermuda 160,000 000 fy99 00 178 cook islands 141,000 000                 1996 est <\s>
+<s> 179 fiji 127,000 000                 2004 est <\s>
+<s> 180 marshall islands 87,000 000                  2008 est <\s>
+<s> 181 vanuatu 81,200 000                  2004 182 tonga 80,700 000                  2004 183 new caledonia 79,000 000                  1998 est <\s>
+<s> 184 cayman islands 70,000 000                  1996 185 faroe islands 68,100 000                  2006 186 micronesia federated states of 60,800 000 fy05 est <\s>
+<s> 187 greenland 58,000 000                  2009 188 british virgin islands 36,100 000                  1997 189 nauru 33,300 000 190 kiribati 10,000 000                  1999 est <\s>
+<s> 191 montserrat 8,900 000                   1997 192 anguilla 8,800 000                   1998 193 wallis and futuna 3,670 000                   2004 194 niue 418,000 2002 est <\s>
+<s> 195 brunei 0 2005 196 liechtenstein 0 2001 197 palau 0 fy99 00 198 macau 0 2009 rank code 2080 country comparison :: rank country date of information rank code 2081 country comparison :: flag description this entry provides a written flag description produced from actual flags or the best information available at the time the entry was written <\s>
+<s> the flags of independent states are used by their dependencies unless there is an officially recognized local flag <\s>
+<s> some disputed and other areas do not have flags <\s>
+<s> rank country flag description date of information rank code 2085 country comparison :: roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> rank country km date of information 1 united states 6,506 204                     2008 2 china 3,583 715                     2007 3 india 3,320 410                     2009 4 brazil 1,751 868                     2004 5 japan 1,203 777                     2008 6 canada 1,042 300                     2008 7 france 1,027 183                     2007 8 russia 982,000 2009 9 australia 812,972 2004 10 spain 681,298 2008 11 germany 644,480 2008 12 sweden 572,900 2009 13 italy 487,700 2007 14 indonesia 437,759 2008 15 poland 423,997 2008 16 united kingdom 394,428 2009 17 mexico 366,095 2008 18 south africa 362,099 2002 19 turkey 352,046 2008 20 pakistan 259,197 2007 21 bangladesh 239,226 2003 22 argentina 231,374 2004 23 saudi arabia 221,372 2006 24 philippines 201,910 2008 25 romania 198,817 2008 26 nigeria 193,200 2004 27 thailand 180,053 2006 28 iran 172,927 2006 29 vietnam 171,392 2008 30 ukraine 169,495 2009 31 colombia 164,257 2005 32 kenya 160,886 2008 33 hungary 160,057 2008 34 congo democratic republic of the 153,497 2004 35 belgium 152,256 2006 36 netherlands 136,827 2008 37 czech republic 128,582 2008 38 greece 117,533 2005 39 algeria 108,302 2004 40 austria 107,262 2006 41 korea south 103,029 2008 42 peru 102,887 2007 43 libya 100,024 2003 44 malaysia 98,721 2004 45 syria 97,401 2006 46 zimbabwe 97,267 2002 47 venezuela 96,155 2002 48 ireland 96,036 2008 49 belarus 94,797 2005 50 new zealand 93,911 2009 51 kazakhstan 93,612 2008 52 norway 92,946 2007 53 burkina faso 92,495 2004 54 sri lanka 91,907 2008 55 zambia 91,440 2001 56 uzbekistan 86,496 2000 57 portugal 82,900 2008 58 lithuania 81,030 2008 59 chile 80,505 2004 60 cote d'ivoire 80,000 2006 61 tanzania 78,892 2007 62 finland 78,141 2009 63 uruguay 77,732 2010 64 denmark 73,197 2008 65 latvia 73,074 2010 66 switzerland 71,384 2009 67 yemen 71,300 2005 68 uganda 70,746 2003 69 oman 68,467 2008 70 madagascar 65,663 2003 71 egypt 65,050 2009 72 namibia 64,189 2010 73 bolivia 62,479 2004 74 ghana 62,221 2006 75 cuba 60,858 2000 76 azerbaijan 59,141 2004 77 turkmenistan 58,592 2002 78 estonia 58,034 2009 79 morocco 57,625 2006 80 angola 51,429 2001 81 cameroon 50,000 2004 82 mongolia 49,250 2009 83 iraq 44,900 2002 84 guinea 44,348 2003 85 slovakia 43,761 2008 86 ecuador 43,670 2006 87 afghanistan 42,150 2006 88 taiwan 41,279 2008 89 bulgaria 40,231 2008 90 slovenia 38,873 2008 91 cambodia 38,093 2007 92 serbia 36,884 2007 93 laos 36,831 2007 94 ethiopia 36,469 2004 95 costa rica 35,330 2004 96 chad 33,400 2002 97 mozambique 30,400 2000 98 paraguay 29,500 2000 99 croatia 29,248 2008 100 tajikistan 27,767 2000 101 burma 27,000 2006 102 puerto rico 26,670 2008 103 botswana 25,798 2005 104 korea north 25,554 2006 105 central african republic 24,307 2000 106 somalia 22,100 2000 107 bosnia and herzegovina 21,846 2006 108 jamaica 21,552 2005 109 georgia 20,329 2006 110 dominican republic 19,705 2002 111 tunisia 19,232 2006 112 nicaragua 19,137 2009 113 niger 18,949 2008 114 mali 18,709 2004 115 kyrgyzstan 18,500 2003 116 israel 18,096 2008 117 albania 18,000 2002 118 congo republic of the 17,289 2004 119 nepal 17,282 2007 120 benin 16,000 2006 121 malawi 15,451 2003 122 cyprus 14,671 2008 123 honduras 14,239 2009 124 guatemala 14,095 2000 125 rwanda 14,008 2004 126 macedonia 13,736 2009 127 senegal 13,576 2003 128 iceland 12,869 2009 129 burundi 12,322 2004 130 panama 11,978 2002 131 sudan 11,900 2000 132 sierra leone 11,300 2002 133 mauritania 11,066 2006 134 el salvador 10,886 2000 135 liberia 10,600 2000 136 papua new guinea 9,349 2011 137 moldova 9,343 2008 138 gabon 9,170 2004 139 armenia 8,888 2008 140 trinidad and tobago 8,320 2000 141 bhutan 8,050 2003 142 guyana 7,970 2000 143 jordan 7,891 2009 144 qatar 7,790 2006 145 togo 7,520 2000 146 montenegro 7,404 2008 147 lesotho 7,091 2003 148 lebanon 6,970 2005 149 timor-leste 6,040 2005 150 kuwait 5,749 2004 151 new caledonia 5,622 2006 152 luxembourg 5,227 2008 153 west bank 5,147 2006 154 suriname 4,304 2003 155 haiti 4,160 2000 156 united arab emirates 4,080 2008 157 eritrea 4,010 2000 158 bahrain 3,851 2007 159 gambia the 3,742 2004 160 swaziland 3,594 2002 161 guinea-bissau 3,455 2002 162 fiji 3,440 2000 163 singapore 3,356 2009 164 djibouti 3,065 2000 165 belize 3,007 2006 166 brunei 2,971 2008 167 equatorial guinea 2,880 2000 168 bahamas the 2,717 2002 169 french polynesia 2,590 1999 170 samoa 2,337 2001 171 malta 2,227 2005 172 mauritius 2,066 2009 173 hong kong 2,050 2009 174 marshall islands 2,028 2007 175 kosovo 1,926 2009 176 barbados 1,600 2004 177 solomon islands 1,360 2002 178 cape verde 1,350 2000 179 virgin islands 1,260 2008 180 saint lucia 1,210 2002 181 antigua and barbuda 1,165 2002 182 grenada 1,127 2000 183 vanuatu 1,070 1999 184 comoros 880                           2002 185 saint vincent and the grenadines 829                           2003 186 cayman islands 785                           2007 187 dominica 780                           2000 188 tonga 680                           2000 189 kiribati 670                           2000 190 jersey 576                           2010 191 curacao 550 na 192 northern mariana islands 536                           2008 193 isle of man 500                           2008 194 faroe islands 463                           2006 195 seychelles 458                           2003 196 bermuda 447                           2007 197 falkland islands islas malvinas 440                           2008 198 macau 413                           2009 199 saint kitts and nevis 383                           2002 200 liechtenstein 380                           2010 201 andorra 320                           2008 202 sao tome and principe 320                           2000 203 cook islands 320                           2003 204 san marino 292                           2006 205 american samoa 241                           2008 206 micronesia federated states of 240                           2000 207 british virgin islands 200                           2007 208 saint helena ascension and tristan da cunha 198                2002 209 anguilla 175                           2004 210 christmas island 140                           2007 211 turks and caicos islands 121                           2003 212 niue 120                           2008 213 saint pierre and miquelon 117                           2000 214 maldives 88 2006 215 norfolk island 80 2008 216 sint maarten 53 na 217 monaco 50 2007 218 gibraltar 29 2007 219 nauru 24 2002 220 cocos keeling islands 22 2007 221 tuvalu 8 2002 rank code 2086 country comparison :: illicit drugs this entry gives information on the five categories of illicit drugs narcotics stimulants depressants sedatives hallucinogens and cannabis <\s>
+<s> these categories include many drugs legally produced and prescribed by doctors as well as those illegally produced and sold outside of medical channels <\s>
+<s> cannabis cannabis sativa is the common hemp plant which provides hallucinogens with some sedative properties and includes marijuana pot acapulco gold grass reefer tetrahydrocannabinol thc marinol hashish hash and hashish oil hash oil <\s>
+<s> coca mostly erythroxylum coca is a bush with leaves that contain the stimulant used to make cocaine <\s>
+<s> coca is not to be confused with cocoa which comes from cacao seeds and is used in making chocolate cocoa and cocoa butter <\s>
+<s> cocaine is a stimulant derived from the leaves of the coca bush <\s>
+<s> depressants sedatives are drugs that reduce tension and anxiety and include chloral hydrate barbiturates amytal nembutal seconal phenobarbital benzodiazepines librium valium methaqualone quaalude glutethimide doriden and others equanil placidyl valmid <\s>
+<s> drugs are any chemical substances that effect a physical mental emotional or behavioral change in an individual <\s>
+<s> drug abuse is the use of any licit or illicit chemical substance that results in physical mental emotional or behavioral impairment in an individual <\s>
+<s> hallucinogens are drugs that affect sensation thinking self-awareness and emotion <\s>
+<s> hallucinogens include lsd acid microdot mescaline and peyote mexc buttons cactus amphetamine variants pma stp dob phencyclidine pcp angel dust hog phencyclidine analogues pce pcpy tcp and others psilocybin psilocyn <\s>
+<s> hashish is the resinous exudate of the cannabis or hemp plant cannabis sativa <\s>
+<s> heroin is a semisynthetic derivative of morphine <\s>
+<s> mandrax is a trade name for methaqualone a pharmaceutical depressant <\s>
+<s> marijuana is the dried leaf of the cannabis or hemp plant cannabis sativa <\s>
+<s> methaqualone is a pharmaceutical depressant referred to as mandrax in southwest asia and africa <\s>
+<s> narcotics are drugs that relieve pain often induce sleep and refer to opium opium derivatives and synthetic substitutes <\s>
+<s> natural narcotics include opium paregoric parepectolin morphine ms-contin roxanol codeine tylenol with codeine empirin with codeine robitussin ac and thebaine <\s>
+<s> semisynthetic narcotics include heroin horse smack and hydromorphone dilaudid <\s>
+<s> synthetic narcotics include meperidine or pethidine demerol mepergan methadone dolophine methadose and others darvon lomotil <\s>
+<s> opium is the brown gummy exudate of the incised unripe seedpod of the opium poppy <\s>
+<s> opium poppy papaver somniferum is the source for the natural and semisynthetic narcotics <\s>
+<s> poppy straw is the entire cut and dried opium poppy-plant material other than the seeds <\s>
+<s> opium is extracted from poppy straw in commercial operations that produce the drug for medical use <\s>
+<s> qat kat khat is a stimulant from the buds or leaves of catha edulis that is chewed or drunk as tea <\s>
+<s> quaaludes is the north american slang term for methaqualone a pharmaceutical depressant <\s>
+<s> stimulants are drugs that relieve mild depression increase energy and activity and include cocaine coke snow crack amphetamines desoxyn dexedrine ephedrine ecstasy clarity essence doctor adam phenmetrazine preludin methylphenidate ritalin and others cylert sanorex tenuate <\s>
+<s> rank country illicit drugs date of information rank code 2087 country comparison :: imports this entry provides the total us dollar amount of merchandise imports on a c i f <\s>
+<s> cost insurance and freight or f o b <\s>
+<s> free on board basis <\s>
+<s> these figures are calculated on an exchange rate basis i e not in purchasing power parity ppp terms <\s>
+<s> rank country imports date of information 1 united states 1,903 000,000 000           2010 est <\s>
+<s> 2 european union 1,690 000,000 000           2007 3 china 1,307 000,000 000           2010 est <\s>
+<s> 4 germany 1,120 000,000 000           2010 est <\s>
+<s> 5 japan 636,800 000,000 2010 est <\s>
+<s> 6 france 577,700 000,000 2010 est <\s>
+<s> 7 united kingdom 546,500 000,000 2010 est <\s>
+<s> 8 italy 459,700 000,000 2010 est <\s>
+<s> 9 korea south 417,900 000,000 2010 est <\s>
+<s> 10 hong kong 413,000 000,000 2010 est <\s>
+<s> 11 netherlands 408,400 000,000 2010 est <\s>
+<s> 12 canada 406,400 000,000 2010 est <\s>
+<s> 13 india 327,000 000,000 2010 est <\s>
+<s> 14 spain 324,600 000,000 2010 est <\s>
+<s> 15 singapore 315,600 000,000 2010 est <\s>
+<s> 16 mexico 306,000 000,000 2010 est <\s>
+<s> 112 congo democratic republic of the 4,300 000,000 2009 est <\s>
+<s> 113 ethiopia 4,289 000,000 31 december 2010 est <\s>
+<s> 114 uzbekistan 4,236 000,000 31 december 2010 est <\s>
+<s> 115 moldova 4,146 000,000 31 december 2010 est <\s>
+<s> 116 algeria 4,138 000,000 31 december 2010 est <\s>
+<s> 117 nicaragua 4,030 000,000 31 december 2010 est <\s>
+<s> 118 senegal 3,885 000,000 31 december 2010 est <\s>
+<s> 119 kyrgyzstan 3,738 000,000 30 june 2010 120 honduras 3,540 000,000 31 december 2010 est <\s>
+<s> 121 zambia 3,495 000,000 31 december 2010 est <\s>
+<s> 122 georgia 3,381 000,000 31 december 2009 123 cameroon 3,344 000,000 31 december 2010 est <\s>
+<s> 124 azerbaijan 3,221 000,000 31 december 2010 est <\s>
+<s> 125 liberia 3,200 000,000 2005 est <\s>
+<s> 126 laos 3,085 000,000 2009 est <\s>
+<s> 127 iceland 3,073 000,000 2002 128 guinea 3,072 000,000 31 december 2009 est <\s>
+<s> 129 somalia 3,000 000,000 2001 est <\s>
+<s> 130 madagascar 2,973 000,000 31 december 2010 est <\s>
+<s> 131 benin 2,894 000,000 31 december 2009 est <\s>
+<s> 132 uganda 2,888 000,000 31 december 2010 est <\s>
+<s> 133 mali 2,800 000,000 2002 134 afghanistan 2,700 000,000 2008/2009 135 gabon 2,374 000,000 31 december 2010 est <\s>
+<s> 136 namibia 2,373 000,000 31 december 2010 est <\s>
+<s> 137 botswana 2,222 000,000 31 december 2010 est <\s>
+<s> 138 niger 2,100 000,000 2003 est <\s>
+<s> 139 burkina faso 2,002 000,000 31 december 2010 est <\s>
+<s> 140 tajikistan 1,997 000,000 31 december 2010 est <\s>
+<s> 141 mongolia 1,860 000,000 2009 142 sierra leone 1,610 000,000 2003 est <\s>
+<s> 143 albania 1,550 000,000 2004 144 papua new guinea 1,548 000,000 31 december 2010 est <\s>
+<s> 145 seychelles 1,374 000,000 31 december 2010 est <\s>
+<s> 146 malawi 1,213 000,000 31 december 2010 est <\s>
+<s> 147 burundi 1,200 000,000 2003 148 central african republic 1,153 000,000 2007 est <\s>
+<s> 149 west bank 1,040 000,000 2010 est <\s>
+<s> 150 belize 1,010 000,000 2009 est <\s>
+<s> 151 guinea-bissau 941,500 000                 2000 est <\s>
+<s> 152 bhutan 836,000 000                 2009 153 equatorial guinea 832,000 000 31 december 2010 est <\s>
+<s> 154 guyana 804,300 000 30 september 2008 155 barbados 668,000 000                 2003 156 montenegro 650,000 000                 2006 157 lesotho 647,000 000 31 december 2010 est <\s>
+<s> 158 maldives 589,000 000                 2009 est <\s>
+<s> 159 gambia the 530,000 000 31 december 2010 est <\s>
+<s> 160 suriname 504,300 000                 2005 est <\s>
+<s> 161 swaziland 497,000 000 31 december 2010 est <\s>
+<s> 162 haiti 494,000 000 31 december 2010 est <\s>
+<s> 163 saint vincent and the grenadines 479,000 000                 2010 est <\s>
+<s> 164 aruba 478,600 000                 2005 est <\s>
+<s> 165 djibouti 428,000 000                 2006 166 antigua and barbuda 359,800 000 june 2006 167 grenada 347,000 000                 2004 168 bahamas the 342,600 000                 2004 est <\s>
+<s> 169 cape verde 325,000 000                 2002 170 sao tome and principe 318,000 000                 2002 171 saint kitts and nevis 314,000 000                 2004 172 saint lucia 257,000 000                 2004 173 comoros 232,000 000                 2000 est <\s>
+<s> 174 dominica 213,000 000                 2004 175 samoa 177,000 000                 2004 176 solomon islands 166,000 000                 2004 177 bermuda 160,000 000 fy99 00 178 cook islands 141,000 000                 1996 est <\s>
+<s> 179 fiji 127,000 000                 2004 est <\s>
+<s> 180 marshall islands 87,000 000                  2008 est <\s>
+<s> 181 vanuatu 81,200 000                  2004 182 tonga 80,700 000                  2004 183 new caledonia 79,000 000                  1998 est <\s>
+<s> 184 cayman islands 70,000 000                  1996 185 faroe islands 68,100 000                  2006 186 micronesia federated states of 60,800 000 fy05 est <\s>
+<s> 187 greenland 58,000 000                  2009 188 british virgin islands 36,100 000                  1997 189 nauru 33,300 000 190 kiribati 10,000 000                  1999 est <\s>
+<s> 191 montserrat 8,900 000                   1997 192 anguilla 8,800 000                   1998 193 wallis and futuna 3,670 000                   2004 194 niue 418,000 2002 est <\s>
+<s> 195 brunei 0 2005 196 liechtenstein 0 2001 197 palau 0 fy99 00 198 macau 0 2009 rank code 2080 country comparison :: rank country date of information rank code 2081 country comparison :: flag description this entry provides a written flag description produced from actual flags or the best information available at the time the entry was written <\s>
+<s> the flags of independent states are used by their dependencies unless there is an officially recognized local flag <\s>
+<s> some disputed and other areas do not have flags <\s>
+<s> rank country flag description date of information rank code 2085 country comparison :: roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> rank country km date of information 1 united states 6,506 204                     2008 2 china 3,583 715                     2007 3 india 3,320 410                     2009 4 brazil 1,751 868                     2004 5 japan 1,203 777                     2008 6 canada 1,042 300                     2008 7 france 1,027 183                     2007 8 russia 982,000 2009 9 australia 812,972 2004 10 spain 681,298 2008 11 germany 644,480 2008 12 sweden 572,900 2009 13 italy 487,700 2007 14 indonesia 437,759 2008 15 poland 423,997 2008 16 united kingdom 394,428 2009 17 mexico 366,095 2008 18 south africa 362,099 2002 19 turkey 352,046 2008 20 pakistan 259,197 2007 21 bangladesh 239,226 2003 22 argentina 231,374 2004 23 saudi arabia 221,372 2006 24 philippines 201,910 2008 25 romania 198,817 2008 26 nigeria 193,200 2004 27 thailand 180,053 2006 28 iran 172,927 2006 29 vietnam 171,392 2008 30 ukraine 169,495 2009 31 colombia 164,257 2005 32 kenya 160,886 2008 33 hungary 160,057 2008 34 congo democratic republic of the 153,497 2004 35 belgium 152,256 2006 36 netherlands 136,827 2008 37 czech republic 128,582 2008 38 greece 117,533 2005 39 algeria 108,302 2004 40 austria 107,262 2006 41 korea south 103,029 2008 42 peru 102,887 2007 43 libya 100,024 2003 44 malaysia 98,721 2004 45 syria 97,401 2006 46 zimbabwe 97,267 2002 47 venezuela 96,155 2002 48 ireland 96,036 2008 49 belarus 94,797 2005 50 new zealand 93,911 2009 51 kazakhstan 93,612 2008 52 norway 92,946 2007 53 burkina faso 92,495 2004 54 sri lanka 91,907 2008 55 zambia 91,440 2001 56 uzbekistan 86,496 2000 57 portugal 82,900 2008 58 lithuania 81,030 2008 59 chile 80,505 2004 60 cote d'ivoire 80,000 2006 61 tanzania 78,892 2007 62 finland 78,141 2009 63 uruguay 77,732 2010 64 denmark 73,197 2008 65 latvia 73,074 2010 66 switzerland 71,384 2009 67 yemen 71,300 2005 68 uganda 70,746 2003 69 oman 68,467 2008 70 madagascar 65,663 2003 71 egypt 65,050 2009 72 namibia 64,189 2010 73 bolivia 62,479 2004 74 ghana 62,221 2006 75 cuba 60,858 2000 76 azerbaijan 59,141 2004 77 turkmenistan 58,592 2002 78 estonia 58,034 2009 79 morocco 57,625 2006 80 angola 51,429 2001 81 cameroon 50,000 2004 82 mongolia 49,250 2009 83 iraq 44,900 2002 84 guinea 44,348 2003 85 slovakia 43,761 2008 86 ecuador 43,670 2006 87 afghanistan 42,150 2006 88 taiwan 41,279 2008 89 bulgaria 40,231 2008 90 slovenia 38,873 2008 91 cambodia 38,093 2007 92 serbia 36,884 2007 93 laos 36,831 2007 94 ethiopia 36,469 2004 95 costa rica 35,330 2004 96 chad 33,400 2002 97 mozambique 30,400 2000 98 paraguay 29,500 2000 99 croatia 29,248 2008 100 tajikistan 27,767 2000 101 burma 27,000 2006 102 puerto rico 26,670 2008 103 botswana 25,798 2005 104 korea north 25,554 2006 105 central african republic 24,307 2000 106 somalia 22,100 2000 107 bosnia and herzegovina 21,846 2006 108 jamaica 21,552 2005 109 georgia 20,329 2006 110 dominican republic 19,705 2002 111 tunisia 19,232 2006 112 nicaragua 19,137 2009 113 niger 18,949 2008 114 mali 18,709 2004 115 kyrgyzstan 18,500 2003 116 israel 18,096 2008 117 albania 18,000 2002 118 congo republic of the 17,289 2004 119 nepal 17,282 2007 120 benin 16,000 2006 121 malawi 15,451 2003 122 cyprus 14,671 2008 123 honduras 14,239 2009 124 guatemala 14,095 2000 125 rwanda 14,008 2004 126 macedonia 13,736 2009 127 senegal 13,576 2003 128 iceland 12,869 2009 129 burundi 12,322 2004 130 panama 11,978 2002 131 sudan 11,900 2000 132 sierra leone 11,300 2002 133 mauritania 11,066 2006 134 el salvador 10,886 2000 135 liberia 10,600 2000 136 papua new guinea 9,349 2011 137 moldova 9,343 2008 138 gabon 9,170 2004 139 armenia 8,888 2008 140 trinidad and tobago 8,320 2000 141 bhutan 8,050 2003 142 guyana 7,970 2000 143 jordan 7,891 2009 144 qatar 7,790 2006 145 togo 7,520 2000 146 montenegro 7,404 2008 147 lesotho 7,091 2003 148 lebanon 6,970 2005 149 timor-leste 6,040 2005 150 kuwait 5,749 2004 151 new caledonia 5,622 2006 152 luxembourg 5,227 2008 153 west bank 5,147 2006 154 suriname 4,304 2003 155 haiti 4,160 2000 156 united arab emirates 4,080 2008 157 eritrea 4,010 2000 158 bahrain 3,851 2007 159 gambia the 3,742 2004 160 swaziland 3,594 2002 161 guinea-bissau 3,455 2002 162 fiji 3,440 2000 163 singapore 3,356 2009 164 djibouti 3,065 2000 165 belize 3,007 2006 166 brunei 2,971 2008 167 equatorial guinea 2,880 2000 168 bahamas the 2,717 2002 169 french polynesia 2,590 1999 170 samoa 2,337 2001 171 malta 2,227 2005 172 mauritius 2,066 2009 173 hong kong 2,050 2009 174 marshall islands 2,028 2007 175 kosovo 1,926 2009 176 barbados 1,600 2004 177 solomon islands 1,360 2002 178 cape verde 1,350 2000 179 virgin islands 1,260 2008 180 saint lucia 1,210 2002 181 antigua and barbuda 1,165 2002 182 grenada 1,127 2000 183 vanuatu 1,070 1999 184 comoros 880                           2002 185 saint vincent and the grenadines 829                           2003 186 cayman islands 785                           2007 187 dominica 780                           2000 188 tonga 680                           2000 189 kiribati 670                           2000 190 jersey 576                           2010 191 curacao 550 na 192 northern mariana islands 536                           2008 193 isle of man 500                           2008 194 faroe islands 463                           2006 195 seychelles 458                           2003 196 bermuda 447                           2007 197 falkland islands islas malvinas 440                           2008 198 macau 413                           2009 199 saint kitts and nevis 383                           2002 200 liechtenstein 380                           2010 201 andorra 320                           2008 202 sao tome and principe 320                           2000 203 cook islands 320                           2003 204 san marino 292                           2006 205 american samoa 241                           2008 206 micronesia federated states of 240                           2000 207 british virgin islands 200                           2007 208 saint helena ascension and tristan da cunha 198                2002 209 anguilla 175                           2004 210 christmas island 140                           2007 211 turks and caicos islands 121                           2003 212 niue 120                           2008 213 saint pierre and miquelon 117                           2000 214 maldives 88 2006 215 norfolk island 80 2008 216 sint maarten 53 na 217 monaco 50 2007 218 gibraltar 29 2007 219 nauru 24 2002 220 cocos keeling islands 22 2007 221 tuvalu 8 2002 rank code 2086 country comparison :: illicit drugs this entry gives information on the five categories of illicit drugs narcotics stimulants depressants sedatives hallucinogens and cannabis <\s>
+<s> these categories include many drugs legally produced and prescribed by doctors as well as those illegally produced and sold outside of medical channels <\s>
+<s> cannabis cannabis sativa is the common hemp plant which provides hallucinogens with some sedative properties and includes marijuana pot acapulco gold grass reefer tetrahydrocannabinol thc marinol hashish hash and hashish oil hash oil <\s>
+<s> coca mostly erythroxylum coca is a bush with leaves that contain the stimulant used to make cocaine <\s>
+<s> coca is not to be confused with cocoa which comes from cacao seeds and is used in making chocolate cocoa and cocoa butter <\s>
+<s> cocaine is a stimulant derived from the leaves of the coca bush <\s>
+<s> depressants sedatives are drugs that reduce tension and anxiety and include chloral hydrate barbiturates amytal nembutal seconal phenobarbital benzodiazepines librium valium methaqualone quaalude glutethimide doriden and others equanil placidyl valmid <\s>
+<s> drugs are any chemical substances that effect a physical mental emotional or behavioral change in an individual <\s>
+<s> drug abuse is the use of any licit or illicit chemical substance that results in physical mental emotional or behavioral impairment in an individual <\s>
+<s> hallucinogens are drugs that affect sensation thinking self-awareness and emotion <\s>
+<s> hallucinogens include lsd acid microdot mescaline and peyote mexc buttons cactus amphetamine variants pma stp dob phencyclidine pcp angel dust hog phencyclidine analogues pce pcpy tcp and others psilocybin psilocyn <\s>
+<s> hashish is the resinous exudate of the cannabis or hemp plant cannabis sativa <\s>
+<s> heroin is a semisynthetic derivative of morphine <\s>
+<s> mandrax is a trade name for methaqualone a pharmaceutical depressant <\s>
+<s> marijuana is the dried leaf of the cannabis or hemp plant cannabis sativa <\s>
+<s> methaqualone is a pharmaceutical depressant referred to as mandrax in southwest asia and africa <\s>
+<s> narcotics are drugs that relieve pain often induce sleep and refer to opium opium derivatives and synthetic substitutes <\s>
+<s> natural narcotics include opium paregoric parepectolin morphine ms-contin roxanol codeine tylenol with codeine empirin with codeine robitussin ac and thebaine <\s>
+<s> semisynthetic narcotics include heroin horse smack and hydromorphone dilaudid <\s>
+<s> synthetic narcotics include meperidine or pethidine demerol mepergan methadone dolophine methadose and others darvon lomotil <\s>
+<s> opium is the brown gummy exudate of the incised unripe seedpod of the opium poppy <\s>
+<s> opium poppy papaver somniferum is the source for the natural and semisynthetic narcotics <\s>
+<s> poppy straw is the entire cut and dried opium poppy-plant material other than the seeds <\s>
+<s> opium is extracted from poppy straw in commercial operations that produce the drug for medical use <\s>
+<s> qat kat khat is a stimulant from the buds or leaves of catha edulis that is chewed or drunk as tea <\s>
+<s> quaaludes is the north american slang term for methaqualone a pharmaceutical depressant <\s>
+<s> stimulants are drugs that relieve mild depression increase energy and activity and include cocaine coke snow crack amphetamines desoxyn dexedrine ephedrine ecstasy clarity essence doctor adam phenmetrazine preludin methylphenidate ritalin and others cylert sanorex tenuate <\s>
+<s> rank country illicit drugs date of information rank code 2087 country comparison :: imports this entry provides the total us dollar amount of merchandise imports on a c i f <\s>
+<s> cost insurance and freight or f o b <\s>
+<s> free on board basis <\s>
+<s> these figures are calculated on an exchange rate basis i e not in purchasing power parity ppp terms <\s>
+<s> rank country imports date of information 1 united states 1,903 000,000 000           2010 est <\s>
+<s> 2 european union 1,690 000,000 000           2007 3 china 1,307 000,000 000           2010 est <\s>
+<s> 4 germany 1,120 000,000 000           2010 est <\s>
+<s> 5 japan 636,800 000,000 2010 est <\s>
+<s> 6 france 577,700 000,000 2010 est <\s>
+<s> 7 united kingdom 546,500 000,000 2010 est <\s>
+<s> 8 italy 459,700 000,000 2010 est <\s>
+<s> 9 korea south 417,900 000,000 2010 est <\s>
+<s> 10 hong kong 413,000 000,000 2010 est <\s>
+<s> 11 netherlands 408,400 000,000 2010 est <\s>
+<s> 12 canada 406,400 000,000 2010 est <\s>
+<s> 13 india 327,000 000,000 2010 est <\s>
+<s> 14 spain 324,600 000,000 2010 est <\s>
+<s> 15 singapore 315,600 000,000 2010 est <\s>
+<s> 16 mexico 306,000 000,000 2010 est <\s>
+<s> 112 congo democratic republic of the 4,300 000,000 2009 est <\s>
+<s> 113 ethiopia 4,289 000,000 31 december 2010 est <\s>
+<s> 114 uzbekistan 4,236 000,000 31 december 2010 est <\s>
+<s> 115 moldova 4,146 000,000 31 december 2010 est <\s>
+<s> 116 algeria 4,138 000,000 31 december 2010 est <\s>
+<s> 117 nicaragua 4,030 000,000 31 december 2010 est <\s>
+<s> 118 senegal 3,885 000,000 31 december 2010 est <\s>
+<s> 119 kyrgyzstan 3,738 000,000 30 june 2010 120 honduras 3,540 000,000 31 december 2010 est <\s>
+<s> 121 zambia 3,495 000,000 31 december 2010 est <\s>
+<s> 122 georgia 3,381 000,000 31 december 2009 123 cameroon 3,344 000,000 31 december 2010 est <\s>
+<s> 124 azerbaijan 3,221 000,000 31 december 2010 est <\s>
+<s> 125 liberia 3,200 000,000 2005 est <\s>
+<s> 126 laos 3,085 000,000 2009 est <\s>
+<s> 127 iceland 3,073 000,000 2002 128 guinea 3,072 000,000 31 december 2009 est <\s>
+<s> 129 somalia 3,000 000,000 2001 est <\s>
+<s> 130 madagascar 2,973 000,000 31 december 2010 est <\s>
+<s> 131 benin 2,894 000,000 31 december 2009 est <\s>
+<s> 132 uganda 2,888 000,000 31 december 2010 est <\s>
+<s> 133 mali 2,800 000,000 2002 134 afghanistan 2,700 000,000 2008/2009 135 gabon 2,374 000,000 31 december 2010 est <\s>
+<s> 136 namibia 2,373 000,000 31 december 2010 est <\s>
+<s> 137 botswana 2,222 000,000 31 december 2010 est <\s>
+<s> 138 niger 2,100 000,000 2003 est <\s>
+<s> 139 burkina faso 2,002 000,000 31 december 2010 est <\s>
+<s> 140 tajikistan 1,997 000,000 31 december 2010 est <\s>
+<s> 141 mongolia 1,860 000,000 2009 142 sierra leone 1,610 000,000 2003 est <\s>
+<s> 143 albania 1,550 000,000 2004 144 papua new guinea 1,548 000,000 31 december 2010 est <\s>
+<s> 145 seychelles 1,374 000,000 31 december 2010 est <\s>
+<s> 146 malawi 1,213 000,000 31 december 2010 est <\s>
+<s> 147 burundi 1,200 000,000 2003 148 central african republic 1,153 000,000 2007 est <\s>
+<s> 149 west bank 1,040 000,000 2010 est <\s>
+<s> 150 belize 1,010 000,000 2009 est <\s>
+<s> 151 guinea-bissau 941,500 000                 2000 est <\s>
+<s> 152 bhutan 836,000 000                 2009 153 equatorial guinea 832,000 000 31 december 2010 est <\s>
+<s> 154 guyana 804,300 000 30 september 2008 155 barbados 668,000 000                 2003 156 montenegro 650,000 000                 2006 157 lesotho 647,000 000 31 december 2010 est <\s>
+<s> 158 maldives 589,000 000                 2009 est <\s>
+<s> 159 gambia the 530,000 000 31 december 2010 est <\s>
+<s> 160 suriname 504,300 000                 2005 est <\s>
+<s> 161 swaziland 497,000 000 31 december 2010 est <\s>
+<s> 162 haiti 494,000 000 31 december 2010 est <\s>
+<s> 163 saint vincent and the grenadines 479,000 000                 2010 est <\s>
+<s> 164 aruba 478,600 000                 2005 est <\s>
+<s> 165 djibouti 428,000 000                 2006 166 antigua and barbuda 359,800 000 june 2006 167 grenada 347,000 000                 2004 168 bahamas the 342,600 000                 2004 est <\s>
+<s> 169 cape verde 325,000 000                 2002 170 sao tome and principe 318,000 000                 2002 171 saint kitts and nevis 314,000 000                 2004 172 saint lucia 257,000 000                 2004 173 comoros 232,000 000                 2000 est <\s>
+<s> 174 dominica 213,000 000                 2004 175 samoa 177,000 000                 2004 176 solomon islands 166,000 000                 2004 177 bermuda 160,000 000 fy99 00 178 cook islands 141,000 000                 1996 est <\s>
+<s> 179 fiji 127,000 000                 2004 est <\s>
+<s> 180 marshall islands 87,000 000                  2008 est <\s>
+<s> 181 vanuatu 81,200 000                  2004 182 tonga 80,700 000                  2004 183 new caledonia 79,000 000                  1998 est <\s>
+<s> 184 cayman islands 70,000 000                  1996 185 faroe islands 68,100 000                  2006 186 micronesia federated states of 60,800 000 fy05 est <\s>
+<s> 187 greenland 58,000 000                  2009 188 british virgin islands 36,100 000                  1997 189 nauru 33,300 000 190 kiribati 10,000 000                  1999 est <\s>
+<s> 191 montserrat 8,900 000                   1997 192 anguilla 8,800 000                   1998 193 wallis and futuna 3,670 000                   2004 194 niue 418,000 2002 est <\s>
+<s> 195 brunei 0 2005 196 liechtenstein 0 2001 197 palau 0 fy99 00 198 macau 0 2009 rank code 2080 country comparison :: rank country date of information rank code 2081 country comparison :: flag description this entry provides a written flag description produced from actual flags or the best information available at the time the entry was written <\s>
+<s> the flags of independent states are used by their dependencies unless there is an officially recognized local flag <\s>
+<s> some disputed and other areas do not have flags <\s>
+<s> rank country flag description date of information rank code 2085 country comparison :: roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> rank country km date of information 1 united states 6,506 204                     2008 2 china 3,583 715                     2007 3 india 3,320 410                     2009 4 brazil 1,751 868                     2004 5 japan 1,203 777                     2008 6 canada 1,042 300                     2008 7 france 1,027 183                     2007 8 russia 982,000 2009 9 australia 812,972 2004 10 spain 681,298 2008 11 germany 644,480 2008 12 sweden 572,900 2009 13 italy 487,700 2007 14 indonesia 437,759 2008 15 poland 423,997 2008 16 united kingdom 394,428 2009 17 mexico 366,095 2008 18 south africa 362,099 2002 19 turkey 352,046 2008 20 pakistan 259,197 2007 21 bangladesh 239,226 2003 22 argentina 231,374 2004 23 saudi arabia 221,372 2006 24 philippines 201,910 2008 25 romania 198,817 2008 26 nigeria 193,200 2004 27 thailand 180,053 2006 28 iran 172,927 2006 29 vietnam 171,392 2008 30 ukraine 169,495 2009 31 colombia 164,257 2005 32 kenya 160,886 2008 33 hungary 160,057 2008 34 congo democratic republic of the 153,497 2004 35 belgium 152,256 2006 36 netherlands 136,827 2008 37 czech republic 128,582 2008 38 greece 117,533 2005 39 algeria 108,302 2004 40 austria 107,262 2006 41 korea south 103,029 2008 42 peru 102,887 2007 43 libya 100,024 2003 44 malaysia 98,721 2004 45 syria 97,401 2006 46 zimbabwe 97,267 2002 47 venezuela 96,155 2002 48 ireland 96,036 2008 49 belarus 94,797 2005 50 new zealand 93,911 2009 51 kazakhstan 93,612 2008 52 norway 92,946 2007 53 burkina faso 92,495 2004 54 sri lanka 91,907 2008 55 zambia 91,440 2001 56 uzbekistan 86,496 2000 57 portugal 82,900 2008 58 lithuania 81,030 2008 59 chile 80,505 2004 60 cote d'ivoire 80,000 2006 61 tanzania 78,892 2007 62 finland 78,141 2009 63 uruguay 77,732 2010 64 denmark 73,197 2008 65 latvia 73,074 2010 66 switzerland 71,384 2009 67 yemen 71,300 2005 68 uganda 70,746 2003 69 oman 68,467 2008 70 madagascar 65,663 2003 71 egypt 65,050 2009 72 namibia 64,189 2010 73 bolivia 62,479 2004 74 ghana 62,221 2006 75 cuba 60,858 2000 76 azerbaijan 59,141 2004 77 turkmenistan 58,592 2002 78 estonia 58,034 2009 79 morocco 57,625 2006 80 angola 51,429 2001 81 cameroon 50,000 2004 82 mongolia 49,250 2009 83 iraq 44,900 2002 84 guinea 44,348 2003 85 slovakia 43,761 2008 86 ecuador 43,670 2006 87 afghanistan 42,150 2006 88 taiwan 41,279 2008 89 bulgaria 40,231 2008 90 slovenia 38,873 2008 91 cambodia 38,093 2007 92 serbia 36,884 2007 93 laos 36,831 2007 94 ethiopia 36,469 2004 95 costa rica 35,330 2004 96 chad 33,400 2002 97 mozambique 30,400 2000 98 paraguay 29,500 2000 99 croatia 29,248 2008 100 tajikistan 27,767 2000 101 burma 27,000 2006 102 puerto rico 26,670 2008 103 botswana 25,798 2005 104 korea north 25,554 2006 105 central african republic 24,307 2000 106 somalia 22,100 2000 107 bosnia and herzegovina 21,846 2006 108 jamaica 21,552 2005 109 georgia 20,329 2006 110 dominican republic 19,705 2002 111 tunisia 19,232 2006 112 nicaragua 19,137 2009 113 niger 18,949 2008 114 mali 18,709 2004 115 kyrgyzstan 18,500 2003 116 israel 18,096 2008 117 albania 18,000 2002 118 congo republic of the 17,289 2004 119 nepal 17,282 2007 120 benin 16,000 2006 121 malawi 15,451 2003 122 cyprus 14,671 2008 123 honduras 14,239 2009 124 guatemala 14,095 2000 125 rwanda 14,008 2004 126 macedonia 13,736 2009 127 senegal 13,576 2003 128 iceland 12,869 2009 129 burundi 12,322 2004 130 panama 11,978 2002 131 sudan 11,900 2000 132 sierra leone 11,300 2002 133 mauritania 11,066 2006 134 el salvador 10,886 2000 135 liberia 10,600 2000 136 papua new guinea 9,349 2011 137 moldova 9,343 2008 138 gabon 9,170 2004 139 armenia 8,888 2008 140 trinidad and tobago 8,320 2000 141 bhutan 8,050 2003 142 guyana 7,970 2000 143 jordan 7,891 2009 144 qatar 7,790 2006 145 togo 7,520 2000 146 montenegro 7,404 2008 147 lesotho 7,091 2003 148 lebanon 6,970 2005 149 timor-leste 6,040 2005 150 kuwait 5,749 2004 151 new caledonia 5,622 2006 152 luxembourg 5,227 2008 153 west bank 5,147 2006 154 suriname 4,304 2003 155 haiti 4,160 2000 156 united arab emirates 4,080 2008 157 eritrea 4,010 2000 158 bahrain 3,851 2007 159 gambia the 3,742 2004 160 swaziland 3,594 2002 161 guinea-bissau 3,455 2002 162 fiji 3,440 2000 163 singapore 3,356 2009 164 djibouti 3,065 2000 165 belize 3,007 2006 166 brunei 2,971 2008 167 equatorial guinea 2,880 2000 168 bahamas the 2,717 2002 169 french polynesia 2,590 1999 170 samoa 2,337 2001 171 malta 2,227 2005 172 mauritius 2,066 2009 173 hong kong 2,050 2009 174 marshall islands 2,028 2007 175 kosovo 1,926 2009 176 barbados 1,600 2004 177 solomon islands 1,360 2002 178 cape verde 1,350 2000 179 virgin islands 1,260 2008 180 saint lucia 1,210 2002 181 antigua and barbuda 1,165 2002 182 grenada 1,127 2000 183 vanuatu 1,070 1999 184 comoros 880                           2002 185 saint vincent and the grenadines 829                           2003 186 cayman islands 785                           2007 187 dominica 780                           2000 188 tonga 680                           2000 189 kiribati 670                           2000 190 jersey 576                           2010 191 curacao 550 na 192 northern mariana islands 536                           2008 193 isle of man 500                           2008 194 faroe islands 463                           2006 195 seychelles 458                           2003 196 bermuda 447                           2007 197 falkland islands islas malvinas 440                           2008 198 macau 413                           2009 199 saint kitts and nevis 383                           2002 200 liechtenstein 380                           2010 201 andorra 320                           2008 202 sao tome and principe 320                           2000 203 cook islands 320                           2003 204 san marino 292                           2006 205 american samoa 241                           2008 206 micronesia federated states of 240                           2000 207 british virgin islands 200                           2007 208 saint helena ascension and tristan da cunha 198                2002 209 anguilla 175                           2004 210 christmas island 140                           2007 211 turks and caicos islands 121                           2003 212 niue 120                           2008 213 saint pierre and miquelon 117                           2000 214 maldives 88 2006 215 norfolk island 80 2008 216 sint maarten 53 na 217 monaco 50 2007 218 gibraltar 29 2007 219 nauru 24 2002 220 cocos keeling islands 22 2007 221 tuvalu 8 2002 rank code 2086 country comparison :: illicit drugs this entry gives information on the five categories of illicit drugs narcotics stimulants depressants sedatives hallucinogens and cannabis <\s>
+<s> these categories include many drugs legally produced and prescribed by doctors as well as those illegally produced and sold outside of medical channels <\s>
+<s> cannabis cannabis sativa is the common hemp plant which provides hallucinogens with some sedative properties and includes marijuana pot acapulco gold grass reefer tetrahydrocannabinol thc marinol hashish hash and hashish oil hash oil <\s>
+<s> coca mostly erythroxylum coca is a bush with leaves that contain the stimulant used to make cocaine <\s>
+<s> coca is not to be confused with cocoa which comes from cacao seeds and is used in making chocolate cocoa and cocoa butter <\s>
+<s> cocaine is a stimulant derived from the leaves of the coca bush <\s>
+<s> depressants sedatives are drugs that reduce tension and anxiety and include chloral hydrate barbiturates amytal nembutal seconal phenobarbital benzodiazepines librium valium methaqualone quaalude glutethimide doriden and others equanil placidyl valmid <\s>
+<s> drugs are any chemical substances that effect a physical mental emotional or behavioral change in an individual <\s>
+<s> drug abuse is the use of any licit or illicit chemical substance that results in physical mental emotional or behavioral impairment in an individual <\s>
+<s> hallucinogens are drugs that affect sensation thinking self-awareness and emotion <\s>
+<s> hallucinogens include lsd acid microdot mescaline and peyote mexc buttons cactus amphetamine variants pma stp dob phencyclidine pcp angel dust hog phencyclidine analogues pce pcpy tcp and others psilocybin psilocyn <\s>
+<s> hashish is the resinous exudate of the cannabis or hemp plant cannabis sativa <\s>
+<s> heroin is a semisynthetic derivative of morphine <\s>
+<s> mandrax is a trade name for methaqualone a pharmaceutical depressant <\s>
+<s> marijuana is the dried leaf of the cannabis or hemp plant cannabis sativa <\s>
+<s> methaqualone is a pharmaceutical depressant referred to as mandrax in southwest asia and africa <\s>
+<s> narcotics are drugs that relieve pain often induce sleep and refer to opium opium derivatives and synthetic substitutes <\s>
+<s> natural narcotics include opium paregoric parepectolin morphine ms-contin roxanol codeine tylenol with codeine empirin with codeine robitussin ac and thebaine <\s>
+<s> semisynthetic narcotics include heroin horse smack and hydromorphone dilaudid <\s>
+<s> synthetic narcotics include meperidine or pethidine demerol mepergan methadone dolophine methadose and others darvon lomotil <\s>
+<s> opium is the brown gummy exudate of the incised unripe seedpod of the opium poppy <\s>
+<s> opium poppy papaver somniferum is the source for the natural and semisynthetic narcotics <\s>
+<s> poppy straw is the entire cut and dried opium poppy-plant material other than the seeds <\s>
+<s> opium is extracted from poppy straw in commercial operations that produce the drug for medical use <\s>
+<s> qat kat khat is a stimulant from the buds or leaves of catha edulis that is chewed or drunk as tea <\s>
+<s> quaaludes is the north american slang term for methaqualone a pharmaceutical depressant <\s>
+<s> stimulants are drugs that relieve mild depression increase energy and activity and include cocaine coke snow crack amphetamines desoxyn dexedrine ephedrine ecstasy clarity essence doctor adam phenmetrazine preludin methylphenidate ritalin and others cylert sanorex tenuate <\s>
+<s> rank country illicit drugs date of information rank code 2087 country comparison :: imports this entry provides the total us dollar amount of merchandise imports on a c i f <\s>
+<s> cost insurance and freight or f o b <\s>
+<s> free on board basis <\s>
+<s> these figures are calculated on an exchange rate basis i e not in purchasing power parity ppp terms <\s>
+<s> rank country imports date of information 1 united states 1,903 000,000 000           2010 est <\s>
+<s> 2 european union 1,690 000,000 000           2007 3 china 1,307 000,000 000           2010 est <\s>
+<s> 4 germany 1,120 000,000 000           2010 est <\s>
+<s> 5 japan 636,800 000,000 2010 est <\s>
+<s> 6 france 577,700 000,000 2010 est <\s>
+<s> 7 united kingdom 546,500 000,000 2010 est <\s>
+<s> 8 italy 459,700 000,000 2010 est <\s>
+<s> 9 korea south 417,900 000,000 2010 est <\s>
+<s> 10 hong kong 413,000 000,000 2010 est <\s>
+<s> 11 netherlands 408,400 000,000 2010 est <\s>
+<s> 12 canada 406,400 000,000 2010 est <\s>
+<s> 13 india 327,000 000,000 2010 est <\s>
+<s> 14 spain 324,600 000,000 2010 est <\s>
+<s> 15 singapore 315,600 000,000 2010 est <\s>
+<s> 16 mexico 306,000 000,000 2010 est <\s>
+<s> 112 congo democratic republic of the 4,300 000,000 2009 est <\s>
+<s> 113 ethiopia 4,289 000,000 31 december 2010 est <\s>
+<s> 114 uzbekistan 4,236 000,000 31 december 2010 est <\s>
+<s> 115 moldova 4,146 000,000 31 december 2010 est <\s>
+<s> 116 algeria 4,138 000,000 31 december 2010 est <\s>
+<s> 117 nicaragua 4,030 000,000 31 december 2010 est <\s>
+<s> 118 senegal 3,885 000,000 31 december 2010 est <\s>
+<s> 119 kyrgyzstan 3,738 000,000 30 june 2010 120 honduras 3,540 000,000 31 december 2010 est <\s>
+<s> 121 zambia 3,495 000,000 31 december 2010 est <\s>
+<s> 122 georgia 3,381 000,000 31 december 2009 123 cameroon 3,344 000,000 31 december 2010 est <\s>
+<s> 124 azerbaijan 3,221 000,000 31 december 2010 est <\s>
+<s> 125 liberia 3,200 000,000 2005 est <\s>
+<s> 126 laos 3,085 000,000 2009 est <\s>
+<s> 127 iceland 3,073 000,000 2002 128 guinea 3,072 000,000 31 december 2009 est <\s>
+<s> 129 somalia 3,000 000,000 2001 est <\s>
+<s> 130 madagascar 2,973 000,000 31 december 2010 est <\s>
+<s> 131 benin 2,894 000,000 31 december 2009 est <\s>
+<s> 132 uganda 2,888 000,000 31 december 2010 est <\s>
+<s> 133 mali 2,800 000,000 2002 134 afghanistan 2,700 000,000 2008/2009 135 gabon 2,374 000,000 31 december 2010 est <\s>
+<s> 136 namibia 2,373 000,000 31 december 2010 est <\s>
+<s> 137 botswana 2,222 000,000 31 december 2010 est <\s>
+<s> 138 niger 2,100 000,000 2003 est <\s>
+<s> 139 burkina faso 2,002 000,000 31 december 2010 est <\s>
+<s> 140 tajikistan 1,997 000,000 31 december 2010 est <\s>
+<s> 141 mongolia 1,860 000,000 2009 142 sierra leone 1,610 000,000 2003 est <\s>
+<s> 143 albania 1,550 000,000 2004 144 papua new guinea 1,548 000,000 31 december 2010 est <\s>
+<s> 145 seychelles 1,374 000,000 31 december 2010 est <\s>
+<s> 146 malawi 1,213 000,000 31 december 2010 est <\s>
+<s> 147 burundi 1,200 000,000 2003 148 central african republic 1,153 000,000 2007 est <\s>
+<s> 149 west bank 1,040 000,000 2010 est <\s>
+<s> 150 belize 1,010 000,000 2009 est <\s>
+<s> 151 guinea-bissau 941,500 000                 2000 est <\s>
+<s> 152 bhutan 836,000 000                 2009 153 equatorial guinea 832,000 000 31 december 2010 est <\s>
+<s> 154 guyana 804,300 000 30 september 2008 155 barbados 668,000 000                 2003 156 montenegro 650,000 000                 2006 157 lesotho 647,000 000 31 december 2010 est <\s>
+<s> 158 maldives 589,000 000                 2009 est <\s>
+<s> 159 gambia the 530,000 000 31 december 2010 est <\s>
+<s> 160 suriname 504,300 000                 2005 est <\s>
+<s> 161 swaziland 497,000 000 31 december 2010 est <\s>
+<s> 162 haiti 494,000 000 31 december 2010 est <\s>
+<s> 163 saint vincent and the grenadines 479,000 000                 2010 est <\s>
+<s> 164 aruba 478,600 000                 2005 est <\s>
+<s> 165 djibouti 428,000 000                 2006 166 antigua and barbuda 359,800 000 june 2006 167 grenada 347,000 000                 2004 168 bahamas the 342,600 000                 2004 est <\s>
+<s> 169 cape verde 325,000 000                 2002 170 sao tome and principe 318,000 000                 2002 171 saint kitts and nevis 314,000 000                 2004 172 saint lucia 257,000 000                 2004 173 comoros 232,000 000                 2000 est <\s>
+<s> 174 dominica 213,000 000                 2004 175 samoa 177,000 000                 2004 176 solomon islands 166,000 000                 2004 177 bermuda 160,000 000 fy99 00 178 cook islands 141,000 000                 1996 est <\s>
+<s> 179 fiji 127,000 000                 2004 est <\s>
+<s> 180 marshall islands 87,000 000                  2008 est <\s>
+<s> 181 vanuatu 81,200 000                  2004 182 tonga 80,700 000                  2004 183 new caledonia 79,000 000                  1998 est <\s>
+<s> 184 cayman islands 70,000 000                  1996 185 faroe islands 68,100 000                  2006 186 micronesia federated states of 60,800 000 fy05 est <\s>
+<s> 187 greenland 58,000 000                  2009 188 british virgin islands 36,100 000                  1997 189 nauru 33,300 000 190 kiribati 10,000 000                  1999 est <\s>
+<s> 191 montserrat 8,900 000                   1997 192 anguilla 8,800 000                   1998 193 wallis and futuna 3,670 000                   2004 194 niue 418,000 2002 est <\s>
+<s> 195 brunei 0 2005 196 liechtenstein 0 2001 197 palau 0 fy99 00 198 macau 0 2009 rank code 2080 country comparison :: rank country date of information rank code 2081 country comparison :: flag description this entry provides a written flag description produced from actual flags or the best information available at the time the entry was written <\s>
+<s> the flags of independent states are used by their dependencies unless there is an officially recognized local flag <\s>
+<s> some disputed and other areas do not have flags <\s>
+<s> rank country flag description date of information rank code 2085 country comparison :: roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> rank country km date of information 1 united states 6,506 204                     2008 2 china 3,583 715                     2007 3 india 3,320 410                     2009 4 brazil 1,751 868                     2004 5 japan 1,203 777                     2008 6 canada 1,042 300                     2008 7 france 1,027 183                     2007 8 russia 982,000 2009 9 australia 812,972 2004 10 spain 681,298 2008 11 germany 644,480 2008 12 sweden 572,900 2009 13 italy 487,700 2007 14 indonesia 437,759 2008 15 poland 423,997 2008 16 united kingdom 394,428 2009 17 mexico 366,095 2008 18 south africa 362,099 2002 19 turkey 352,046 2008 20 pakistan 259,197 2007 21 bangladesh 239,226 2003 22 argentina 231,374 2004 23 saudi arabia 221,372 2006 24 philippines 201,910 2008 25 romania 198,817 2008 26 nigeria 193,200 2004 27 thailand 180,053 2006 28 iran 172,927 2006 29 vietnam 171,392 2008 30 ukraine 169,495 2009 31 colombia 164,257 2005 32 kenya 160,886 2008 33 hungary 160,057 2008 34 congo democratic republic of the 153,497 2004 35 belgium 152,256 2006 36 netherlands 136,827 2008 37 czech republic 128,582 2008 38 greece 117,533 2005 39 algeria 108,302 2004 40 austria 107,262 2006 41 korea south 103,029 2008 42 peru 102,887 2007 43 libya 100,024 2003 44 malaysia 98,721 2004 45 syria 97,401 2006 46 zimbabwe 97,267 2002 47 venezuela 96,155 2002 48 ireland 96,036 2008 49 belarus 94,797 2005 50 new zealand 93,911 2009 51 kazakhstan 93,612 2008 52 norway 92,946 2007 53 burkina faso 92,495 2004 54 sri lanka 91,907 2008 55 zambia 91,440 2001 56 uzbekistan 86,496 2000 57 portugal 82,900 2008 58 lithuania 81,030 2008 59 chile 80,505 2004 60 cote d'ivoire 80,000 2006 61 tanzania 78,892 2007 62 finland 78,141 2009 63 uruguay 77,732 2010 64 denmark 73,197 2008 65 latvia 73,074 2010 66 switzerland 71,384 2009 67 yemen 71,300 2005 68 uganda 70,746 2003 69 oman 68,467 2008 70 madagascar 65,663 2003 71 egypt 65,050 2009 72 namibia 64,189 2010 73 bolivia 62,479 2004 74 ghana 62,221 2006 75 cuba 60,858 2000 76 azerbaijan 59,141 2004 77 turkmenistan 58,592 2002 78 estonia 58,034 2009 79 morocco 57,625 2006 80 angola 51,429 2001 81 cameroon 50,000 2004 82 mongolia 49,250 2009 83 iraq 44,900 2002 84 guinea 44,348 2003 85 slovakia 43,761 2008 86 ecuador 43,670 2006 87 afghanistan 42,150 2006 88 taiwan 41,279 2008 89 bulgaria 40,231 2008 90 slovenia 38,873 2008 91 cambodia 38,093 2007 92 serbia 36,884 2007 93 laos 36,831 2007 94 ethiopia 36,469 2004 95 costa rica 35,330 2004 96 chad 33,400 2002 97 mozambique 30,400 2000 98 paraguay 29,500 2000 99 croatia 29,248 2008 100 tajikistan 27,767 2000 101 burma 27,000 2006 102 puerto rico 26,670 2008 103 botswana 25,798 2005 104 korea north 25,554 2006 105 central african republic 24,307 2000 106 somalia 22,100 2000 107 bosnia and herzegovina 21,846 2006 108 jamaica 21,552 2005 109 georgia 20,329 2006 110 dominican republic 19,705 2002 111 tunisia 19,232 2006 112 nicaragua 19,137 2009 113 niger 18,949 2008 114 mali 18,709 2004 115 kyrgyzstan 18,500 2003 116 israel 18,096 2008 117 albania 18,000 2002 118 congo republic of the 17,289 2004 119 nepal 17,282 2007 120 benin 16,000 2006 121 malawi 15,451 2003 122 cyprus 14,671 2008 123 honduras 14,239 2009 124 guatemala 14,095 2000 125 rwanda 14,008 2004 126 macedonia 13,736 2009 127 senegal 13,576 2003 128 iceland 12,869 2009 129 burundi 12,322 2004 130 panama 11,978 2002 131 sudan 11,900 2000 132 sierra leone 11,300 2002 133 mauritania 11,066 2006 134 el salvador 10,886 2000 135 liberia 10,600 2000 136 papua new guinea 9,349 2011 137 moldova 9,343 2008 138 gabon 9,170 2004 139 armenia 8,888 2008 140 trinidad and tobago 8,320 2000 141 bhutan 8,050 2003 142 guyana 7,970 2000 143 jordan 7,891 2009 144 qatar 7,790 2006 145 togo 7,520 2000 146 montenegro 7,404 2008 147 lesotho 7,091 2003 148 lebanon 6,970 2005 149 timor-leste 6,040 2005 150 kuwait 5,749 2004 151 new caledonia 5,622 2006 152 luxembourg 5,227 2008 153 west bank 5,147 2006 154 suriname 4,304 2003 155 haiti 4,160 2000 156 united arab emirates 4,080 2008 157 eritrea 4,010 2000 158 bahrain 3,851 2007 159 gambia the 3,742 2004 160 swaziland 3,594 2002 161 guinea-bissau 3,455 2002 162 fiji 3,440 2000 163 singapore 3,356 2009 164 djibouti 3,065 2000 165 belize 3,007 2006 166 brunei 2,971 2008 167 equatorial guinea 2,880 2000 168 bahamas the 2,717 2002 169 french polynesia 2,590 1999 170 samoa 2,337 2001 171 malta 2,227 2005 172 mauritius 2,066 2009 173 hong kong 2,050 2009 174 marshall islands 2,028 2007 175 kosovo 1,926 2009 176 barbados 1,600 2004 177 solomon islands 1,360 2002 178 cape verde 1,350 2000 179 virgin islands 1,260 2008 180 saint lucia 1,210 2002 181 antigua and barbuda 1,165 2002 182 grenada 1,127 2000 183 vanuatu 1,070 1999 184 comoros 880                           2002 185 saint vincent and the grenadines 829                           2003 186 cayman islands 785                           2007 187 dominica 780                           2000 188 tonga 680                           2000 189 kiribati 670                           2000 190 jersey 576                           2010 191 curacao 550 na 192 northern mariana islands 536                           2008 193 isle of man 500                           2008 194 faroe islands 463                           2006 195 seychelles 458                           2003 196 bermuda 447                           2007 197 falkland islands islas malvinas 440                           2008 198 macau 413                           2009 199 saint kitts and nevis 383                           2002 200 liechtenstein 380                           2010 201 andorra 320                           2008 202 sao tome and principe 320                           2000 203 cook islands 320                           2003 204 san marino 292                           2006 205 american samoa 241                           2008 206 micronesia federated states of 240                           2000 207 british virgin islands 200                           2007 208 saint helena ascension and tristan da cunha 198                2002 209 anguilla 175                           2004 210 christmas island 140                           2007 211 turks and caicos islands 121                           2003 212 niue 120                           2008 213 saint pierre and miquelon 117                           2000 214 maldives 88 2006 215 norfolk island 80 2008 216 sint maarten 53 na 217 monaco 50 2007 218 gibraltar 29 2007 219 nauru 24 2002 220 cocos keeling islands 22 2007 221 tuvalu 8 2002 rank code 2086 country comparison :: illicit drugs this entry gives information on the five categories of illicit drugs narcotics stimulants depressants sedatives hallucinogens and cannabis <\s>
+<s> these categories include many drugs legally produced and prescribed by doctors as well as those illegally produced and sold outside of medical channels <\s>
+<s> cannabis cannabis sativa is the common hemp plant which provides hallucinogens with some sedative properties and includes marijuana pot acapulco gold grass reefer tetrahydrocannabinol thc marinol hashish hash and hashish oil hash oil <\s>
+<s> coca mostly erythroxylum coca is a bush with leaves that contain the stimulant used to make cocaine <\s>
+<s> coca is not to be confused with cocoa which comes from cacao seeds and is used in making chocolate cocoa and cocoa butter <\s>
+<s> cocaine is a stimulant derived from the leaves of the coca bush <\s>
+<s> depressants sedatives are drugs that reduce tension and anxiety and include chloral hydrate barbiturates amytal nembutal seconal phenobarbital benzodiazepines librium valium methaqualone quaalude glutethimide doriden and others equanil placidyl valmid <\s>
+<s> drugs are any chemical substances that effect a physical mental emotional or behavioral change in an individual <\s>
+<s> drug abuse is the use of any licit or illicit chemical substance that results in physical mental emotional or behavioral impairment in an individual <\s>
+<s> hallucinogens are drugs that affect sensation thinking self-awareness and emotion <\s>
+<s> hallucinogens include lsd acid microdot mescaline and peyote mexc buttons cactus amphetamine variants pma stp dob phencyclidine pcp angel dust hog phencyclidine analogues pce pcpy tcp and others psilocybin psilocyn <\s>
+<s> hashish is the resinous exudate of the cannabis or hemp plant cannabis sativa <\s>
+<s> heroin is a semisynthetic derivative of morphine <\s>
+<s> mandrax is a trade name for methaqualone a pharmaceutical depressant <\s>
+<s> marijuana is the dried leaf of the cannabis or hemp plant cannabis sativa <\s>
+<s> methaqualone is a pharmaceutical depressant referred to as mandrax in southwest asia and africa <\s>
+<s> narcotics are drugs that relieve pain often induce sleep and refer to opium opium derivatives and synthetic substitutes <\s>
+<s> natural narcotics include opium paregoric parepectolin morphine ms-contin roxanol codeine tylenol with codeine empirin with codeine robitussin ac and thebaine <\s>
+<s> semisynthetic narcotics include heroin horse smack and hydromorphone dilaudid <\s>
+<s> synthetic narcotics include meperidine or pethidine demerol mepergan methadone dolophine methadose and others darvon lomotil <\s>
+<s> opium is the brown gummy exudate of the incised unripe seedpod of the opium poppy <\s>
+<s> opium poppy papaver somniferum is the source for the natural and semisynthetic narcotics <\s>
+<s> poppy straw is the entire cut and dried opium poppy-plant material other than the seeds <\s>
+<s> opium is extracted from poppy straw in commercial operations that produce the drug for medical use <\s>
+<s> qat kat khat is a stimulant from the buds or leaves of catha edulis that is chewed or drunk as tea <\s>
+<s> quaaludes is the north american slang term for methaqualone a pharmaceutical depressant <\s>
+<s> stimulants are drugs that relieve mild depression increase energy and activity and include cocaine coke snow crack amphetamines desoxyn dexedrine ephedrine ecstasy clarity essence doctor adam phenmetrazine preludin methylphenidate ritalin and others cylert sanorex tenuate <\s>
+<s> rank country illicit drugs date of information rank code 2087 country comparison :: imports this entry provides the total us dollar amount of merchandise imports on a c i f <\s>
+<s> cost insurance and freight or f o b <\s>
+<s> free on board basis <\s>
+<s> these figures are calculated on an exchange rate basis i e not in purchasing power parity ppp terms <\s>
+<s> rank country imports date of information 1 united states 1,903 000,000 000           2010 est <\s>
+<s> 2 european union 1,690 000,000 000           2007 3 china 1,307 000,000 000           2010 est <\s>
+<s> 4 germany 1,120 000,000 000           2010 est <\s>
+<s> 5 japan 636,800 000,000 2010 est <\s>
+<s> 6 france 577,700 000,000 2010 est <\s>
+<s> 7 united kingdom 546,500 000,000 2010 est <\s>
+<s> 8 italy 459,700 000,000 2010 est <\s>
+<s> 9 korea south 417,900 000,000 2010 est <\s>
+<s> 10 hong kong 413,000 000,000 2010 est <\s>
+<s> 11 netherlands 408,400 000,000 2010 est <\s>
+<s> 12 canada 406,400 000,000 2010 est <\s>
+<s> 13 india 327,000 000,000 2010 est <\s>
+<s> 14 spain 324,600 000,000 2010 est <\s>
+<s> 15 singapore 315,600 000,000 2010 est <\s>
+<s> 16 mexico 306,000 000,000 2010 est <\s>
+<s> 112 congo democratic republic of the 4,300 000,000 2009 est <\s>
+<s> 113 ethiopia 4,289 000,000 31 december 2010 est <\s>
+<s> 114 uzbekistan 4,236 000,000 31 december 2010 est <\s>
+<s> 115 moldova 4,146 000,000 31 december 2010 est <\s>
+<s> 116 algeria 4,138 000,000 31 december 2010 est <\s>
+<s> 117 nicaragua 4,030 000,000 31 december 2010 est <\s>
+<s> 118 senegal 3,885 000,000 31 december 2010 est <\s>
+<s> 119 kyrgyzstan 3,738 000,000 30 june 2010 120 honduras 3,540 000,000 31 december 2010 est <\s>
+<s> 121 zambia 3,495 000,000 31 december 2010 est <\s>
+<s> 122 georgia 3,381 000,000 31 december 2009 123 cameroon 3,344 000,000 31 december 2010 est <\s>
+<s> 124 azerbaijan 3,221 000,000 31 december 2010 est <\s>
+<s> 125 liberia 3,200 000,000 2005 est <\s>
+<s> 126 laos 3,085 000,000 2009 est <\s>
+<s> 127 iceland 3,073 000,000 2002 128 guinea 3,072 000,000 31 december 2009 est <\s>
+<s> 129 somalia 3,000 000,000 2001 est <\s>
+<s> 130 madagascar 2,973 000,000 31 december 2010 est <\s>
+<s> 131 benin 2,894 000,000 31 december 2009 est <\s>
+<s> 132 uganda 2,888 000,000 31 december 2010 est <\s>
+<s> 133 mali 2,800 000,000 2002 134 afghanistan 2,700 000,000 2008/2009 135 gabon 2,374 000,000 31 december 2010 est <\s>
+<s> 136 namibia 2,373 000,000 31 december 2010 est <\s>
+<s> 137 botswana 2,222 000,000 31 december 2010 est <\s>
+<s> 138 niger 2,100 000,000 2003 est <\s>
+<s> 139 burkina faso 2,002 000,000 31 december 2010 est <\s>
+<s> 140 tajikistan 1,997 000,000 31 december 2010 est <\s>
+<s> 141 mongolia 1,860 000,000 2009 142 sierra leone 1,610 000,000 2003 est <\s>
+<s> 143 albania 1,550 000,000 2004 144 papua new guinea 1,548 000,000 31 december 2010 est <\s>
+<s> 145 seychelles 1,374 000,000 31 december 2010 est <\s>
+<s> 146 malawi 1,213 000,000 31 december 2010 est <\s>
+<s> 147 burundi 1,200 000,000 2003 148 central african republic 1,153 000,000 2007 est <\s>
+<s> 149 west bank 1,040 000,000 2010 est <\s>
+<s> 150 belize 1,010 000,000 2009 est <\s>
+<s> 151 guinea-bissau 941,500 000                 2000 est <\s>
+<s> 152 bhutan 836,000 000                 2009 153 equatorial guinea 832,000 000 31 december 2010 est <\s>
+<s> 154 guyana 804,300 000 30 september 2008 155 barbados 668,000 000                 2003 156 montenegro 650,000 000                 2006 157 lesotho 647,000 000 31 december 2010 est <\s>
+<s> 158 maldives 589,000 000                 2009 est <\s>
+<s> 159 gambia the 530,000 000 31 december 2010 est <\s>
+<s> 160 suriname 504,300 000                 2005 est <\s>
+<s> 161 swaziland 497,000 000 31 december 2010 est <\s>
+<s> 162 haiti 494,000 000 31 december 2010 est <\s>
+<s> 163 saint vincent and the grenadines 479,000 000                 2010 est <\s>
+<s> 164 aruba 478,600 000                 2005 est <\s>
+<s> 165 djibouti 428,000 000                 2006 166 antigua and barbuda 359,800 000 june 2006 167 grenada 347,000 000                 2004 168 bahamas the 342,600 000                 2004 est <\s>
+<s> 169 cape verde 325,000 000                 2002 170 sao tome and principe 318,000 000                 2002 171 saint kitts and nevis 314,000 000                 2004 172 saint lucia 257,000 000                 2004 173 comoros 232,000 000                 2000 est <\s>
+<s> 174 dominica 213,000 000                 2004 175 samoa 177,000 000                 2004 176 solomon islands 166,000 000                 2004 177 bermuda 160,000 000 fy99 00 178 cook islands 141,000 000                 1996 est <\s>
+<s> 179 fiji 127,000 000                 2004 est <\s>
+<s> 180 marshall islands 87,000 000                  2008 est <\s>
+<s> 181 vanuatu 81,200 000                  2004 182 tonga 80,700 000                  2004 183 new caledonia 79,000 000                  1998 est <\s>
+<s> 184 cayman islands 70,000 000                  1996 185 faroe islands 68,100 000                  2006 186 micronesia federated states of 60,800 000 fy05 est <\s>
+<s> 187 greenland 58,000 000                  2009 188 british virgin islands 36,100 000                  1997 189 nauru 33,300 000 190 kiribati 10,000 000                  1999 est <\s>
+<s> 191 montserrat 8,900 000                   1997 192 anguilla 8,800 000                   1998 193 wallis and futuna 3,670 000                   2004 194 niue 418,000 2002 est <\s>
+<s> 195 brunei 0 2005 196 liechtenstein 0 2001 197 palau 0 fy99 00 198 macau 0 2009 rank code 2080 country comparison :: rank country date of information rank code 2081 country comparison :: flag description this entry provides a written flag description produced from actual flags or the best information available at the time the entry was written <\s>
+<s> the flags of independent states are used by their dependencies unless there is an officially recognized local flag <\s>
+<s> some disputed and other areas do not have flags <\s>
+<s> rank country flag description date of information rank code 2085 country comparison :: roadways this entry gives the total length of the road network and includes the length of the paved and unpaved portions <\s>
+<s> rank country km date of information 1 united states 6,506 204                     2008 2 china 3,583 715                     2007 3 india 3,320 410                     2009 4 brazil 1,751 868                     2004 5 japan 1,203 777                     2008 6 canada 1,042 300                     2008 7 france 1,027 183                     2007 8 russia 982,000 2009 9 australia 812,972 2004 10 spain 681,298 2008 11 germany 644,480 2008 12 sweden 572,900 2009 13 italy 487,700 2007 14 indonesia 437,759 2008 15 poland 423,997 2008 16 united kingdom 394,428 2009 17 mexico 366,095 2008 18 south africa 362,099 2002 19 turkey 352,046 2008 20 pakistan 259,197 2007 21 bangladesh 239,226 2003 22 argentina 231,374 2004 23 saudi arabia 221,372 2006 24 philippines 201,910 2008 25 romania 198,817 2008 26 nigeria 193,200 2004 27 thailand 180,053 2006 28 iran 172,927 2006 29 vietnam 171,392 2008 30 ukraine 169,495 2009 31 colombia 164,257 2005 32 kenya 160,886 2008 33 hungary 160,057 2008 34 congo democratic republic of the 153,497 2004 35 belgium 152,256 2006 36 netherlands 136,827 2008 37 czech republic 128,582 2008 38 greece 117,533 2005 39 algeria 108,302 2004 40 austria 107,262 2006 41 korea south 103,029 2008 42 peru 102,887 2007 43 libya 100,024 2003 44 malaysia 98,721 2004 45 syria 97,401 2006 46 zimbabwe 97,267 2002 47 venezuela 96,155 2002 48 ireland 96,036 2008 49 belarus 94,797 2005 50 new zealand 93,911 2009 51 kazakhstan 93,612 2008 52 norway 92,946 2007 53 burkina faso 92,495 2004 54 sri lanka 91,907 2008 55 zambia 91,440 2001 56 uzbekistan 86,496 2000 57 portugal 82,900 2008 58 lithuania 81,030 2008 59 chile 80,505 2004 60 cote d'ivoire 80,000 2006 61 tanzania 78,892 2007 62 finland 78,141 2009 63 uruguay 77,732 2010 64 denmark 73,197 2008 65 latvia 73,074 2010 66 switzerland 71,384 2009 67 yemen 71,300 2005 68 uganda 70,746 2003 69 oman 68,467 2008 70 madagascar 65,663 2003 71 egypt 65,050 2009 72 namibia 64,189 2010 73 bolivia 62,479 2004 74 ghana 62,221 2006 75 cuba 60,858 2000 76 azerbaijan 59,141 2004 77 turkmenistan 58,592 2002 78 estonia 58,034 2009 79 morocco 57,625 2006 80 angola 51,429 2001 81 cameroon 50,000 2004 82 mongolia 49,250 2009 83 iraq 44,900 2002 84 guinea 44,348 2003 85 slovakia 43,761 2008 86 ecuador 43,670 2006 87 afghanistan 42,150 2006 88 taiwan 41,279 2008 89 bulgaria 40,231 2008 90 slovenia 38,873 2008 91 cambodia 38,093 2007 92 serbia 36,884 2007 93 laos 36,831 2007 94 ethiopia 36,469 2004 95 costa rica 35,330 2004 96 chad 33,400 2002 97 mozambique 30,400 2000 98 paraguay 29,500 2000 99 croatia 29,248 2008 100 tajikistan 27,767 2000 101 burma 27,000 2006 102 puerto rico 26,670 2008 103 botswana 25,798 2005 104 korea north 25,554 2006 105 central african republic 24,307 2000 106 somalia 22,100 2000 107 bosnia and herzegovina 21,846 2006 108 jamaica 21,552 2005 109 georgia 20,329 2006 110 dominican republic 19,705 2002 111 tunisia 19,232 2006 112 nicaragua 19,137 2009 113 niger 18,949 2008 114 mali 18,709 2004 115 kyrgyzstan 18,500 2003 116 israel 18,096 2008 117 albania 18,000 2002 118 congo republic of the 17,289 2004 119 nepal 17,282 2007 120 benin 16,000 2006 121 malawi 15,451 2003 122 cyprus 14,671 2008 123 honduras 14,239 2009 124 guatemala 14,095 2000 125 rwanda 14,008 2004 126 macedonia 13,736 2009 127 senegal 13,576 2003 128 iceland 12,869 2009 129 burundi 12,322 2004 130 panama 11,978 2002 131 sudan 11,900 2000 132 sierra leone 11,300 2002 133 mauritania 11,066 2006 134 el salvador 10,886 2000 135 liberia 10,600 2000 136 papua new guinea 9,349 2011 137 moldova 9,343 2008 138 gabon 9,170 2004 139 armenia 8,888 2008 140 trinidad and tobago 8,320 2000 141 bhutan 8,050 2003 142 guyana 7,970 2000 143 jordan 7,891 2009 144 qatar 7,790 2006 145 togo 7,520 2000 146 montenegro 7,404 2008 147 lesotho 7,091 2003 148 lebanon 6,970 2005 149 timor-leste 6,040 2005 150 kuwait 5,749 2004 151 new caledonia 5,622 2006 152 luxembourg 5,227 2008 153 west bank 5,147 2006 154 suriname 4,304 2003 155 haiti 4,160 2000 156 united arab emirates 4,080 2008 157 eritrea 4,010 2000 158 bahrain 3,851 2007 159 gambia the 3,742 2004 160 swaziland 3,594 2002 161 guinea-bissau 3,455 2002 162 fiji 3,440 2000 163 singapore 3,356 2009 164 djibouti 3,065 2000 165 belize 3,007 2006 166 brunei 2,971 2008 167 equatorial guinea 2,880 2000 168 bahamas the 2,717 2002 169 french polynesia 2,590 1999 170 samoa 2,337 2001 171 malta 2,227 2005 172 mauritius 2,066 2009 173 hong kong 2,050 2009 174 marshall islands 2,028 2007 175 kosovo 1,926 2009 176 barbados 1,600 2004 177 solomon islands 1,360 2002 178 cape verde 1,350 2000 179 virgin islands 1,260 2008 180 saint lucia 1,210 2002 181 antigua and barbuda 1,165 2002 182 grenada 1,127 2000 183 vanuatu 1,070 1999 184 comoros 880                           2002 185 saint vincent and the grenadines 829                           2003 186 cayman islands 785                           2007 187 dominica 780                           2000 188 tonga 680                           2000 189 kiribati 670                           2000 190 jersey 576                           2010 191 curacao 550 na 192 northern mariana islands 536                           2008 193 isle of man 500                           2008 194 faroe islands 463                           2006 195 seychelles 458                           2003 196 bermuda 447                           2007 197 falkland islands islas malvinas 440                           2008 198 macau 413                           2009 199 saint kitts and nevis 383                           2002 200 liechtenstein 380                           2010 201 andorra 320                           2008 202 sao tome and principe 320                           2000 203 cook islands 320                           2003 204 san marino 292                           2006 205 american samoa 241                           2008 206 micronesia federated states of 240                           2000 207 british virgin islands 200                           2007 208 saint helena ascension and tristan da cunha 198                2002 209 anguilla 175                           2004 210 christmas island 140                           2007 211 turks and caicos islands 121                           2003 212 niue 120                           2008 213 saint pierre and miquelon 117                           2000 214 maldives 88 2006 215 norfolk island 80 2008 216 sint maarten 53 na 217 monaco 50 2007 218 gibraltar 29 2007 219 nauru 24 2002 220 cocos keeling islands 22 2007 221 tuvalu 8 2002 rank code 2086 country comparison :: illicit drugs this entry gives information on the five categories of illicit drugs narcotics stimulants depressants sedatives hallucinogens and cannabis <\s>
+<s> these categories include many drugs legally produced and prescribed by doctors as well as those illegally produced and sold outside of medical channels <\s>
+<s> cannabis cannabis sativa is the common hemp plant which provides hallucinogens with some sedative properties and includes marijuana pot acapulco gold grass reefer tetrahydrocannabinol thc marinol hashish hash and hashish oil hash oil <\s>
+<s> coca mostly erythroxylum coca is a bush with leaves that contain the stimulant used to make cocaine <\s>
+<s> coca is not to be confused with cocoa which comes from cacao seeds and is used in making chocolate cocoa and cocoa butter <\s>
+<s> cocaine is a stimulant derived from the leaves of the coca bush <\s>
+<s> depressants sedatives are drugs that reduce tension and anxiety and include chloral hydrate barbiturates amytal nembutal seconal phenobarbital benzodiazepines librium valium methaqualone quaalude glutethimide doriden and others equanil placidyl valmid <\s>
+<s> drugs are any chemical substances that effect a physical mental emotional or behavioral change in an individual <\s>
+<s> drug abuse is the use of any licit or illicit chemical substance that results in physical mental emotional or behavioral impairment in an individual <\s>
+<s> hallucinogens are drugs that affect sensation thinking self-awareness and emotion <\s>
+<s> hallucinogens include lsd acid microdot mescaline and peyote mexc buttons cactus amphetamine variants pma stp dob phencyclidine pcp angel dust hog phencyclidine analogues pce pcpy tcp and others psilocybin psilocyn <\s>
+<s> hashish is the resinous exudate of the cannabis or hemp plant cannabis sativa <\s>
+<s> heroin is a semisynthetic derivative of morphine <\s>
+<s> mandrax is a trade name for methaqualone a pharmaceutical depressant <\s>
+<s> marijuana is the dried leaf of the cannabis or hemp plant cannabis sativa <\s>
+<s> methaqualone is a pharmaceutical depressant referred to as mandrax in southwest asia and africa <\s>
+<s> narcotics are drugs that relieve pain often induce sleep and refer to opium opium derivatives and synthetic substitutes <\s>
+<s> natural narcotics include opium paregoric parepectolin morphine ms-contin roxanol codeine tylenol with codeine empirin with codeine robitussin ac and thebaine <\s>
+<s> semisynthetic narcotics include heroin horse smack and hydromorphone dilaudid <\s>
+<s> synthetic narcotics include meperidine or pethidine demerol mepergan methadone dolophine methadose and others darvon lomotil <\s>
+<s> opium is the brown gummy exudate of the incised unripe seedpod of the opium poppy <\s>
+<s> opium poppy papaver somniferum is the source for the natural and semisynthetic narcotics <\s>
+<s> poppy straw is the entire cut and dried opium poppy-plant material other than the seeds <\s>
+<s> opium is extracted from poppy straw in commercial operations that produce the drug for medical use <\s>
+<s> qat kat khat is a stimulant from the buds or leaves of catha edulis that is chewed or drunk as tea <\s>
+<s> quaaludes is the north american slang term for methaqualone a pharmaceutical depressant <\s>
+<s> stimulants are drugs that relieve mild depression increase energy and activity and include cocaine coke snow crack amphetamines desoxyn dexedrine ephedrine ecstasy clarity essence doctor adam phenmetrazine preludin methylphenidate ritalin and others cylert sanorex tenuate <\s>
+<s> rank country illicit drugs date of information rank code 2087 country comparison :: imports this entry provides the total us dollar amount of merchandise imports on a c i f <\s>
+<s> cost insurance and freight or f o b <\s>
+<s> free on board basis <\s>
+<s> these figures are calculated on an exchange rate basis i e not in purchasing power parity ppp terms <\s>
+<s> rank country imports date of information 1 united states 1,903 000,000 000           2010 est <\s>
+<s> 2 european union 1,690 000,000 000           2007 3 china 1,307 000,000 000           2010 est <\s>
+<s> 4 germany 1,120 000,000 000           2010 est <\s>
+<s> 5 japan 636,800 000,000 2010 est <\s>
+<s> 6 france 577,700 000,000 2010 est <\s>
+<s> 7 united kingdom 546,500 000,000 2010 est <\s>
+<s> 8 italy 459,700 000,000 2010 est <\s>
+<s> 9 korea south 417,900 000,000 2010 est <\s>
+<s> 10 hong kong 413,000 000,000 2010 est <\s>
+<s> 11 netherlands 408,400 000,000 2010 est <\s>
+<s> 12 canada 406,400 000,000 2010 est <\s>
+<s> 13 india 327,000 000,000 2010 est <\s>
+<s> 14 spain 324,600 000,000 2010 est <\s>
+<s> 15 singapore 315,600 000,000 2010 est <\s>
+<s> 16 mexico 306,000 000,000 2010 est <\s>

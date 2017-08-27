@@ -1,0 +1,200 @@
+<s> 35 azerbaijan 1.13 2010 est <\s>
+<s> 36 bahrain 1.13 2010 est <\s>
+<s> 37 palau 1.13 2010 est <\s>
+<s> 38 india 1.13 2010 est <\s>
+<s> 39 bhutan 1.13 2010 est <\s>
+<s> 40 cook islands 1.13 2010 est <\s>
+<s> 41 azerbaijan 1.12 2010 est <\s>
+<s> 42 albania 1.12 2010 est <\s>
+<s> 43 bhutan 1.12 2010 est <\s>
+<s> 44 georgia 1.12 2010 est <\s>
+<s> 45 greenland 1.12 2010 est <\s>
+<s> 46 india 1.12 2010 est <\s>
+<s> 47 vietnam 1.12 2010 est <\s>
+<s> 48 albania 1.10 2010 est <\s>
+<s> 49 wallis and futuna 1.10 2010 est <\s>
+<s> 50 bhutan 1.10 2010 est <\s>
+<s> 51 korea south 1.10 2010 est <\s>
+<s> 52 vietnam 1.10 2010 est <\s>
+<s> 53 turks and caicos islands 1.10 2010 est <\s>
+<s> 54 grenada 1.10 2010 est <\s>
+<s> 55 andorra 1.09 2010 est <\s>
+<s> 56 seychelles 1.09 2010 est <\s>
+<s> 57 portugal 1.09 2010 est <\s>
+<s> 58 pakistan 1.09 2010 est <\s>
+<s> 59 montserrat 1.09 2010 est <\s>
+<s> 60 kosovo 1.09 2010 est <\s>
+<s> 61 kosovo 1.09 2010 est <\s>
+<s> 62 hong kong 1.09 2010 est <\s>
+<s> 63 faroe islands 1.09 2010 est <\s>
+<s> 64 kosovo 1.09 2010 est <\s>
+<s> 65 san marino 1.09 2010 est <\s>
+<s> 66 taiwan 1.09 2010 est <\s>
+<s> 67 cyprus 1.08 2010 est <\s>
+<s> 68 india 1.08 2010 est <\s>
+<s> 69 macedonia 1.08 2010 est <\s>
+<s> 70 taiwan 1.08 2010 est <\s>
+<s> 71 switzerland 1.08 2010 est <\s>
+<s> 72 singapore 1.08 2010 est <\s>
+<s> 73 samoa 1.08 2010 est <\s>
+<s> 74 montenegro 1.08 2010 est <\s>
+<s> 75 mayotte 1.08 2010 est <\s>
+<s> 76 jersey 1.08 2010 est <\s>
+<s> 77 isle of man 1.08 2010 est <\s>
+<s> 78 macedonia 1.08 2010 est <\s>
+<s> 79 singapore 1.08 2010 est <\s>
+<s> 80 hong kong 1.08 2010 est <\s>
+<s> 81 bosnia and herzegovina 1.07 2010 est <\s>
+<s> 82 montenegro 1.07 2010 est <\s>
+<s> 83 tunisia 1.07 2010 est <\s>
+<s> 84 gibraltar 1.07 2010 est <\s>
+<s> 85 andorra 1.07 2010 est <\s>
+<s> 86 cook islands 1.07 2010 est <\s>
+<s> 87 serbia 1.07 2010 est <\s>
+<s> 88 samoa 1.07 2010 est <\s>
+<s> 89 pakistan 1.07 2010 est <\s>
+<s> 90 korea south 1.07 2010 est <\s>
+<s> 91 ireland 1.07 2010 est <\s>
+<s> 92 india 1.07 2010 est <\s>
+<s> 93 french polynesia 1.07 2010 est <\s>
+<s> 94 faroe islands 1.07 2010 est <\s>
+<s> 95 cook islands 1.07 2010 est <\s>
+<s> 96 bosnia and herzegovina 1.07 2010 est <\s>
+<s> 97 british virgin islands 1.07 2010 est <\s>
+<s> 98 turks and caicos islands 1.07 2010 est <\s>
+<s> 99 tunisia 1.07 2010 est <\s>
+<s> 100 luxembourg 1.07 2010 est <\s>
+<s> 101 faroe islands 1.07 2010 est <\s>
+<s> 102 malaysia 1.07 2010 est <\s>
+<s> 103 suriname 1.07 2010 est <\s>
+<s> 104 portugal 1.07 2010 est <\s>
+<s> 105 andorra 1.07 2010 est <\s>
+<s> 106 luxembourg 1.07 2010 est <\s>
+<s> 107 italy 1.07 2010 est <\s>
+<s> 108 slovenia 1.07 2010 est <\s>
+<s> 109 palau 1.07 2010 est <\s>
+<s> 110 serbia 1.07 2010 est <\s>
+<s> 111 ukraine 1.07 2010 est <\s>
+<s> 112 spain 1.07 2010 est <\s>
+<s> 113 greece 1.06 2010 est <\s>
+<s> 114 estonia 1.06 2010 est <\s>
+<s> 115 belarus 1.06 2010 est <\s>
+<s> 116 american samoa 1.06 2010 est <\s>
+<s> 117 sweden 1.06 2010 est <\s>
+<s> 118 poland 1.06 2010 est <\s>
+<s> 119 andorra 1.06 2010 est <\s>
+<s> 120 european union 1.06 2009 est <\s>
+<s> 121 european union 1.06 2009 est <\s>
+<s> 122 west bank 1.06 2010 est <\s>
+<s> 123 uzbekistan 1.06 2010 est <\s>
+<s> 124 ukraine 1.06 2010 est <\s>
+<s> 125 tuvalu 1.06 2010 est <\s>
+<s> 126 trinidad and tobago 1.06 2010 est <\s>
+<s> 127 syria 1.06 2010 est <\s>
+<s> 128 sweden 1.06 2010 est <\s>
+<s> 129 spain 1.06 2010 est <\s>
+<s> 130 slovenia 1.06 2010 est <\s>
+<s> 131 samoa 1.06 2010 est <\s>
+<s> 132 saint vincent and the grenadines 1.06 2010 est <\s>
+<s> 133 saint pierre and miquelon 1.06 2010 est <\s>
+<s> 134 saint barthelemy 1.06 2010 est <\s>
+<s> 35 azerbaijan 1.13 2010 est <\s>
+<s> 36 bahrain 1.13 2010 est <\s>
+<s> 37 palau 1.13 2010 est <\s>
+<s> 38 india 1.13 2010 est <\s>
+<s> 39 bhutan 1.13 2010 est <\s>
+<s> 40 cook islands 1.13 2010 est <\s>
+<s> 41 azerbaijan 1.12 2010 est <\s>
+<s> 42 albania 1.12 2010 est <\s>
+<s> 43 bhutan 1.12 2010 est <\s>
+<s> 44 georgia 1.12 2010 est <\s>
+<s> 45 greenland 1.12 2010 est <\s>
+<s> 46 india 1.12 2010 est <\s>
+<s> 47 vietnam 1.12 2010 est <\s>
+<s> 48 albania 1.10 2010 est <\s>
+<s> 49 wallis and futuna 1.10 2010 est <\s>
+<s> 50 bhutan 1.10 2010 est <\s>
+<s> 51 korea south 1.10 2010 est <\s>
+<s> 52 vietnam 1.10 2010 est <\s>
+<s> 53 turks and caicos islands 1.10 2010 est <\s>
+<s> 54 grenada 1.10 2010 est <\s>
+<s> 55 andorra 1.09 2010 est <\s>
+<s> 56 seychelles 1.09 2010 est <\s>
+<s> 57 portugal 1.09 2010 est <\s>
+<s> 58 pakistan 1.09 2010 est <\s>
+<s> 59 montserrat 1.09 2010 est <\s>
+<s> 60 kosovo 1.09 2010 est <\s>
+<s> 61 kosovo 1.09 2010 est <\s>
+<s> 62 hong kong 1.09 2010 est <\s>
+<s> 63 faroe islands 1.09 2010 est <\s>
+<s> 64 kosovo 1.09 2010 est <\s>
+<s> 65 san marino 1.09 2010 est <\s>
+<s> 66 taiwan 1.09 2010 est <\s>
+<s> 67 cyprus 1.08 2010 est <\s>
+<s> 68 india 1.08 2010 est <\s>
+<s> 69 macedonia 1.08 2010 est <\s>
+<s> 70 taiwan 1.08 2010 est <\s>
+<s> 71 switzerland 1.08 2010 est <\s>
+<s> 72 singapore 1.08 2010 est <\s>
+<s> 73 samoa 1.08 2010 est <\s>
+<s> 74 montenegro 1.08 2010 est <\s>
+<s> 75 mayotte 1.08 2010 est <\s>
+<s> 76 jersey 1.08 2010 est <\s>
+<s> 77 isle of man 1.08 2010 est <\s>
+<s> 78 macedonia 1.08 2010 est <\s>
+<s> 79 singapore 1.08 2010 est <\s>
+<s> 80 hong kong 1.08 2010 est <\s>
+<s> 81 bosnia and herzegovina 1.07 2010 est <\s>
+<s> 82 montenegro 1.07 2010 est <\s>
+<s> 83 tunisia 1.07 2010 est <\s>
+<s> 84 gibraltar 1.07 2010 est <\s>
+<s> 85 andorra 1.07 2010 est <\s>
+<s> 86 cook islands 1.07 2010 est <\s>
+<s> 87 serbia 1.07 2010 est <\s>
+<s> 88 samoa 1.07 2010 est <\s>
+<s> 89 pakistan 1.07 2010 est <\s>
+<s> 90 korea south 1.07 2010 est <\s>
+<s> 91 ireland 1.07 2010 est <\s>
+<s> 92 india 1.07 2010 est <\s>
+<s> 93 french polynesia 1.07 2010 est <\s>
+<s> 94 faroe islands 1.07 2010 est <\s>
+<s> 95 cook islands 1.07 2010 est <\s>
+<s> 96 bosnia and herzegovina 1.07 2010 est <\s>
+<s> 97 british virgin islands 1.07 2010 est <\s>
+<s> 98 turks and caicos islands 1.07 2010 est <\s>
+<s> 99 tunisia 1.07 2010 est <\s>
+<s> 100 luxembourg 1.07 2010 est <\s>
+<s> 101 faroe islands 1.07 2010 est <\s>
+<s> 102 malaysia 1.07 2010 est <\s>
+<s> 103 suriname 1.07 2010 est <\s>
+<s> 104 portugal 1.07 2010 est <\s>
+<s> 105 andorra 1.07 2010 est <\s>
+<s> 106 luxembourg 1.07 2010 est <\s>
+<s> 107 italy 1.07 2010 est <\s>
+<s> 108 slovenia 1.07 2010 est <\s>
+<s> 109 palau 1.07 2010 est <\s>
+<s> 110 serbia 1.07 2010 est <\s>
+<s> 111 ukraine 1.07 2010 est <\s>
+<s> 112 spain 1.07 2010 est <\s>
+<s> 113 greece 1.06 2010 est <\s>
+<s> 114 estonia 1.06 2010 est <\s>
+<s> 115 belarus 1.06 2010 est <\s>
+<s> 116 american samoa 1.06 2010 est <\s>
+<s> 117 sweden 1.06 2010 est <\s>
+<s> 118 poland 1.06 2010 est <\s>
+<s> 119 andorra 1.06 2010 est <\s>
+<s> 120 european union 1.06 2009 est <\s>
+<s> 121 european union 1.06 2009 est <\s>
+<s> 122 west bank 1.06 2010 est <\s>
+<s> 123 uzbekistan 1.06 2010 est <\s>
+<s> 124 ukraine 1.06 2010 est <\s>
+<s> 125 tuvalu 1.06 2010 est <\s>
+<s> 126 trinidad and tobago 1.06 2010 est <\s>
+<s> 127 syria 1.06 2010 est <\s>
+<s> 128 sweden 1.06 2010 est <\s>
+<s> 129 spain 1.06 2010 est <\s>
+<s> 130 slovenia 1.06 2010 est <\s>
+<s> 131 samoa 1.06 2010 est <\s>
+<s> 132 saint vincent and the grenadines 1.06 2010 est <\s>
+<s> 133 saint pierre and miquelon 1.06 2010 est <\s>
+<s> 134 saint barthelemy 1.06 2010 est <\s>
