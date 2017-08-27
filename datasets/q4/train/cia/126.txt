@@ -1,0 +1,400 @@
+<s> 19 belarus 13.81 july 2010 est <\s>
+<s> 20 malawi 13.69 july 2010 est <\s>
+<s> 21 latvia 13.60 july 2010 est <\s>
+<s> 22 estonia 13.48 july 2010 est <\s>
+<s> 23 burkina faso 13.02 july 2010 est <\s>
+<s> 24 namibia 12.97 july 2010 est <\s>
+<s> 25 gabon 12.90 july 2010 est <\s>
+<s> 26 zambia 12.84 july 2010 est <\s>
+<s> 27 hungary 12.67 july 2010 est <\s>
+<s> 28 tanzania 12.31 july 2010 est <\s>
+<s> 29 gambia the 12.03 july 2010 est <\s>
+<s> 30 cameroon 12.01 july 2010 est <\s>
+<s> 31 sierra leone 11.97 july 2010 est <\s>
+<s> 32 uganda 11.90 july 2010 est <\s>
+<s> 33 croatia 11.83 july 2010 est <\s>
+<s> 34 romania 11.78 july 2010 est <\s>
+<s> 35 congo republic of the 11.75 july 2010 est <\s>
+<s> 36 sudan 11.66 july 2010 est <\s>
+<s> 37 congo democratic republic of the 11.39 july 2010 est <\s>
+<s> 38 ethiopia 11.29 july 2010 est <\s>
+<s> 39 lithuania 11.25 july 2010 est <\s>
+<s> 40 germany 11.00 july 2010 est <\s>
+<s> 41 liberia 10.88 july 2010 est <\s>
+<s> 42 italy 10.83 july 2010 est <\s>
+<s> 43 czech republic 10.79 july 2010 est <\s>
+<s> 44 moldova 10.76 july 2010 est <\s>
+<s> 45 portugal 10.74 july 2010 est <\s>
+<s> 46 slovenia 10.74 july 2010 est <\s>
+<s> 47 guinea 10.72 july 2010 est <\s>
+<s> 48 greece 10.60 july 2010 est <\s>
+<s> 49 korea north 10.60 july 2010 est <\s>
+<s> 50 belgium 10.50 july 2010 est <\s>
+<s> 51 cote d'ivoire 10.43 july 2010 est <\s>
+<s> 52 sweden 10.20 july 2010 est <\s>
+<s> 53 denmark 10.19 july 2010 est <\s>
+<s> 54 rwanda 10.19 july 2010 est <\s>
+<s> 55 finland 10.15 july 2010 est <\s>
+<s> 56 poland 10.10 july 2010 est <\s>
+<s> 57 austria 10.05 july 2010 est <\s>
+<s> 58 burundi 9.87 july 2010 est <\s>
+<s> 59 isle of man 9.87 july 2010 est <\s>
+<s> 60 japan 9.83 july 2010 est <\s>
+<s> 61 georgia 9.79 july 2010 est <\s>
+<s> 62 slovakia 9.56 july 2010 est <\s>
+<s> 63 senegal 9.49 july 2010 est <\s>
+<s> 64 kazakhstan 9.39 july 2010 est <\s>
+<s> 65 tuvalu 9.36 july 2010 est <\s>
+<s> 66 united kingdom 9.33 july 2010 est <\s>
+<s> 67 equatorial guinea 9.26 july 2010 est <\s>
+<s> 68 kenya 9.26 july 2010 est <\s>
+<s> 69 norway 9.26 july 2010 est <\s>
+<s> 70 benin 9.23 july 2010 est <\s>
+<s> 71 western sahara 9.13 july 2010 est <\s>
+<s> 72 uruguay 9.06 july 2010 est <\s>
+<s> 73 botswana 9.02 july 2010 est <\s>
+<s> 74 mauritania 9.00 july 2010 est <\s>
+<s> 75 ghana 8.93 july 2010 est <\s>
+<s> 76 macedonia 8.87 july 2010 est <\s>
+<s> 77 netherlands 8.78 july 2010 est <\s>
+<s> 78 montenegro 8.76 july 2010 est <\s>
+<s> 79 spain 8.72 july 2010 est <\s>
+<s> 80 bosnia and herzegovina 8.71 july 2010 est <\s>
+<s> 81 faroe islands 8.66 july 2010 est <\s>
+<s> 82 france 8.65 july 2010 est <\s>
+<s> 83 switzerland 8.65 july 2010 est <\s>
+<s> 84 malta 8.49 july 2010 est <\s>
+<s> 85 luxembourg 8.46 july 2010 est <\s>
+<s> 86 sao tome and principe 8.45 july 2010 est <\s>
+<s> 87 armenia 8.42 july 2010 est <\s>
+<s> 88 saint pierre and miquelon 8.41 july 2010 est <\s>
+<s> 89 barbados 8.39 july 2010 est <\s>
+<s> 90 united states 8.38 july 2010 est <\s>
+<s> 91 world 8.37 2009 est <\s>
+<s> 92 djibouti 8.37 july 2010 est <\s>
+<s> 93 guernsey 8.35 july 2010 est <\s>
+<s> 94 azerbaijan 8.28 july 2010 est <\s>
+<s> 95 laos 8.28 july 2010 est <\s>
+<s> 96 eritrea 8.25 july 2010 est <\s>
+<s> 97 burma 8.23 july 2010 est <\s>
+<s> 98 haiti 8.21 2011 est <\s>
+<s> 99 trinidad and tobago 8.21 july 2010 est <\s>
+<s> 100 cambodia 8.19 july 2010 est <\s>
+<s> 101 gibraltar 8.17 july 2010 est <\s>
+<s> 102 togo 8.15 july 2010 est <\s>
+<s> 103 dominica 8.12 july 2010 est <\s>
+<s> 104 greenland 8.05 july 2010 est <\s>
+<s> 105 monaco 8.01 july 2010 est <\s>
+<s> 106 curacao 8.00 2009 107 madagascar 7.97 july 2010 est <\s>
+<s> 108 grenada 7.90 july 2010 est <\s>
+<s> 109 canada 7.87 july 2010 est <\s>
+<s> 110 montserrat 7.82 july 2010 est <\s>
+<s> 111 puerto rico 7.82 july 2010 est <\s>
+<s> 112 palau 7.81 july 2010 est <\s>
+<s> 113 aruba 7.76 july 2010 est <\s>
+<s> 114 san marino 7.75 july 2010 est <\s>
+<s> 115 india 7.53 july 2010 est <\s>
+<s> 116 jersey 7.49 july 2010 est <\s>
+<s> 117 liechtenstein 7.49 july 2010 est <\s>
+<s> 118 vanuatu 7.49 july 2010 est <\s>
+<s> 119 kiribati 7.48 july 2010 est <\s>
+<s> 19 belarus 13.81 july 2010 est <\s>
+<s> 20 malawi 13.69 july 2010 est <\s>
+<s> 21 latvia 13.60 july 2010 est <\s>
+<s> 22 estonia 13.48 july 2010 est <\s>
+<s> 23 burkina faso 13.02 july 2010 est <\s>
+<s> 24 namibia 12.97 july 2010 est <\s>
+<s> 25 gabon 12.90 july 2010 est <\s>
+<s> 26 zambia 12.84 july 2010 est <\s>
+<s> 27 hungary 12.67 july 2010 est <\s>
+<s> 28 tanzania 12.31 july 2010 est <\s>
+<s> 29 gambia the 12.03 july 2010 est <\s>
+<s> 30 cameroon 12.01 july 2010 est <\s>
+<s> 31 sierra leone 11.97 july 2010 est <\s>
+<s> 32 uganda 11.90 july 2010 est <\s>
+<s> 33 croatia 11.83 july 2010 est <\s>
+<s> 34 romania 11.78 july 2010 est <\s>
+<s> 35 congo republic of the 11.75 july 2010 est <\s>
+<s> 36 sudan 11.66 july 2010 est <\s>
+<s> 37 congo democratic republic of the 11.39 july 2010 est <\s>
+<s> 38 ethiopia 11.29 july 2010 est <\s>
+<s> 39 lithuania 11.25 july 2010 est <\s>
+<s> 40 germany 11.00 july 2010 est <\s>
+<s> 41 liberia 10.88 july 2010 est <\s>
+<s> 42 italy 10.83 july 2010 est <\s>
+<s> 43 czech republic 10.79 july 2010 est <\s>
+<s> 44 moldova 10.76 july 2010 est <\s>
+<s> 45 portugal 10.74 july 2010 est <\s>
+<s> 46 slovenia 10.74 july 2010 est <\s>
+<s> 47 guinea 10.72 july 2010 est <\s>
+<s> 48 greece 10.60 july 2010 est <\s>
+<s> 49 korea north 10.60 july 2010 est <\s>
+<s> 50 belgium 10.50 july 2010 est <\s>
+<s> 51 cote d'ivoire 10.43 july 2010 est <\s>
+<s> 52 sweden 10.20 july 2010 est <\s>
+<s> 53 denmark 10.19 july 2010 est <\s>
+<s> 54 rwanda 10.19 july 2010 est <\s>
+<s> 55 finland 10.15 july 2010 est <\s>
+<s> 56 poland 10.10 july 2010 est <\s>
+<s> 57 austria 10.05 july 2010 est <\s>
+<s> 58 burundi 9.87 july 2010 est <\s>
+<s> 59 isle of man 9.87 july 2010 est <\s>
+<s> 60 japan 9.83 july 2010 est <\s>
+<s> 61 georgia 9.79 july 2010 est <\s>
+<s> 62 slovakia 9.56 july 2010 est <\s>
+<s> 63 senegal 9.49 july 2010 est <\s>
+<s> 64 kazakhstan 9.39 july 2010 est <\s>
+<s> 65 tuvalu 9.36 july 2010 est <\s>
+<s> 66 united kingdom 9.33 july 2010 est <\s>
+<s> 67 equatorial guinea 9.26 july 2010 est <\s>
+<s> 68 kenya 9.26 july 2010 est <\s>
+<s> 69 norway 9.26 july 2010 est <\s>
+<s> 70 benin 9.23 july 2010 est <\s>
+<s> 71 western sahara 9.13 july 2010 est <\s>
+<s> 72 uruguay 9.06 july 2010 est <\s>
+<s> 73 botswana 9.02 july 2010 est <\s>
+<s> 74 mauritania 9.00 july 2010 est <\s>
+<s> 75 ghana 8.93 july 2010 est <\s>
+<s> 76 macedonia 8.87 july 2010 est <\s>
+<s> 77 netherlands 8.78 july 2010 est <\s>
+<s> 78 montenegro 8.76 july 2010 est <\s>
+<s> 79 spain 8.72 july 2010 est <\s>
+<s> 80 bosnia and herzegovina 8.71 july 2010 est <\s>
+<s> 81 faroe islands 8.66 july 2010 est <\s>
+<s> 82 france 8.65 july 2010 est <\s>
+<s> 83 switzerland 8.65 july 2010 est <\s>
+<s> 84 malta 8.49 july 2010 est <\s>
+<s> 85 luxembourg 8.46 july 2010 est <\s>
+<s> 86 sao tome and principe 8.45 july 2010 est <\s>
+<s> 87 armenia 8.42 july 2010 est <\s>
+<s> 88 saint pierre and miquelon 8.41 july 2010 est <\s>
+<s> 89 barbados 8.39 july 2010 est <\s>
+<s> 90 united states 8.38 july 2010 est <\s>
+<s> 91 world 8.37 2009 est <\s>
+<s> 92 djibouti 8.37 july 2010 est <\s>
+<s> 93 guernsey 8.35 july 2010 est <\s>
+<s> 94 azerbaijan 8.28 july 2010 est <\s>
+<s> 95 laos 8.28 july 2010 est <\s>
+<s> 96 eritrea 8.25 july 2010 est <\s>
+<s> 97 burma 8.23 july 2010 est <\s>
+<s> 98 haiti 8.21 2011 est <\s>
+<s> 99 trinidad and tobago 8.21 july 2010 est <\s>
+<s> 100 cambodia 8.19 july 2010 est <\s>
+<s> 101 gibraltar 8.17 july 2010 est <\s>
+<s> 102 togo 8.15 july 2010 est <\s>
+<s> 103 dominica 8.12 july 2010 est <\s>
+<s> 104 greenland 8.05 july 2010 est <\s>
+<s> 105 monaco 8.01 july 2010 est <\s>
+<s> 106 curacao 8.00 2009 107 madagascar 7.97 july 2010 est <\s>
+<s> 108 grenada 7.90 july 2010 est <\s>
+<s> 109 canada 7.87 july 2010 est <\s>
+<s> 110 montserrat 7.82 july 2010 est <\s>
+<s> 111 puerto rico 7.82 july 2010 est <\s>
+<s> 112 palau 7.81 july 2010 est <\s>
+<s> 113 aruba 7.76 july 2010 est <\s>
+<s> 114 san marino 7.75 july 2010 est <\s>
+<s> 115 india 7.53 july 2010 est <\s>
+<s> 116 jersey 7.49 july 2010 est <\s>
+<s> 117 liechtenstein 7.49 july 2010 est <\s>
+<s> 118 vanuatu 7.49 july 2010 est <\s>
+<s> 119 kiribati 7.48 july 2010 est <\s>
+<s> 19 belarus 13.81 july 2010 est <\s>
+<s> 20 malawi 13.69 july 2010 est <\s>
+<s> 21 latvia 13.60 july 2010 est <\s>
+<s> 22 estonia 13.48 july 2010 est <\s>
+<s> 23 burkina faso 13.02 july 2010 est <\s>
+<s> 24 namibia 12.97 july 2010 est <\s>
+<s> 25 gabon 12.90 july 2010 est <\s>
+<s> 26 zambia 12.84 july 2010 est <\s>
+<s> 27 hungary 12.67 july 2010 est <\s>
+<s> 28 tanzania 12.31 july 2010 est <\s>
+<s> 29 gambia the 12.03 july 2010 est <\s>
+<s> 30 cameroon 12.01 july 2010 est <\s>
+<s> 31 sierra leone 11.97 july 2010 est <\s>
+<s> 32 uganda 11.90 july 2010 est <\s>
+<s> 33 croatia 11.83 july 2010 est <\s>
+<s> 34 romania 11.78 july 2010 est <\s>
+<s> 35 congo republic of the 11.75 july 2010 est <\s>
+<s> 36 sudan 11.66 july 2010 est <\s>
+<s> 37 congo democratic republic of the 11.39 july 2010 est <\s>
+<s> 38 ethiopia 11.29 july 2010 est <\s>
+<s> 39 lithuania 11.25 july 2010 est <\s>
+<s> 40 germany 11.00 july 2010 est <\s>
+<s> 41 liberia 10.88 july 2010 est <\s>
+<s> 42 italy 10.83 july 2010 est <\s>
+<s> 43 czech republic 10.79 july 2010 est <\s>
+<s> 44 moldova 10.76 july 2010 est <\s>
+<s> 45 portugal 10.74 july 2010 est <\s>
+<s> 46 slovenia 10.74 july 2010 est <\s>
+<s> 47 guinea 10.72 july 2010 est <\s>
+<s> 48 greece 10.60 july 2010 est <\s>
+<s> 49 korea north 10.60 july 2010 est <\s>
+<s> 50 belgium 10.50 july 2010 est <\s>
+<s> 51 cote d'ivoire 10.43 july 2010 est <\s>
+<s> 52 sweden 10.20 july 2010 est <\s>
+<s> 53 denmark 10.19 july 2010 est <\s>
+<s> 54 rwanda 10.19 july 2010 est <\s>
+<s> 55 finland 10.15 july 2010 est <\s>
+<s> 56 poland 10.10 july 2010 est <\s>
+<s> 57 austria 10.05 july 2010 est <\s>
+<s> 58 burundi 9.87 july 2010 est <\s>
+<s> 59 isle of man 9.87 july 2010 est <\s>
+<s> 60 japan 9.83 july 2010 est <\s>
+<s> 61 georgia 9.79 july 2010 est <\s>
+<s> 62 slovakia 9.56 july 2010 est <\s>
+<s> 63 senegal 9.49 july 2010 est <\s>
+<s> 64 kazakhstan 9.39 july 2010 est <\s>
+<s> 65 tuvalu 9.36 july 2010 est <\s>
+<s> 66 united kingdom 9.33 july 2010 est <\s>
+<s> 67 equatorial guinea 9.26 july 2010 est <\s>
+<s> 68 kenya 9.26 july 2010 est <\s>
+<s> 69 norway 9.26 july 2010 est <\s>
+<s> 70 benin 9.23 july 2010 est <\s>
+<s> 71 western sahara 9.13 july 2010 est <\s>
+<s> 72 uruguay 9.06 july 2010 est <\s>
+<s> 73 botswana 9.02 july 2010 est <\s>
+<s> 74 mauritania 9.00 july 2010 est <\s>
+<s> 75 ghana 8.93 july 2010 est <\s>
+<s> 76 macedonia 8.87 july 2010 est <\s>
+<s> 77 netherlands 8.78 july 2010 est <\s>
+<s> 78 montenegro 8.76 july 2010 est <\s>
+<s> 79 spain 8.72 july 2010 est <\s>
+<s> 80 bosnia and herzegovina 8.71 july 2010 est <\s>
+<s> 81 faroe islands 8.66 july 2010 est <\s>
+<s> 82 france 8.65 july 2010 est <\s>
+<s> 83 switzerland 8.65 july 2010 est <\s>
+<s> 84 malta 8.49 july 2010 est <\s>
+<s> 85 luxembourg 8.46 july 2010 est <\s>
+<s> 86 sao tome and principe 8.45 july 2010 est <\s>
+<s> 87 armenia 8.42 july 2010 est <\s>
+<s> 88 saint pierre and miquelon 8.41 july 2010 est <\s>
+<s> 89 barbados 8.39 july 2010 est <\s>
+<s> 90 united states 8.38 july 2010 est <\s>
+<s> 91 world 8.37 2009 est <\s>
+<s> 92 djibouti 8.37 july 2010 est <\s>
+<s> 93 guernsey 8.35 july 2010 est <\s>
+<s> 94 azerbaijan 8.28 july 2010 est <\s>
+<s> 95 laos 8.28 july 2010 est <\s>
+<s> 96 eritrea 8.25 july 2010 est <\s>
+<s> 97 burma 8.23 july 2010 est <\s>
+<s> 98 haiti 8.21 2011 est <\s>
+<s> 99 trinidad and tobago 8.21 july 2010 est <\s>
+<s> 100 cambodia 8.19 july 2010 est <\s>
+<s> 101 gibraltar 8.17 july 2010 est <\s>
+<s> 102 togo 8.15 july 2010 est <\s>
+<s> 103 dominica 8.12 july 2010 est <\s>
+<s> 104 greenland 8.05 july 2010 est <\s>
+<s> 105 monaco 8.01 july 2010 est <\s>
+<s> 106 curacao 8.00 2009 107 madagascar 7.97 july 2010 est <\s>
+<s> 108 grenada 7.90 july 2010 est <\s>
+<s> 109 canada 7.87 july 2010 est <\s>
+<s> 110 montserrat 7.82 july 2010 est <\s>
+<s> 111 puerto rico 7.82 july 2010 est <\s>
+<s> 112 palau 7.81 july 2010 est <\s>
+<s> 113 aruba 7.76 july 2010 est <\s>
+<s> 114 san marino 7.75 july 2010 est <\s>
+<s> 115 india 7.53 july 2010 est <\s>
+<s> 116 jersey 7.49 july 2010 est <\s>
+<s> 117 liechtenstein 7.49 july 2010 est <\s>
+<s> 118 vanuatu 7.49 july 2010 est <\s>
+<s> 119 kiribati 7.48 july 2010 est <\s>
+<s> 19 belarus 13.81 july 2010 est <\s>
+<s> 20 malawi 13.69 july 2010 est <\s>
+<s> 21 latvia 13.60 july 2010 est <\s>
+<s> 22 estonia 13.48 july 2010 est <\s>
+<s> 23 burkina faso 13.02 july 2010 est <\s>
+<s> 24 namibia 12.97 july 2010 est <\s>
+<s> 25 gabon 12.90 july 2010 est <\s>
+<s> 26 zambia 12.84 july 2010 est <\s>
+<s> 27 hungary 12.67 july 2010 est <\s>
+<s> 28 tanzania 12.31 july 2010 est <\s>
+<s> 29 gambia the 12.03 july 2010 est <\s>
+<s> 30 cameroon 12.01 july 2010 est <\s>
+<s> 31 sierra leone 11.97 july 2010 est <\s>
+<s> 32 uganda 11.90 july 2010 est <\s>
+<s> 33 croatia 11.83 july 2010 est <\s>
+<s> 34 romania 11.78 july 2010 est <\s>
+<s> 35 congo republic of the 11.75 july 2010 est <\s>
+<s> 36 sudan 11.66 july 2010 est <\s>
+<s> 37 congo democratic republic of the 11.39 july 2010 est <\s>
+<s> 38 ethiopia 11.29 july 2010 est <\s>
+<s> 39 lithuania 11.25 july 2010 est <\s>
+<s> 40 germany 11.00 july 2010 est <\s>
+<s> 41 liberia 10.88 july 2010 est <\s>
+<s> 42 italy 10.83 july 2010 est <\s>
+<s> 43 czech republic 10.79 july 2010 est <\s>
+<s> 44 moldova 10.76 july 2010 est <\s>
+<s> 45 portugal 10.74 july 2010 est <\s>
+<s> 46 slovenia 10.74 july 2010 est <\s>
+<s> 47 guinea 10.72 july 2010 est <\s>
+<s> 48 greece 10.60 july 2010 est <\s>
+<s> 49 korea north 10.60 july 2010 est <\s>
+<s> 50 belgium 10.50 july 2010 est <\s>
+<s> 51 cote d'ivoire 10.43 july 2010 est <\s>
+<s> 52 sweden 10.20 july 2010 est <\s>
+<s> 53 denmark 10.19 july 2010 est <\s>
+<s> 54 rwanda 10.19 july 2010 est <\s>
+<s> 55 finland 10.15 july 2010 est <\s>
+<s> 56 poland 10.10 july 2010 est <\s>
+<s> 57 austria 10.05 july 2010 est <\s>
+<s> 58 burundi 9.87 july 2010 est <\s>
+<s> 59 isle of man 9.87 july 2010 est <\s>
+<s> 60 japan 9.83 july 2010 est <\s>
+<s> 61 georgia 9.79 july 2010 est <\s>
+<s> 62 slovakia 9.56 july 2010 est <\s>
+<s> 63 senegal 9.49 july 2010 est <\s>
+<s> 64 kazakhstan 9.39 july 2010 est <\s>
+<s> 65 tuvalu 9.36 july 2010 est <\s>
+<s> 66 united kingdom 9.33 july 2010 est <\s>
+<s> 67 equatorial guinea 9.26 july 2010 est <\s>
+<s> 68 kenya 9.26 july 2010 est <\s>
+<s> 69 norway 9.26 july 2010 est <\s>
+<s> 70 benin 9.23 july 2010 est <\s>
+<s> 71 western sahara 9.13 july 2010 est <\s>
+<s> 72 uruguay 9.06 july 2010 est <\s>
+<s> 73 botswana 9.02 july 2010 est <\s>
+<s> 74 mauritania 9.00 july 2010 est <\s>
+<s> 75 ghana 8.93 july 2010 est <\s>
+<s> 76 macedonia 8.87 july 2010 est <\s>
+<s> 77 netherlands 8.78 july 2010 est <\s>
+<s> 78 montenegro 8.76 july 2010 est <\s>
+<s> 79 spain 8.72 july 2010 est <\s>
+<s> 80 bosnia and herzegovina 8.71 july 2010 est <\s>
+<s> 81 faroe islands 8.66 july 2010 est <\s>
+<s> 82 france 8.65 july 2010 est <\s>
+<s> 83 switzerland 8.65 july 2010 est <\s>
+<s> 84 malta 8.49 july 2010 est <\s>
+<s> 85 luxembourg 8.46 july 2010 est <\s>
+<s> 86 sao tome and principe 8.45 july 2010 est <\s>
+<s> 87 armenia 8.42 july 2010 est <\s>
+<s> 88 saint pierre and miquelon 8.41 july 2010 est <\s>
+<s> 89 barbados 8.39 july 2010 est <\s>
+<s> 90 united states 8.38 july 2010 est <\s>
+<s> 91 world 8.37 2009 est <\s>
+<s> 92 djibouti 8.37 july 2010 est <\s>
+<s> 93 guernsey 8.35 july 2010 est <\s>
+<s> 94 azerbaijan 8.28 july 2010 est <\s>
+<s> 95 laos 8.28 july 2010 est <\s>
+<s> 96 eritrea 8.25 july 2010 est <\s>
+<s> 97 burma 8.23 july 2010 est <\s>
+<s> 98 haiti 8.21 2011 est <\s>
+<s> 99 trinidad and tobago 8.21 july 2010 est <\s>
+<s> 100 cambodia 8.19 july 2010 est <\s>
+<s> 101 gibraltar 8.17 july 2010 est <\s>
+<s> 102 togo 8.15 july 2010 est <\s>
+<s> 103 dominica 8.12 july 2010 est <\s>
+<s> 104 greenland 8.05 july 2010 est <\s>
+<s> 105 monaco 8.01 july 2010 est <\s>
+<s> 106 curacao 8.00 2009 107 madagascar 7.97 july 2010 est <\s>
+<s> 108 grenada 7.90 july 2010 est <\s>
+<s> 109 canada 7.87 july 2010 est <\s>
+<s> 110 montserrat 7.82 july 2010 est <\s>
+<s> 111 puerto rico 7.82 july 2010 est <\s>
+<s> 112 palau 7.81 july 2010 est <\s>
+<s> 113 aruba 7.76 july 2010 est <\s>
+<s> 114 san marino 7.75 july 2010 est <\s>
+<s> 115 india 7.53 july 2010 est <\s>
+<s> 116 jersey 7.49 july 2010 est <\s>
+<s> 117 liechtenstein 7.49 july 2010 est <\s>
+<s> 118 vanuatu 7.49 july 2010 est <\s>
+<s> 119 kiribati 7.48 july 2010 est <\s>

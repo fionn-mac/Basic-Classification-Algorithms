@@ -1,0 +1,2900 @@
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>
+<s> 393 jersey 16,853 00 2010 est <\s>
+<s> 394 jersey 16,737 00 2010 est <\s>
+<s> 395 dominica 15,963 00 2010 est <\s>
+<s> 396 dominica 15,426 00 2010 est <\s>
+<s> 397 isle of man 14,748 00 2010 est <\s>
+<s> 398 isle of man 14,392 00 2010 est <\s>
+<s> 399 american samoa 14,230 00 2010 est <\s>
+<s> 400 american samoa 13,842 00 2010 est <\s>
+<s> 401 marshall islands 13,374 00 2010 est <\s>
+<s> 402 marshall islands 13,277 00 2010 est <\s>
+<s> 403 guernsey 12,510 00 2010 est <\s>
+<s> 404 bermuda 12,405 00 2010 est <\s>
+<s> 405 guernsey 12,404 00 2010 est <\s>
+<s> 406 northern mariana islands 12,385 00 2010 est <\s>
+<s> 407 bermuda 12,327 00 2010 est <\s>
+<s> 408 greenland 11,439 00 2010 est <\s>
+<s> 409 saint kitts and nevis 10,913 00 2010 est <\s>
+<s> 410 greenland 10,833 00 2010 est <\s>
+<s> 411 saint kitts and nevis 10,736 00 2010 est <\s>
+<s> 412 cayman islands 10,287 00 2010 est <\s>
+<s> 413 cayman islands 9,860 00 2010 est <\s>
+<s> 414 faroe islands 9,792 00 2010 est <\s>
+<s> 415 northern mariana islands 9,359 00 2010 est <\s>
+<s> 416 faroe islands 8,354 00 2010 est <\s>
+<s> 417 saint martin 6,947 00 2010 est <\s>
+<s> 418 liechtenstein 6,782 00 2010 est <\s>
+<s> 419 liechtenstein 6,559 00 2010 est <\s>
+<s> 420 saint martin 6,391 00 2010 est <\s>
+<s> 421 san marino 6,068 00 2010 est <\s>
+<s> 422 british virgin islands 6,028 00 2010 est <\s>
+<s> 423 gibraltar 5,955 00 2010 est <\s>
+<s> 424 british virgin islands 5,778 00 2010 est <\s>
+<s> 425 gibraltar 5,687 00 2010 est <\s>
+<s> 426 san marino 5,564 00 2010 est <\s>
+<s> 427 palau 5,223 00 2010 est <\s>
+<s> 428 turks and caicos islands 5,062 00 2010 est <\s>
+<s> 429 turks and caicos islands 4,772 00 2010 est <\s>
+<s> 430 monaco 4,691 00 2010 est <\s>
+<s> 431 monaco 4,680 00 2010 est <\s>
+<s> 432 palau 3,949 00 2010 est <\s>
+<s> 433 anguilla 3,354 00 2010 est <\s>
+<s> 434 wallis and futuna 3,326 00 2010 est <\s>
+<s> 435 wallis and futuna 3,305 00 2010 est <\s>
+<s> 436 nauru 3,059 00 2010 est <\s>
+<s> 437 anguilla 2,987 00 2010 est <\s>
+<s> 438 nauru 2,683 00 2010 est <\s>
+<s> 439 cook islands 2,272 00 2010 est <\s>
+<s> 440 cook islands 2,222 00 2010 est <\s>
+<s> 441 tuvalu 2,005 00 2010 est <\s>
+<s> 442 tuvalu 1,981 00 2010 est <\s>
+<s> 443 saint helena ascension and tristan da cunha 1,591 00 2010 est <\s>
+<s> 444 saint helena ascension and tristan da cunha 1,575 00 2010 est <\s>
+<s> 445 saint barthelemy 1,543 00 2010 est <\s>
+<s> 446 saint barthelemy 1,303 00 2010 est <\s>
+<s> 447 montserrat 1,217 00 2010 est <\s>
+<s> 448 montserrat 1,127 00 2010 est <\s>
+<s> 449 saint pierre and miquelon 1,097 00 2010 est <\s>
+<s> 450 saint pierre and miquelon 1,096 00 2010 est <\s>
+<s> rank code 2026 country comparison :: manpower reaching militarily significant age annually this entry gives the number of males and females entering the military manpower pool i e reaching age 16 in any given year and is a measure of the availability of military-age young adults <\s>
+<s> rank country manpower reaching militarily significant age annuallydate of information 1 india 12,011 217.00 2010 est <\s>
+<s> 2 china 10,699 186.00 2010 est <\s>
+<s> 3 india 10,639 158.00 2010 est <\s>
+<s> 4 china 9,460 217.00 2010 est <\s>
+<s> 5 indonesia 2,227 993.00 2010 est <\s>
+<s> 6 united states 2,174 260.00 2010 est <\s>
+<s> 7 indonesia 2,156 427.00 2010 est <\s>
+<s> 8 pakistan 2,144 574.00 2010 est <\s>
+<s> 9 united states 2,065 595.00 2010 est <\s>
+<s> 10 pakistan 2,000 479.00 2010 est <\s>
+<s> 11 nigeria 1,731 734.00 2010 est <\s>
+<s> 12 brazil 1,712 427.00 2010 est <\s>
+<s> 13 bangladesh 1,676 137.00 2010 est <\s>
+<s> 14 nigeria 1,652 632.00 2010 est <\s>
+<s> 15 brazil 1,652 491.00 2010 est <\s>
+<s> 16 bangladesh 1,550 385.00 2010 est <\s>
+<s> 17 mexico 1,108 032.00 2010 est <\s>
+<s> 18 mexico 1,069 885.00 2010 est <\s>
+<s> 19 philippines 1,039 679.00 2010 est <\s>
+<s> 20 philippines 1,001 448.00 2010 est <\s>
+<s> 21 ethiopia 947,103 00 2010 est <\s>
+<s> 22 ethiopia 934,523 00 2010 est <\s>
+<s> 23 vietnam 877,075 00 2010 est <\s>
+<s> 24 congo democratic republic of the 842,020 00 2010 est <\s>
+<s> 25 congo democratic republic of the 839,044 00 2010 est <\s>
+<s> 26 vietnam 816,076 00 2010 est <\s>
+<s> 27 egypt 799,377 00 2010 est <\s>
+<s> 28 egypt 764,602 00 2010 est <\s>
+<s> 29 russia 712,838 00 2010 est <\s>
+<s> 30 turkey 695,326 00 2010 est <\s>
+<s> 31 russia 678,623 00 2010 est <\s>
+<s> 32 turkey 666,026 00 2010 est <\s>
+<s> 33 iran 636,558 00 2010 est <\s>
+<s> 34 japan 626,115 00 2010 est <\s>
+<s> 35 iran 604,658 00 2010 est <\s>
+<s> 36 japan 593,905 00 2010 est <\s>
+<s> 37 thailand 535,884 00 2010 est <\s>
+<s> 38 burma 526,557 00 2010 est <\s>
+<s> 39 thailand 511,444 00 2010 est <\s>
+<s> 40 burma 510,538 00 2010 est <\s>
+<s> 41 sudan 506,742 00 2010 est <\s>

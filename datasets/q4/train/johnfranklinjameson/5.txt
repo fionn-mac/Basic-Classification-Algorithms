@@ -1,0 +1,4500 @@
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> may 1725 346 126 <\s>
+<s> instructions of george ii <\s>
+<s> to captains of privateers <\s>
+<s> 30 1739 347 127 <\s>
+<s> draft of warrant to governors to issue letters of marque <\s>
+<s> 26 1740 355 dumaresq _vs the _amsterdam post 128 <\s>
+<s> record of the admiralty court and libel <\s>
+<s> 30 1740 356 129 <\s>
+<s> sea-letter of the _amsterdam post <\s>
+<s> 22 1739 n s 364 130 <\s>
+<s> let-pass of the _amsterdam post <\s>
+<s> 23 1739 n s 365 131 <\s>
+<s> tonnage certificate of the _amsterdam post <\s>
+<s> 24 1739 n s 365 132 <\s>
+<s> aeneas mackay's oath as a burgher of amsterdam <\s>
+<s> 16 1739 n s 366 133 <\s>
+<s> lease to aeneas mackay <\s>
+<s> 2 1739 n s 366 134 <\s>
+<s> certificates of master and mate and register <\s>
+<s> 8 1739 n s 367 135 <\s>
+<s> 14 1739 368 136 <\s>
+<s> 15 1739 369 137 <\s>
+<s> 16 1739 370 138 <\s>
+<s> 4 1739 370 139 <\s>
+<s> certificate of british consul in madeira <\s>
+<s> 9 1740 n s 372 141 <\s>
+<s> receipt for mediterranean pass <\s>
+<s> may 29 1740 n s 373 142 <\s>
+<s> certificate of british-dutch vice-consul in teneriffe <\s>
+<s> 26 1740 n s 373 143 <\s>
+<s> sentence of admiralty judge <\s>
+<s> 1 1740 375 the _revenge_ 144 <\s>
+<s> benjamin norton as a privateer <\s>
+<s> june 2 1741 378 145 <\s>
+<s> journal of the sloop _revenge_ <\s>
+<s> 5 1741 381 146 <\s>
+<s> account of the crew with the owners <\s>
+<s> 30 1741 429 147 <\s>
+<s> petition and complaint of john freebody <\s>
+<s> 5 1741 431 148 <\s>
+<s> deposition of jeremiah harriman <\s>
+<s> 25 1741 434 149 <\s>
+<s> deposition of thomas smith <\s>
+<s> 30 1741 436 150 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> 7 1741 439 151 <\s>
+<s> appeal in prize case <\s>
+<s> 8 1741 442 152 <\s>
+<s> bond for appeal in prize case <\s>
+<s> 19 1741 443 153 <\s>
+<s> sarah and opinions of civilians may 17 july 10 1742 444 154 <\s>
+<s> letters to owner from london agents <\s>
+<s> june 10 july 17 1742 448 155 <\s>
+<s> decree of vice-admiralty judge <\s>
+<s> july 7 1742 450 156 <\s>
+<s> letters to owner from london agents <\s>
+<s> 16 1743 451 157 <\s>
+<s> account rendered by a proctor in london <\s>
+<s> 10 1744 453 158 <\s>
+<s> john tweedy's bill for medicines <\s>
+<s> 8 1743 456 159 <\s>
+<s> account for the _revenge_ <\s>
+<s> june 1744 461 160 <\s>
+<s> agreement the _revenge_ and the _success_ <\s>
+<s> 10 1744 463 161 <\s>
+<s> inventory and appraisement of the prize _willem_ <\s>
+<s> june 8 1745 465 162 <\s>
+<s> a list of gunner's stores 470 164 <\s>
+<s> suggestions as to plundering hispaniola 471 the _princess of orange 165 <\s>
+<s> record of trial libel bill of sale owner's letter bills of lading declaration affidavit portledge bill depositions <\s>
+<s> june 11 1741 473 the _young eagle 166 <\s>
+<s> petition of john jones <\s>
+<s> 30 1741 492 the _hawk_ 167 <\s>
+<s> vote of privateering crew <\s>
+<s> june 29 1744 494 168 <\s>
+<s> petition of william ward <\s>
+<s> deposition of john flood and zechariah foss <\s>
+<s> 3 1744 496 170 <\s>
+<s> testimony concerning william ward <\s>
+<s> 4 1744 498 171 <\s>
+<s> 13 1744 499 172 <\s>
+<s> petition of henry johnson <\s>
+<s> 27 1744 501 the _lewis joseph and the _st <\s>
+<s> deposition of jacques piegnon <\s>
+<s> 24 1745 502 the _apollo_ 174 <\s>
+<s> deposition of john brown <\s>
+<s> 2 1745 506 175 <\s>
+<s> deposition of diego de prada y nieto <\s>
+<s> 2 1745 508 the _prince charles of lorraine 176 <\s>
+<s> deposition of benjamin munro and william kipp <\s>
+<s> 23 1746 510 177 <\s>
+<s> deposition of daniel vaughan <\s>
+<s> 1 1746 513 the _elizabeth_ 178 <\s>
+<s> deposition of william dunbar <\s>
+<s> may 7 1747 514 179 <\s>
+<s> petition of edward winter <\s>
+<s> may 1749 516 180 <\s>
+<s> commission of a vice-admiralty judge <\s>
+<s> 23 1752 517 181 <\s>
+<s> commission of a vice-admiralty judge <\s>

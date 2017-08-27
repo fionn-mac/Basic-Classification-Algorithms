@@ -1,0 +1,200 @@
+<s> 136 mauritius 100                           2001 est <\s>
+<s> 137 malta 100                           2003 est <\s>
+<s> 138 macedonia 100                           2003 est <\s>
+<s> 139 luxembourg 100                           2003 est <\s>
+<s> 140 laos 100                           2007 est <\s>
+<s> 141 japan 100                           2007 est <\s>
+<s> 142 ireland 100                           2007 est <\s>
+<s> 143 iceland 100                           2003 est <\s>
+<s> 144 hungary 100                           2001 est <\s>
+<s> 145 greece 100                           2007 est <\s>
+<s> 146 finland 100                           2003 est <\s>
+<s> 147 turkmenistan 100                           2004 est <\s>
+<s> 148 sweden 100                           2007 est <\s>
+<s> 149 bulgaria 100                           2001 est <\s>
+<s> 150 bosnia and herzegovina 100                           2001 est <\s>
+<s> 151 belgium 100                           2007 est <\s>
+<s> 152 barbados 100                           2007 est <\s>
+<s> 153 azerbaijan 100                           2007 est <\s>
+<s> 154 croatia 10 2001 est <\s>
+<s> 155 czech republic 10 2001 est <\s>
+<s> 156 svalbard 0 2001 rank code 2158 country comparison :: rank country date of information rank code 2172 country comparison :: distribution of family income gini index this index measures the degree of inequality in the distribution of family income in a country <\s>
+<s> the index is calculated from the lorenz curve in which cumulative family income is plotted against the number of families arranged from the poorest to the richest <\s>
+<s> the index is the ratio of a the area between a country's lorenz curve and the 45 degree helping line to b the entire triangular area under the 45 degree line <\s>
+<s> the more nearly equal a country's income distribution the closer its lorenz curve to the 45 degree line and the lower its gini index e g a scandinavian country with an index of 25 <\s>
+<s> the more unequal a country's income distribution the farther its lorenz curve from the 45 degree line and the higher its gini index e g a sub-saharan country with an index of 50 <\s>
+<s> if income were distributed with perfect equality the lorenz curve would coincide with the 45 degree line and the index would be zero if income were distributed with perfect inequality the lorenz curve would coincide with the horizontal axis and the right vertical axis and the index would be 100 <\s>
+<s> rank country distribution of family income gini indexdate of information 1 namibia 70.7 2003 2 south africa 65.0 2005 3 lesotho 63.2 1995 4 botswana 63.0 1993 5 sierra leone 62.9 1989 6 central african republic 61.3 1993 7 haiti 59.2 2001 8 colombia 58.5 2009 9 bolivia 58.2 2009 10 brazil 56.7 2005 11 bosnia and herzegovina 56.2 2007 12 panama 56.1 2003 13 guatemala 55.1 2007 14 chile 54.9 2003 15 honduras 53.8 2003 16 hong kong 53.3 2007 17 paraguay 53.2 2009 18 el salvador 52.4 2002 19 papua new guinea 50.9 1996 20 zambia 50.8 2004 21 niger 50.5 1995 22 swaziland 50.4 2001 23 gambia the 50.2 1998 24 zimbabwe 50.1 2006 25 dominican republic 49.9 2005 26 peru 49.6 2009 27 sri lanka 49.0 2007 28 mexico 48.2 2008 29 singapore 48.1 2008 30 costa rica 48.0 2008 31 ecuador 47.9 2009 32 madagascar 47.5 2001 33 mozambique 47.3 2002 34 nepal 47.2 2008 35 rwanda 46.8 2000 36 malaysia 46.1 2002 37 philippines 45.8 2006 38 argentina 45.7 2009 39 uganda 45.7 2002 40 jamaica 45.5 2004 41 uruguay 45.2 2006 42 united states 45.0 2007 43 cameroon 44.6 2001 44 cote d'ivoire 44.6 2002 45 iran 44.5 2006 46 nigeria 43.7 2003 47 guyana 43.2 1999 48 nicaragua 43.1 2001 49 cambodia 43.0 2007 est <\s>
+<s> 50 thailand 43.0 2006 51 kenya 42.5 2008 est <\s>
+<s> 52 burundi 42.4 1998 53 russia 42.2 2009 54 china 41.5 2007 55 senegal 41.3 2001 56 turkey 41.0 2007 57 venezuela 41.0 2009 58 morocco 40.9 2005 est <\s>
+<s> 59 georgia 40.8 2009 60 turkmenistan 40.8 1998 61 mali 40.1 2001 62 tunisia 40.0 2005 est <\s>
+<s> 63 jordan 39.7 2007 64 burkina faso 39.5 2007 65 ghana 39.4 2005-06 66 indonesia 39.4 2005 67 israel 39.2 2008 68 macedonia 39.0 2003 69 malawi 39.0 2004 70 mauritius 39.0 2006 est <\s>
+<s> 71 mauritania 39.0 2000 72 portugal 38.5 2007 73 guinea 38.1 2006 74 japan 38.1 2002 75 timor-leste 38.0 2002 est <\s>
+<s> 76 yemen 37.7 2005 77 armenia 37.0 2006 78 vietnam 37.0 2004 79 india 36.8 2004 80 uzbekistan 36.8 2003 81 azerbaijan 36.5 2001 82 benin 36.5 2003 83 new zealand 36.2 1997 84 latvia 36.0 2005 85 lithuania 36.0 2005 86 algeria 35.3 1995 87 poland 34.9 2005 88 laos 34.6 2002 89 tanzania 34.6 2000 90 egypt 34.4 2001 91 estonia 34.0 2008 92 united kingdom 34.0 2005 93 switzerland 33.7 2008 94 bangladesh 33.2 2005 95 moldova 33.2 2003 96 greece 33.0 2005 97 mongolia 32.8 2002 98 france 32.7 2008 99 tajikistan 32.6 2006 100 canada 32.1 2005 101 italy 32.0 2006 102 spain 32.0 2005 103 romania 32.0 2008 104 korea south 31.4 2009 105 ukraine 31.0 2006 106 european union 31.0 2005 est <\s>
+<s> 107 netherlands 30.9 2007 108 ireland 30.7 2008 109 pakistan 30.6 fy07 08 110 australia 30.5 2006 111 kyrgyzstan 30.3 2003 112 ethiopia 30.0 2000 113 montenegro 30.0 2003 114 bulgaria 29.8 2008 115 finland 29.5 2007 116 croatia 29.0 2008 117 cyprus 29.0 2005 118 denmark 29.0 2007 119 kazakhstan 28.8 2008 120 slovenia 28.4 2008 121 belgium 28.0 2005 122 hungary 28.0 2005 123 iceland 28.0 2006 124 belarus 27.9 2005 125 germany 27.0 2006 126 albania 26.7 2005 127 austria 26.0 2007 128 malta 26.0 2007 129 serbia 26.0 2008 130 slovakia 26.0 2005 131 czech republic 26.0 2005 132 luxembourg 26.0 2005 133 norway 25.0 2008 134 sweden 23.0 2005 rank code 2173 country comparison :: oil production this entry is the total oil produced in barrels per day bbl day <\s>
+<s> the discrepancy between the amount of oil produced and or imported and the amount consumed and or exported is due to the omission of stock changes refinery gains and other complicating factors <\s>
+<s> rank country bbl day date of information 1 russia 10,120 000                    2010 est <\s>
+<s> 2 saudi arabia 9,764 000                     2009 est <\s>
+<s> 3 united states 9,056 000                     2009 est <\s>
+<s> 4 iran 4,172 000                     2009 est <\s>
+<s> 5 china 3,991 000                     2009 est <\s>
+<s> 6 canada 3,289 000                     2009 est <\s>
+<s> 7 mexico 3,001 000                     2009 est <\s>
+<s> 8 united arab emirates 2,798 000                     2009 est <\s>
+<s> 9 brazil 2,572 000                     2009 est <\s>
+<s> 10 kuwait 2,494 000                     2009 est <\s>
+<s> 11 venezuela 2,472 000                     2009 est <\s>
+<s> 12 iraq 2,399 000                     2009 est <\s>
+<s> 13 european union 2,383 000                     2009 est <\s>
+<s> 14 norway 2,350 000                     2009 est <\s>
+<s> 15 nigeria 2,211 000                     2009 est <\s>
+<s> 16 algeria 2,125 000                     2009 est <\s>
+<s> 17 angola 1,948 000                     2009 est <\s>
+<s> 18 libya 1,790 000                     2009 est <\s>
+<s> 19 kazakhstan 1,540 000                     2009 est <\s>
+<s> 20 united kingdom 1,502 000                     2009 est <\s>
+<s> 21 qatar 1,213 000                     2009 est <\s>
+<s> 22 indonesia 1,023 000                     2009 est <\s>
+<s> 23 azerbaijan 1,011 000                     2009 est <\s>
+<s> 24 india 878,700 2009 est <\s>
+<s> 25 oman 816,000 2009 est <\s>
+<s> 26 argentina 796,300 2009 est <\s>
+<s> 27 malaysia 693,700 2009 est <\s>
+<s> 28 colombia 686,600 2009 est <\s>
+<s> 29 egypt 680,500 2009 est <\s>
+<s> 30 australia 589,200 2009 est <\s>
+<s> 31 sudan 486,700 2009 est <\s>
+<s> 32 ecuador 485,700 2009 est <\s>
+<s> 33 syria 400,400 2009 est <\s>
+<s> 34 thailand 380,000 2010 est <\s>
+<s> 35 equatorial guinea 346,000 2009 est <\s>
+<s> 36 vietnam 338,400 2009 est <\s>
+<s> 37 yemen 288,400 2009 est <\s>
+<s> 38 taiwan 276,800 2009 est <\s>
+<s> 39 congo republic of the 274,400 2009 est <\s>
+<s> 40 denmark 262,100 2009 est <\s>
+<s> 41 gabon 241,700 2009 est <\s>
+<s> 42 turkmenistan 197,700 2009 est <\s>
+<s> 43 south africa 191,000 2009 est <\s>
+<s> 44 germany 156,800 2009 est <\s>
+<s> 45 trinidad and tobago 151,600 2009 est <\s>
+<s> 46 peru 148,000 2009 est <\s>
+<s> 47 italy 146,500 2009 est <\s>
+<s> 48 brunei 146,000 2009 est <\s>
+<s> 49 japan 132,700 2009 est <\s>
+<s> 50 romania 117,000 2009 est <\s>
+<s> 51 chad 115,000 2009 est <\s>
+<s> 52 ukraine 99,930 2009 est <\s>
+<s> 53 timor-leste 96,270 2009 est <\s>
+<s> 54 tunisia 91,380 2009 est <\s>
+<s> 55 cameroon 77,310 2009 est <\s>
+<s> 56 uzbekistan 70,910 2009 est <\s>
+<s> 57 france 70,820 2009 est <\s>
+<s> 58 new zealand 61,150 2009 est <\s>
+<s> 59 pakistan 59,140 2009 est <\s>
+<s> 60 cote d'ivoire 58,950 2009 est <\s>
+<s> 61 netherlands 57,190 2009 est <\s>
+<s> 62 turkey 52,980 2009 est <\s>
+<s> 63 bahrain 48,560 2009 est <\s>
+<s> 64 cuba 48,340 2009 est <\s>
+<s> 65 korea south 48,180 2010 est <\s>
+<s> 136 mauritius 100                           2001 est <\s>
+<s> 137 malta 100                           2003 est <\s>
+<s> 138 macedonia 100                           2003 est <\s>
+<s> 139 luxembourg 100                           2003 est <\s>
+<s> 140 laos 100                           2007 est <\s>
+<s> 141 japan 100                           2007 est <\s>
+<s> 142 ireland 100                           2007 est <\s>
+<s> 143 iceland 100                           2003 est <\s>
+<s> 144 hungary 100                           2001 est <\s>
+<s> 145 greece 100                           2007 est <\s>
+<s> 146 finland 100                           2003 est <\s>
+<s> 147 turkmenistan 100                           2004 est <\s>
+<s> 148 sweden 100                           2007 est <\s>
+<s> 149 bulgaria 100                           2001 est <\s>
+<s> 150 bosnia and herzegovina 100                           2001 est <\s>
+<s> 151 belgium 100                           2007 est <\s>
+<s> 152 barbados 100                           2007 est <\s>
+<s> 153 azerbaijan 100                           2007 est <\s>
+<s> 154 croatia 10 2001 est <\s>
+<s> 155 czech republic 10 2001 est <\s>
+<s> 156 svalbard 0 2001 rank code 2158 country comparison :: rank country date of information rank code 2172 country comparison :: distribution of family income gini index this index measures the degree of inequality in the distribution of family income in a country <\s>
+<s> the index is calculated from the lorenz curve in which cumulative family income is plotted against the number of families arranged from the poorest to the richest <\s>
+<s> the index is the ratio of a the area between a country's lorenz curve and the 45 degree helping line to b the entire triangular area under the 45 degree line <\s>
+<s> the more nearly equal a country's income distribution the closer its lorenz curve to the 45 degree line and the lower its gini index e g a scandinavian country with an index of 25 <\s>
+<s> the more unequal a country's income distribution the farther its lorenz curve from the 45 degree line and the higher its gini index e g a sub-saharan country with an index of 50 <\s>
+<s> if income were distributed with perfect equality the lorenz curve would coincide with the 45 degree line and the index would be zero if income were distributed with perfect inequality the lorenz curve would coincide with the horizontal axis and the right vertical axis and the index would be 100 <\s>
+<s> rank country distribution of family income gini indexdate of information 1 namibia 70.7 2003 2 south africa 65.0 2005 3 lesotho 63.2 1995 4 botswana 63.0 1993 5 sierra leone 62.9 1989 6 central african republic 61.3 1993 7 haiti 59.2 2001 8 colombia 58.5 2009 9 bolivia 58.2 2009 10 brazil 56.7 2005 11 bosnia and herzegovina 56.2 2007 12 panama 56.1 2003 13 guatemala 55.1 2007 14 chile 54.9 2003 15 honduras 53.8 2003 16 hong kong 53.3 2007 17 paraguay 53.2 2009 18 el salvador 52.4 2002 19 papua new guinea 50.9 1996 20 zambia 50.8 2004 21 niger 50.5 1995 22 swaziland 50.4 2001 23 gambia the 50.2 1998 24 zimbabwe 50.1 2006 25 dominican republic 49.9 2005 26 peru 49.6 2009 27 sri lanka 49.0 2007 28 mexico 48.2 2008 29 singapore 48.1 2008 30 costa rica 48.0 2008 31 ecuador 47.9 2009 32 madagascar 47.5 2001 33 mozambique 47.3 2002 34 nepal 47.2 2008 35 rwanda 46.8 2000 36 malaysia 46.1 2002 37 philippines 45.8 2006 38 argentina 45.7 2009 39 uganda 45.7 2002 40 jamaica 45.5 2004 41 uruguay 45.2 2006 42 united states 45.0 2007 43 cameroon 44.6 2001 44 cote d'ivoire 44.6 2002 45 iran 44.5 2006 46 nigeria 43.7 2003 47 guyana 43.2 1999 48 nicaragua 43.1 2001 49 cambodia 43.0 2007 est <\s>
+<s> 50 thailand 43.0 2006 51 kenya 42.5 2008 est <\s>
+<s> 52 burundi 42.4 1998 53 russia 42.2 2009 54 china 41.5 2007 55 senegal 41.3 2001 56 turkey 41.0 2007 57 venezuela 41.0 2009 58 morocco 40.9 2005 est <\s>
+<s> 59 georgia 40.8 2009 60 turkmenistan 40.8 1998 61 mali 40.1 2001 62 tunisia 40.0 2005 est <\s>
+<s> 63 jordan 39.7 2007 64 burkina faso 39.5 2007 65 ghana 39.4 2005-06 66 indonesia 39.4 2005 67 israel 39.2 2008 68 macedonia 39.0 2003 69 malawi 39.0 2004 70 mauritius 39.0 2006 est <\s>
+<s> 71 mauritania 39.0 2000 72 portugal 38.5 2007 73 guinea 38.1 2006 74 japan 38.1 2002 75 timor-leste 38.0 2002 est <\s>
+<s> 76 yemen 37.7 2005 77 armenia 37.0 2006 78 vietnam 37.0 2004 79 india 36.8 2004 80 uzbekistan 36.8 2003 81 azerbaijan 36.5 2001 82 benin 36.5 2003 83 new zealand 36.2 1997 84 latvia 36.0 2005 85 lithuania 36.0 2005 86 algeria 35.3 1995 87 poland 34.9 2005 88 laos 34.6 2002 89 tanzania 34.6 2000 90 egypt 34.4 2001 91 estonia 34.0 2008 92 united kingdom 34.0 2005 93 switzerland 33.7 2008 94 bangladesh 33.2 2005 95 moldova 33.2 2003 96 greece 33.0 2005 97 mongolia 32.8 2002 98 france 32.7 2008 99 tajikistan 32.6 2006 100 canada 32.1 2005 101 italy 32.0 2006 102 spain 32.0 2005 103 romania 32.0 2008 104 korea south 31.4 2009 105 ukraine 31.0 2006 106 european union 31.0 2005 est <\s>
+<s> 107 netherlands 30.9 2007 108 ireland 30.7 2008 109 pakistan 30.6 fy07 08 110 australia 30.5 2006 111 kyrgyzstan 30.3 2003 112 ethiopia 30.0 2000 113 montenegro 30.0 2003 114 bulgaria 29.8 2008 115 finland 29.5 2007 116 croatia 29.0 2008 117 cyprus 29.0 2005 118 denmark 29.0 2007 119 kazakhstan 28.8 2008 120 slovenia 28.4 2008 121 belgium 28.0 2005 122 hungary 28.0 2005 123 iceland 28.0 2006 124 belarus 27.9 2005 125 germany 27.0 2006 126 albania 26.7 2005 127 austria 26.0 2007 128 malta 26.0 2007 129 serbia 26.0 2008 130 slovakia 26.0 2005 131 czech republic 26.0 2005 132 luxembourg 26.0 2005 133 norway 25.0 2008 134 sweden 23.0 2005 rank code 2173 country comparison :: oil production this entry is the total oil produced in barrels per day bbl day <\s>
+<s> the discrepancy between the amount of oil produced and or imported and the amount consumed and or exported is due to the omission of stock changes refinery gains and other complicating factors <\s>
+<s> rank country bbl day date of information 1 russia 10,120 000                    2010 est <\s>
+<s> 2 saudi arabia 9,764 000                     2009 est <\s>
+<s> 3 united states 9,056 000                     2009 est <\s>
+<s> 4 iran 4,172 000                     2009 est <\s>
+<s> 5 china 3,991 000                     2009 est <\s>
+<s> 6 canada 3,289 000                     2009 est <\s>
+<s> 7 mexico 3,001 000                     2009 est <\s>
+<s> 8 united arab emirates 2,798 000                     2009 est <\s>
+<s> 9 brazil 2,572 000                     2009 est <\s>
+<s> 10 kuwait 2,494 000                     2009 est <\s>
+<s> 11 venezuela 2,472 000                     2009 est <\s>
+<s> 12 iraq 2,399 000                     2009 est <\s>
+<s> 13 european union 2,383 000                     2009 est <\s>
+<s> 14 norway 2,350 000                     2009 est <\s>
+<s> 15 nigeria 2,211 000                     2009 est <\s>
+<s> 16 algeria 2,125 000                     2009 est <\s>
+<s> 17 angola 1,948 000                     2009 est <\s>
+<s> 18 libya 1,790 000                     2009 est <\s>
+<s> 19 kazakhstan 1,540 000                     2009 est <\s>
+<s> 20 united kingdom 1,502 000                     2009 est <\s>
+<s> 21 qatar 1,213 000                     2009 est <\s>
+<s> 22 indonesia 1,023 000                     2009 est <\s>
+<s> 23 azerbaijan 1,011 000                     2009 est <\s>
+<s> 24 india 878,700 2009 est <\s>
+<s> 25 oman 816,000 2009 est <\s>
+<s> 26 argentina 796,300 2009 est <\s>
+<s> 27 malaysia 693,700 2009 est <\s>
+<s> 28 colombia 686,600 2009 est <\s>
+<s> 29 egypt 680,500 2009 est <\s>
+<s> 30 australia 589,200 2009 est <\s>
+<s> 31 sudan 486,700 2009 est <\s>
+<s> 32 ecuador 485,700 2009 est <\s>
+<s> 33 syria 400,400 2009 est <\s>
+<s> 34 thailand 380,000 2010 est <\s>
+<s> 35 equatorial guinea 346,000 2009 est <\s>
+<s> 36 vietnam 338,400 2009 est <\s>
+<s> 37 yemen 288,400 2009 est <\s>
+<s> 38 taiwan 276,800 2009 est <\s>
+<s> 39 congo republic of the 274,400 2009 est <\s>
+<s> 40 denmark 262,100 2009 est <\s>
+<s> 41 gabon 241,700 2009 est <\s>
+<s> 42 turkmenistan 197,700 2009 est <\s>
+<s> 43 south africa 191,000 2009 est <\s>
+<s> 44 germany 156,800 2009 est <\s>
+<s> 45 trinidad and tobago 151,600 2009 est <\s>
+<s> 46 peru 148,000 2009 est <\s>
+<s> 47 italy 146,500 2009 est <\s>
+<s> 48 brunei 146,000 2009 est <\s>
+<s> 49 japan 132,700 2009 est <\s>
+<s> 50 romania 117,000 2009 est <\s>
+<s> 51 chad 115,000 2009 est <\s>
+<s> 52 ukraine 99,930 2009 est <\s>
+<s> 53 timor-leste 96,270 2009 est <\s>
+<s> 54 tunisia 91,380 2009 est <\s>
+<s> 55 cameroon 77,310 2009 est <\s>
+<s> 56 uzbekistan 70,910 2009 est <\s>
+<s> 57 france 70,820 2009 est <\s>
+<s> 58 new zealand 61,150 2009 est <\s>
+<s> 59 pakistan 59,140 2009 est <\s>
+<s> 60 cote d'ivoire 58,950 2009 est <\s>
+<s> 61 netherlands 57,190 2009 est <\s>
+<s> 62 turkey 52,980 2009 est <\s>
+<s> 63 bahrain 48,560 2009 est <\s>
+<s> 64 cuba 48,340 2009 est <\s>
+<s> 65 korea south 48,180 2010 est <\s>

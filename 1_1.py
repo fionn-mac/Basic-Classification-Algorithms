@@ -1,7 +1,7 @@
 import numpy as np
 
 def read(data, label):
-    with open("datasets/mnist_train.csv") as f:
+    with open("datasets/q1/train.csv") as f:
         for i, line in enumerate(f):
             temp = map(int, line.split(","))
             label.append(temp[0])
@@ -51,6 +51,7 @@ def validate(data, label, W):
 def main():
     data = []
     label = []
+    np.random.seed()
     W = np.array(np.random.uniform(-1, 1, 784))
     
     # Read training data from file

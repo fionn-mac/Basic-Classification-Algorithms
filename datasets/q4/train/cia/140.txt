@@ -1,0 +1,100 @@
+<s> 18 mexico 30,048 077.00 2010 est <\s>
+<s> 19 mexico 28,475 126.00 2010 est <\s>
+<s> 20 japan 27,461 338.00 2010 est <\s>
+<s> 21 japan 26,478 466.00 2010 est <\s>
+<s> 22 vietnam 25,402 395.00 2010 est <\s>
+<s> 23 philippines 25,079 262.00 2010 est <\s>
+<s> 24 vietnam 24,834 928.00 2010 est <\s>
+<s> 25 philippines 24,556 912.00 2010 est <\s>
+<s> 26 turkey 20,832 658.00 2010 est <\s>
+<s> 27 iran 20,763 890.00 2010 est <\s>
+<s> 28 egypt 20,619 887.00 2010 est <\s>
+<s> 29 turkey 20,337 037.00 2010 est <\s>
+<s> 30 iran 20,157 570.00 2010 est <\s>
+<s> 31 egypt 19,785 004.00 2010 est <\s>
+<s> 32 germany 19,195 804.00 2010 est <\s>
+<s> 33 ethiopia 19,145 307.00 2010 est <\s>
+<s> 34 ethiopia 18,485 269.00 2010 est <\s>
+<s> 35 germany 18,159 851.00 2010 est <\s>
+<s> 36 thailand 17,762 077.00 2010 est <\s>
+<s> 37 thailand 17,650 648.00 2010 est <\s>
+<s> 38 congo democratic republic of the 15,192 858.00 2010 est <\s>
+<s> 39 united kingdom 14,732 445.00 2010 est <\s>
+<s> 40 france 14,591 656.00 2010 est <\s>
+<s> 41 burma 14,558 921.00 2010 est <\s>
+<s> 42 burma 14,539 703.00 2010 est <\s>
+<s> 43 france 14,285 551.00 2010 est <\s>
+<s> 44 united kingdom 14,118 320.00 2010 est <\s>
+<s> 45 italy 13,705 846.00 2010 est <\s>
+<s> 46 south africa 13,508 255.00 2010 est <\s>
+<s> 47 korea south 13,274 442.00 2010 est <\s>
+<s> 48 italy 12,929 946.00 2010 est <\s>
+<s> 49 korea south 12,542 699.00 2010 est <\s>
+<s> 50 south africa 12,541 371.00 2010 est <\s>
+<s> 51 colombia 11,609 122.00 2010 est <\s>
+<s> 52 colombia 11,556 939.00 2010 est <\s>
+<s> 53 ukraine 11,437 891.00 2010 est <\s>
+<s> 54 ukraine 11,149 646.00 2010 est <\s>
+<s> 55 sudan 10,264 087.00 2010 est <\s>
+<s> 56 algeria 10,113 472.00 2010 est <\s>
+<s> 57 algeria 9,959 693.00 2010 est <\s>
+<s> 58 argentina 9,934 765.00 2010 est <\s>
+<s> 59 sudan 9,894 457.00 2010 est <\s>
+<s> 60 argentina 9,868 008.00 2010 est <\s>
+<s> 61 spain 9,851 306.00 2010 est <\s>
+<s> 62 tanzania 9,683 768.00 2010 est <\s>
+<s> 63 poland 9,597 047.00 2010 est <\s>
+<s> 64 spain 9,574 929.00 2010 est <\s>
+<s> 65 kenya 9,525 556.00 2010 est <\s>
+<s> 66 poland 9,364 939.00 2010 est <\s>
+<s> 67 kenya 9,242 381.00 2010 est <\s>
+<s> 68 saudi arabia 8,752 167.00 2010 est <\s>
+<s> 69 morocco 8,599 418.00 2010 est <\s>
+<s> 70 morocco 8,167 760.00 2010 est <\s>
+<s> 71 canada 8,051 656.00 2010 est <\s>
+<s> 72 peru 7,920 056.00 2010 est <\s>
+<s> 73 peru 7,795 130.00 2010 est <\s>
+<s> 74 uzbekistan 7,783 901.00 2010 est <\s>
+<s> 75 canada 7,780 644.00 2010 est <\s>
+<s> 76 uzbekistan 7,776 645.00 2010 est <\s>
+<s> 77 iraq 7,541 723.00 2010 est <\s>
+<s> 78 nepal 7,388 240.00 2010 est <\s>
+<s> 79 iraq 7,238 553.00 2010 est <\s>
+<s> 80 venezuela 7,047 565.00 2010 est <\s>
+<s> 81 uganda 6,972 134.00 2010 est <\s>
+<s> 82 venezuela 6,891 648.00 2010 est <\s>
+<s> 83 afghanistan 6,800 888.00 2010 est <\s>
+<s> 84 uganda 6,752 005.00 2010 est <\s>
+<s> 85 nepal 6,699 614.00 2010 est <\s>
+<s> 86 malaysia 6,692 438.00 2010 est <\s>
+<s> 87 saudi arabia 6,680 315.00 2010 est <\s>
+<s> 88 malaysia 6,494 413.00 2010 est <\s>
+<s> 89 afghanistan 6,413 647.00 2010 est <\s>
+<s> 90 taiwan 6,218 009.00 2010 est <\s>
+<s> 91 korea north 6,132 987.00 2010 est <\s>
+<s> 92 ghana 6,126 707.00 2010 est <\s>
+<s> 93 korea north 6,119 405.00 2010 est <\s>
+<s> 94 ghana 6,058 958.00 2010 est <\s>
+<s> 95 taiwan 6,038 964.00 2010 est <\s>
+<s> 96 syria 5,766 853.00 2010 est <\s>
+<s> 97 sri lanka 5,622 632.00 2010 est <\s>
+<s> 98 romania 5,617 144.00 2010 est <\s>
+<s> 99 syria 5,540 828.00 2010 est <\s>
+<s> 100 sri lanka 5,493 050.00 2010 est <\s>
+<s> 101 romania 5,487 510.00 2010 est <\s>
+<s> 102 yemen 5,458 642.00 2010 est <\s>
+<s> 103 australia 5,275 667.00 2010 est <\s>
+<s> 104 yemen 5,205 387.00 2010 est <\s>
+<s> 105 cote d'ivoire 5,094 762.00 2010 est <\s>
+<s> 106 australia 5,082 543.00 2010 est <\s>
+<s> 107 cote d'ivoire 4,895 446.00 2010 est <\s>
+<s> 108 mozambique 4,787 832.00 2010 est <\s>
+<s> 109 madagascar 4,750 188.00 2010 est <\s>
+<s> 110 madagascar 4,745 274.00 2010 est <\s>
+<s> 111 cameroon 4,553 576.00 2010 est <\s>
+<s> 112 cameroon 4,443 217.00 2010 est <\s>
+<s> 113 chile 4,301 900.00 2010 est <\s>
+<s> 114 chile 4,232 956.00 2010 est <\s>
+<s> 115 kazakhstan 4,202 422.00 2010 est <\s>
+<s> 116 kazakhstan 4,176 999.00 2010 est <\s>
+<s> 117 cambodia 3,980 995.00 2010 est <\s>

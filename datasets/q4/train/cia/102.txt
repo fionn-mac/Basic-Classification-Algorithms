@@ -1,0 +1,2600 @@
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>
+<s> 636 gabon 1.00 2010 est <\s>
+<s> 637 liberia 1.00 2010 est <\s>
+<s> 638 korea south 1.00 2010 est <\s>
+<s> 639 iceland 1.00 2010 est <\s>
+<s> 640 guyana 1.00 2010 est <\s>
+<s> 641 guyana 1.00 2010 est <\s>
+<s> 642 guinea-bissau 1.00 2010 est <\s>
+<s> 643 guinea 1.00 2010 est <\s>
+<s> 644 guinea 1.00 2010 est <\s>
+<s> 645 greece 1.00 2010 est <\s>
+<s> 646 ghana 1.00 2010 est <\s>
+<s> 647 ghana 1.00 2010 est <\s>
+<s> 648 gambia the 1.00 2010 est <\s>
+<s> 649 philippines 1.00 2010 est <\s>
+<s> 650 niger 1.00 2010 est <\s>
+<s> 651 nicaragua 1.00 2010 est <\s>
+<s> 652 nicaragua 1.00 2010 est <\s>
+<s> 653 new zealand 1.00 2010 est <\s>
+<s> 654 new caledonia 1.00 2010 est <\s>
+<s> 655 nauru 1.00 2010 est <\s>
+<s> 656 mongolia 1.00 2010 est <\s>
+<s> 657 mongolia 1.00 2010 est <\s>
+<s> 658 european union 1.00 2009 est <\s>
+<s> 659 zambia 1.00 2010 est <\s>
+<s> 660 united states 1.00 2010 est <\s>
+<s> 661 togo 1.00 2010 est <\s>
+<s> 662 south africa 1.00 2010 est <\s>
+<s> 663 somalia 1.00 2010 est <\s>
+<s> 664 somalia 1.00 2010 est <\s>
+<s> 665 somalia 1.00 2010 est <\s>
+<s> 666 serbia 1.00 2010 est <\s>
+<s> 667 sao tome and principe 1.00 2010 est <\s>
+<s> 668 saint kitts and nevis 1.00 2010 est <\s>
+<s> 669 portugal 1.00 2010 est <\s>
+<s> 670 philippines 1.00 2010 est <\s>
+<s> 671 monaco 1.00 2010 est <\s>
+<s> 672 malawi 1.00 2010 est <\s>
+<s> 673 malawi 1.00 2010 est <\s>
+<s> 674 macedonia 1.00 2010 est <\s>
+<s> 675 jersey 1.00 2010 est <\s>
+<s> 676 israel 1.00 2010 est <\s>
+<s> 677 ireland 1.00 2010 est <\s>
+<s> 678 indonesia 1.00 2010 est <\s>
+<s> 679 france 1.00 2010 est <\s>
+<s> 680 fiji 1.00 2010 est <\s>
+<s> 681 djibouti 1.00 2010 est <\s>
+<s> 682 chile 1.00 2010 est <\s>
+<s> 683 burkina faso 1.00 2010 est <\s>
+<s> 684 brunei 1.00 2010 est <\s>
+<s> 685 barbados 1.00 2010 est <\s>
+<s> 686 andorra 0.99 2010 est <\s>
+<s> 687 vietnam 0.99 2010 est <\s>
+<s> 688 vietnam 0.99 2010 est <\s>
+<s> 689 uzbekistan 0.99 2010 est <\s>
+<s> 690 uzbekistan 0.99 2010 est <\s>
+<s> 691 uruguay 0.99 2010 est <\s>
+<s> 692 tonga 0.99 2010 est <\s>
+<s> 693 tonga 0.99 2010 est <\s>
+<s> 694 tajikistan 0.99 2010 est <\s>
+<s> 695 swaziland 0.99 2010 est <\s>
+<s> 696 suriname 0.99 2010 est <\s>
+<s> 697 suriname 0.99 2010 est <\s>
+<s> 698 south africa 0.99 2010 est <\s>
+<s> 699 slovakia 0.99 2010 est <\s>
+<s> 700 senegal 0.99 2010 est <\s>
+<s> 701 saint martin 0.99 2010 est <\s>
+<s> 702 saint kitts and nevis 0.99 2010 est <\s>
+<s> 703 rwanda 0.99 2010 est <\s>
+<s> 704 rwanda 0.99 2010 est <\s>
+<s> 705 romania 0.99 2010 est <\s>
+<s> 706 poland 0.99 2010 est <\s>
+<s> 707 niger 0.99 2010 est <\s>
+<s> 708 new zealand 0.99 2010 est <\s>
+<s> 709 nauru 0.99 2010 est <\s>
+<s> 710 montenegro 0.99 2010 est <\s>
+<s> 711 ireland 0.99 2010 est <\s>
+<s> 712 haiti 0.99 2010 est <\s>
+<s> 713 equatorial guinea 0.99 2010 est <\s>
+<s> 714 ecuador 0.99 2010 est <\s>
+<s> 715 cuba 0.99 2010 est <\s>
+<s> 716 croatia 0.99 2010 est <\s>
+<s> 717 cote d'ivoire 0.99 2010 est <\s>
+<s> 718 congo republic of the 0.99 2010 est <\s>
+<s> 719 congo republic of the 0.99 2010 est <\s>
+<s> 720 congo democratic republic of the 0.99 2010 est <\s>
+<s> 721 congo democratic republic of the 0.99 2010 est <\s>
+<s> 722 micronesia federated states of 0.99 2010 est <\s>
+<s> 723 micronesia federated states of 0.99 2010 est <\s>
+<s> 724 mauritius 0.99 2010 est <\s>
+<s> 725 malta 0.99 2010 est <\s>
+<s> 726 malawi 0.99 2010 est <\s>
+<s> 727 madagascar 0.99 2010 est <\s>
+<s> 728 madagascar 0.99 2010 est <\s>
+<s> 729 gabon 0.99 2010 est <\s>
+<s> 730 burma 0.99 2010 est <\s>
+<s> 731 burma 0.99 2010 est <\s>
+<s> 732 burkina faso 0.99 2010 est <\s>
+<s> 733 brunei 0.99 2010 est <\s>
+<s> 734 benin 0.99 2010 est <\s>
+<s> 735 bolivia 0.98 2010 est <\s>

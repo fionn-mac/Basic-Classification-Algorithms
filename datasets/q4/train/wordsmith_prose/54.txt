@@ -1,0 +1,600 @@
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>
+<s> pillar of trajan 316 <\s>
+<s> the egyptian maid xiii <\s>
+<s> the river duddon c 317 <\s>
+<s> the river duddon 319 <\s>
+<s> sonnets on the duddon 320 <\s>
+<s> the wild strawberry 321 <\s>
+<s> memoir of walker 323 <\s>
+<s> white doe of rylstone c <\s>
+<s> battle of the standard 330 <\s>
+<s> bells of rylstone 331 <\s>
+<s> paul never in britain 335 <\s>
+<s> daniel and fuller 339 <\s>
+<s> edwin and the sparrow 342 <\s>
+<s> near fresh streams 343 <\s>
+<s> crown and cowl 347 <\s>
+<s> council of clermont 348 <\s>
+<s> the virgin mountain 354 <\s>
+<s> yarrow revisited c 362 <\s>
+<s> place of burial c <\s>
+<s> a manse in scotland 366 <\s>
+<s> lock etive glen 369 <\s>
+<s> sound of mull 371 <\s>
+<s> fancy and tradition 379 <\s>
+<s> by the sea side 382 <\s>
+<s> not in the lucid c <\s>
+<s> evening of extraordinary splendour 386 <\s>
+<s> poems composed in tour of 1833 <\s>
+<s> nun's well brigham 392 <\s>
+<s> to a friend 393 <\s>
+<s> mary queen of scots 394 <\s>
+<s> sir william hillary 398 <\s>
+<s> isle of man 399 <\s>
+<s> by a retired mariner 401 <\s>
+<s> at bala sala 402 <\s>
+<s> eagle in mosaic 405 <\s>
+<s> frith of clyde c <\s>
+<s> cave of staffa 410 <\s>
+<s> earl of lonsdale 420 <\s>
+<s> poems of sentiment c 421 <\s>
+<s> expostulation and reply 422 <\s>
+<s> the tables turned 423 <\s>
+<s> lines written in early spring 424 <\s>
+<s> to my sister 426 <\s>
+<s> to the daisy 429 <\s>
+<s> spade of a friend 433 <\s>
+<s> a night thought 434 <\s>
+<s> ode to duty 438 <\s>
+<s> the force of prayer 440 <\s>
+<s> a little onward 442 <\s>
+<s> ode to lycoris 443 <\s>
+<s> thought on the seasons 448 <\s>
+<s> the labourer's noon day hymn 451 <\s>
+<s> portrait by stone 453 <\s>
+<s> bird of paradise xix <\s>
+<s> sonnets dedicated to liberty <\s>
+<s> to the pennsylvanians 457 <\s>
+<s> feel for the wrongs c <\s>
+<s> punishment of death xx <\s>
+<s> epistle to beaumont 460 <\s>
+<s> upon perusing the foregoing c <\s>
+<s> gold and silver fishes 463 <\s>
+<s> lady le fleming 468 <\s>
+<s> to a redbreast 469 <\s>
+<s> once i could hail c <\s>
+<s> churches east and west 474 <\s>
+<s> horn of egremont castle 475 <\s>
+<s> to a child 477 <\s>
+<s> lines in an album c <\s>
+<s> the russian fugitive 479 <\s>
+<s> 480 to 486 xxii <\s>
+<s> selections from chaucer modernised <\s>
+<s> of the volume c 488 <\s>
+<s> the prioress's tale xxiii <\s>
+<s> poems referring to old age <\s>
+<s> the old cumberland beggar 490 <\s>
+<s> farmer of tilsbury vale 493 <\s>
+<s> the small celandine 494 <\s>
+<s> the two thieves 495 <\s>
+<s> epitaphs and elegiac pieces <\s>
+<s> by a blest husband c <\s>
+<s> address to scholars 501 <\s>
+<s> invocation to the earth 506 <\s>
+<s> ode intimations of immortality c <\s>
+<s> on the leading characters and scenes 514 <\s>
+<s> the aristocracy of nature 515 <\s>
+<s> endowment of immortal power c <\s>
+<s> dyer and the fleece 524 <\s>
+<s> letters and extracts from letters <\s>
+<s> books and reading 4 <\s>
+<s> tour on the continent 1790 letter to miss wordsworth 5 <\s>
+<s> melancholy of a friend 7 <\s>
+<s> the french revolution 9 <\s>
+<s> failure of louvet's denunciation of robespierre 10 <\s>
+<s> of inflammatory political opinions 11 <\s>
+<s> at milkhouse halifax not to take orders 12 <\s>
+<s> employment on a london newspaper 14 <\s>
+<s> raisley calvert's last illness 15 <\s>
+<s> satire juvenal c 1795 18 <\s>
+<s> visit to thelwall 19 <\s>
+<s> poetry added to 1798 20 <\s>

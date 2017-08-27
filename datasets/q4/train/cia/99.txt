@@ -1,0 +1,4300 @@
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>
+<s> 235 vanuatu 1.05 2010 est <\s>
+<s> 236 vanuatu 1.05 2010 est <\s>
+<s> 237 uzbekistan 1.05 2010 est <\s>
+<s> 238 united kingdom 1.05 2010 est <\s>
+<s> 239 united arab emirates 1.05 2010 est <\s>
+<s> 240 united arab emirates 1.05 2010 est <\s>
+<s> 241 turkmenistan 1.05 2010 est <\s>
+<s> 242 turkey 1.05 2010 est <\s>
+<s> 243 turkey 1.05 2010 est <\s>
+<s> 244 trinidad and tobago 1.05 2010 est <\s>
+<s> 245 tonga 1.05 2010 est <\s>
+<s> 246 timor-leste 1.05 2010 est <\s>
+<s> 247 thailand 1.05 2010 est <\s>
+<s> 248 tajikistan 1.05 2010 est <\s>
+<s> 249 syria 1.05 2010 est <\s>
+<s> 250 sudan 1.05 2010 est <\s>
+<s> 251 sudan 1.05 2010 est <\s>
+<s> 252 solomon islands 1.05 2010 est <\s>
+<s> 253 slovakia 1.05 2010 est <\s>
+<s> 254 seychelles 1.05 2010 est <\s>
+<s> 255 saudi arabia 1.05 2010 est <\s>
+<s> 256 samoa 1.05 2010 est <\s>
+<s> 257 saint lucia 1.05 2010 est <\s>
+<s> 258 romania 1.05 2010 est <\s>
+<s> 259 puerto rico 1.05 2010 est <\s>
+<s> 260 philippines 1.05 2010 est <\s>
+<s> 261 paraguay 1.05 2010 est <\s>
+<s> 262 papua new guinea 1.05 2010 est <\s>
+<s> 263 pakistan 1.05 2010 est <\s>
+<s> 264 oman 1.05 2010 est <\s>
+<s> 265 oman 1.05 2010 est <\s>
+<s> 266 nigeria 1.05 2010 est <\s>
+<s> 267 nicaragua 1.05 2010 est <\s>
+<s> 268 new zealand 1.05 2010 est <\s>
+<s> 269 new caledonia 1.05 2010 est <\s>
+<s> 270 netherlands 1.05 2010 est <\s>
+<s> 271 morocco 1.05 2010 est <\s>
+<s> 272 mongolia 1.05 2010 est <\s>
+<s> 273 monaco 1.05 2010 est <\s>
+<s> 274 micronesia federated states of 1.05 2010 est <\s>
+<s> 275 mexico 1.05 2010 est <\s>
+<s> 276 mayotte 1.05 2010 est <\s>
+<s> 277 mauritius 1.05 2010 est <\s>
+<s> 278 marshall islands 1.05 2010 est <\s>
+<s> 279 malta 1.05 2010 est <\s>
+<s> 280 maldives 1.05 2010 est <\s>
+<s> 281 macau 1.05 2010 est <\s>
+<s> 282 libya 1.05 2010 est <\s>
+<s> 283 libya 1.05 2010 est <\s>
+<s> 284 lebanon 1.05 2010 est <\s>
+<s> 285 lebanon 1.05 2010 est <\s>
+<s> 286 latvia 1.05 2010 est <\s>
+<s> 287 kiribati 1.05 2010 est <\s>
+<s> 288 jamaica 1.05 2010 est <\s>
+<s> 289 israel 1.05 2010 est <\s>
+<s> 290 israel 1.05 2010 est <\s>
+<s> 291 isle of man 1.05 2010 est <\s>
+<s> 292 iraq 1.05 2010 est <\s>
+<s> 293 iran 1.05 2010 est <\s>
+<s> 294 iran 1.05 2010 est <\s>
+<s> 295 indonesia 1.05 2010 est <\s>
+<s> 296 honduras 1.05 2010 est <\s>
+<s> 297 guyana 1.05 2010 est <\s>
+<s> 298 guatemala 1.05 2010 est <\s>
+<s> 299 grenada 1.05 2010 est <\s>
+<s> 300 greenland 1.05 2010 est <\s>
+<s> 301 germany 1.05 2010 est <\s>
+<s> 302 gaza strip 1.05 2010 est <\s>
+<s> 303 fiji 1.05 2010 est <\s>
+<s> 304 ecuador 1.05 2010 est <\s>
+<s> 305 dominica 1.05 2010 est <\s>
+<s> 306 dominica 1.05 2010 est <\s>
+<s> 307 denmark 1.05 2010 est <\s>
+<s> 308 cyprus 1.05 2010 est <\s>
+<s> 309 curacao 1.05 2010 310 costa rica 1.05 2010 est <\s>
+<s> 311 costa rica 1.05 2010 est <\s>
+<s> 312 angola 1.05 2010 est <\s>
+<s> 313 french polynesia 1.05 2010 est <\s>
+<s> 314 france 1.05 2010 est <\s>
+<s> 315 el salvador 1.05 2010 est <\s>
+<s> 316 el salvador 1.05 2010 est <\s>
+<s> 317 egypt 1.05 2010 est <\s>
+<s> 318 egypt 1.05 2010 est <\s>
+<s> 319 guernsey 1.05 2010 est <\s>
+<s> 320 saint helena ascension and tristan da cunha 1.05 2010 est <\s>
+<s> 321 monaco 1.05 2010 est <\s>
+<s> 322 new zealand 1.05 2010 est <\s>
+<s> 323 brunei 1.05 2010 est <\s>
+<s> 324 united states 1.05 2010 est <\s>
+<s> 325 turks and caicos islands 1.05 2010 est <\s>
+<s> 326 cook islands 1.05 2010 est <\s>
+<s> 327 peru 1.05 2010 est <\s>
+<s> 328 belgium 1.05 2010 est <\s>
+<s> 329 british virgin islands 1.05 2010 est <\s>
+<s> 330 cambodia 1.05 2010 est <\s>
+<s> 331 panama 1.05 2010 est <\s>
+<s> 332 sri lanka 1.04 2010 est <\s>
+<s> 333 kuwait 1.04 2010 est <\s>
+<s> 334 albania 1.04 2010 est <\s>
+<s> 335 algeria 1.04 2010 est <\s>

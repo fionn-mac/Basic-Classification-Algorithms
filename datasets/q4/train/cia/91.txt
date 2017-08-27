@@ -1,0 +1,4500 @@
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>
+<s> 425 guernsey 17.60 2010 est <\s>
+<s> 426 netherlands 17.40 2010 est <\s>
+<s> 427 european union 17.33 2009 est <\s>
+<s> 428 isle of man 17.10 2010 est <\s>
+<s> 429 croatia 17.00 2010 est <\s>
+<s> 430 latvia 17.00 2010 est <\s>
+<s> 431 cyprus 17.00 2010 est <\s>
+<s> 432 isle of man 16.90 2010 est <\s>
+<s> 433 san marino 16.90 2010 est <\s>
+<s> 434 san marino 16.90 2010 est <\s>
+<s> 435 finland 16.80 2010 est <\s>
+<s> 436 serbia 16.80 2010 est <\s>
+<s> 437 korea south 16.80 2010 est <\s>
+<s> 438 united kingdom 16.70 2010 est <\s>
+<s> 439 taiwan 16.70 2010 est <\s>
+<s> 440 liechtenstein 16.60 2010 est <\s>
+<s> 441 slovenia 16.50 2010 est <\s>
+<s> 442 finland 16.40 2010 est <\s>
+<s> 443 georgia 16.40 2010 est <\s>
+<s> 444 france 16.40 2010 est <\s>
+<s> 445 jersey 16.30 2010 est <\s>
+<s> 446 portugal 16.30 2010 est <\s>
+<s> 447 switzerland 16.30 2010 est <\s>
+<s> 448 lithuania 16.20 2010 est <\s>
+<s> 449 united kingdom 16.20 2010 est <\s>
+<s> 450 belgium 16.10 2010 est <\s>
+<s> 451 denmark 16.10 2010 est <\s>
+<s> 452 malta 16.10 2010 est <\s>
+<s> 453 macau 16.10 2010 est <\s>
+<s> 454 jersey 16.10 2010 est <\s>
+<s> 455 georgia 16.10 2010 est <\s>
+<s> 456 canada 16.10 2010 est <\s>
+<s> 457 montenegro 16.00 2010 est <\s>
+<s> 458 moldova 15.90 2010 est <\s>
+<s> 459 ukraine 15.90 2010 est <\s>
+<s> 460 norfolk island 15.90 2009 est <\s>
+<s> 461 hungary 15.80 2010 est <\s>
+<s> 462 slovakia 15.80 2010 est <\s>
+<s> 463 sweden 15.70 2010 est <\s>
+<s> 464 croatia 15.60 2010 est <\s>
+<s> 465 switzerland 15.60 2010 est <\s>
+<s> 466 andorra 15.50 2010 est <\s>
+<s> 467 romania 15.50 2010 est <\s>
+<s> 468 czech republic 15.50 2010 est <\s>
+<s> 469 european union 15.44 2009 est <\s>
+<s> 470 serbia 15.40 2010 est <\s>
+<s> 471 canada 15.20 2010 est <\s>
+<s> 472 norway 15.20 2010 est <\s>
+<s> 473 hungary 15.00 2010 est <\s>
+<s> 474 poland 15.00 2010 est <\s>
+<s> 475 estonia 14.90 2010 est <\s>
+<s> 476 netherlands 14.90 2010 est <\s>
+<s> 477 bosnia and herzegovina 14.80 2010 est <\s>
+<s> 478 russia 14.80 2010 est <\s>
+<s> 479 luxembourg 14.80 2010 est <\s>
+<s> 480 romania 14.70 2010 est <\s>
+<s> 481 monaco 14.60 2010 est <\s>
+<s> 482 austria 14.50 2010 est <\s>
+<s> 483 belarus 14.50 2010 est <\s>
+<s> 484 spain 14.50 2010 est <\s>
+<s> 485 malta 14.50 2010 est <\s>
+<s> 486 guernsey 14.50 2010 est <\s>
+<s> 487 bosnia and herzegovina 14.50 2010 est <\s>
+<s> 488 faroe islands 14.40 2010 est <\s>
+<s> 489 singapore 14.40 2010 est <\s>
+<s> 490 belarus 14.30 2010 est <\s>
+<s> 491 greece 14.30 2010 est <\s>
+<s> 492 bermuda 14.20 2010 est <\s>
+<s> 493 lithuania 14.20 2010 est <\s>
+<s> 494 puerto rico 14.10 2010 est <\s>
+<s> 495 liechtenstein 13.90 2010 est <\s>
+<s> 496 bulgaria 13.80 2010 est <\s>
+<s> 497 ukraine 13.80 2010 est <\s>
+<s> 498 germany 13.70 2010 est <\s>
+<s> 499 russia 13.70 2010 est <\s>
+<s> 500 montenegro 13.70 2010 est <\s>
+<s> 501 czech republic 13.60 2010 est <\s>
+<s> 502 virgin islands 13.60 2010 est <\s>
+<s> 503 australia 13.50 2010 est <\s>
+<s> 504 italy 13.50 2010 est <\s>
+<s> 505 japan 13.50 2010 est <\s>
+<s> 506 slovenia 13.50 2010 est <\s>
+<s> 507 poland 13.40 2010 est <\s>
+<s> 508 latvia 13.30 2010 est <\s>
+<s> 509 uruguay 13.30 2010 est <\s>
+<s> 510 hong kong 13.10 2010 est <\s>
+<s> 511 new zealand 12.80 2010 est <\s>
+<s> 512 united states 12.80 2010 est <\s>
+<s> 513 gibraltar 12.70 2010 est <\s>
+<s> 514 slovakia 12.50 2010 est <\s>
+<s> 515 andorra 12.30 2010 est <\s>
+<s> 516 curacao 12.20 2010 517 hong kong 12.20 2010 est <\s>
+<s> 518 iceland 12.20 2010 est <\s>
+<s> 519 ireland 12.00 2010 est <\s>
+<s> 520 saint pierre and miquelon 11.70 2010 est <\s>
+<s> 521 macedonia 11.40 2010 est <\s>
+<s> 522 saint helena ascension and tristan da cunha 11.40 2010 est <\s>
+<s> 523 cuba 11.20 2010 est <\s>
+<s> 524 argentina 10.80 2010 est <\s>
+<s> 525 moldova 10.80 2010 est <\s>

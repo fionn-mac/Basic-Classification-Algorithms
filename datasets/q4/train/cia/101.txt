@@ -1,0 +1,4600 @@
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>
+<s> 436 guernsey 1.03 2010 est <\s>
+<s> 437 gabon 1.03 2010 est <\s>
+<s> 438 ethiopia 1.03 2010 est <\s>
+<s> 439 eritrea 1.03 2010 est <\s>
+<s> 440 equatorial guinea 1.03 2010 est <\s>
+<s> 441 equatorial guinea 1.03 2010 est <\s>
+<s> 442 egypt 1.03 2010 est <\s>
+<s> 443 egypt 1.03 2010 est <\s>
+<s> 444 dominican republic 1.03 2010 est <\s>
+<s> 445 comoros 1.03 2010 est <\s>
+<s> 446 greenland 1.03 2010 est <\s>
+<s> 447 ghana 1.03 2010 est <\s>
+<s> 448 gambia the 1.03 2010 est <\s>
+<s> 449 chad 1.03 2010 est <\s>
+<s> 450 central african republic 1.03 2010 est <\s>
+<s> 451 cape verde 1.03 2010 est <\s>
+<s> 452 cameroon 1.03 2010 est <\s>
+<s> 453 burundi 1.03 2010 est <\s>
+<s> 454 burkina faso 1.03 2010 est <\s>
+<s> 455 british virgin islands 1.03 2010 est <\s>
+<s> 456 botswana 1.03 2010 est <\s>
+<s> 457 zimbabwe 1.03 2010 est <\s>
+<s> 458 zambia 1.03 2010 est <\s>
+<s> 459 yemen 1.03 2010 est <\s>
+<s> 460 yemen 1.03 2010 est <\s>
+<s> 461 venezuela 1.03 2010 est <\s>
+<s> 462 uruguay 1.03 2010 est <\s>
+<s> 463 united kingdom 1.03 2010 est <\s>
+<s> 464 uganda 1.03 2010 est <\s>
+<s> 465 somalia 1.03 2010 est <\s>
+<s> 466 sierra leone 1.03 2010 est <\s>
+<s> 467 seychelles 1.03 2010 est <\s>
+<s> 468 senegal 1.03 2010 est <\s>
+<s> 469 saudi arabia 1.03 2010 est <\s>
+<s> 470 sao tome and principe 1.03 2010 est <\s>
+<s> 471 sao tome and principe 1.03 2010 est <\s>
+<s> 472 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 473 saint vincent and the grenadines 1.03 2010 est <\s>
+<s> 474 togo 1.03 2010 est <\s>
+<s> 475 timor-leste 1.03 2010 est <\s>
+<s> 476 timor-leste 1.03 2010 est <\s>
+<s> 477 tanzania 1.03 2010 est <\s>
+<s> 478 syria 1.03 2010 est <\s>
+<s> 479 syria 1.03 2010 est <\s>
+<s> 480 swaziland 1.03 2010 est <\s>
+<s> 481 sudan 1.03 2010 est <\s>
+<s> 482 saint pierre and miquelon 1.03 2010 est <\s>
+<s> 483 saint kitts and nevis 1.03 2010 est <\s>
+<s> 484 rwanda 1.03 2010 est <\s>
+<s> 485 paraguay 1.03 2010 est <\s>
+<s> 486 papua new guinea 1.03 2010 est <\s>
+<s> 487 norway 1.03 2010 est <\s>
+<s> 488 niger 1.03 2010 est <\s>
+<s> 489 mayotte 1.03 2010 est <\s>
+<s> 490 mauritania 1.03 2010 est <\s>
+<s> 491 malta 1.03 2010 est <\s>
+<s> 492 mali 1.03 2010 est <\s>
+<s> 493 djibouti 1.03 2010 est <\s>
+<s> 494 cote d'ivoire 1.03 2010 est <\s>
+<s> 495 cote d'ivoire 1.03 2010 est <\s>
+<s> 496 congo republic of the 1.03 2010 est <\s>
+<s> 497 congo democratic republic of the 1.03 2010 est <\s>
+<s> 498 namibia 1.03 2010 est <\s>
+<s> 499 namibia 1.03 2010 est <\s>
+<s> 500 morocco 1.03 2010 est <\s>
+<s> 501 micronesia federated states of 1.03 2010 est <\s>
+<s> 502 belize 1.03 2010 est <\s>
+<s> 503 bahamas the 1.03 2010 est <\s>
+<s> 504 bahrain 1.03 2010 est <\s>
+<s> 505 bahamas the 1.03 2010 est <\s>
+<s> 506 angola 1.03 2010 est <\s>
+<s> 507 trinidad and tobago 1.03 2010 est <\s>
+<s> 508 aruba 1.02 2010 est <\s>
+<s> 509 algeria 1.02 2010 est <\s>
+<s> 510 american samoa 1.02 2010 est <\s>
+<s> 511 taiwan 1.02 2010 est <\s>
+<s> 512 taiwan 1.02 2010 est <\s>
+<s> 513 zimbabwe 1.02 2010 est <\s>
+<s> 514 western sahara 1.02 2010 est <\s>
+<s> 515 wallis and futuna 1.02 2010 est <\s>
+<s> 516 south africa 1.02 2010 est <\s>
+<s> 517 solomon islands 1.02 2010 est <\s>
+<s> 518 solomon islands 1.02 2010 est <\s>
+<s> 519 slovenia 1.02 2010 est <\s>
+<s> 520 saint vincent and the grenadines 1.02 2010 est <\s>
+<s> 521 macedonia 1.02 2010 est <\s>
+<s> 522 kenya 1.02 2010 est <\s>
+<s> 523 japan 1.02 2010 est <\s>
+<s> 524 iran 1.02 2010 est <\s>
+<s> 525 turkmenistan 1.02 2010 est <\s>
+<s> 526 turkey 1.02 2010 est <\s>
+<s> 527 turkey 1.02 2010 est <\s>
+<s> 528 trinidad and tobago 1.02 2010 est <\s>
+<s> 529 switzerland 1.02 2010 est <\s>
+<s> 530 sweden 1.02 2010 est <\s>
+<s> 531 swaziland 1.02 2010 est <\s>
+<s> 532 south africa 1.02 2010 est <\s>
+<s> 533 iran 1.02 2010 est <\s>
+<s> 534 iceland 1.02 2010 est <\s>
+<s> 535 haiti 1.02 2010 est <\s>

@@ -1,0 +1,700 @@
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>
+<s> 6 united kingdom 41,060 000,000 2009 est <\s>
+<s> 7 turkey 35,770 000,000 2009 est <\s>
+<s> 8 russia 35,100 000,000 2009 9 spain 34,670 000,000 2009 est <\s>
+<s> 10 korea south 32,690 000,000 2009 est <\s>
+<s> 11 ukraine 26,830 000,000 2009 est <\s>
+<s> 12 netherlands 24,600 000,000 2009 est <\s>
+<s> 13 belarus 17,600 000,000 2009 est <\s>
+<s> 14 belgium 16,780 000,000 2009 est <\s>
+<s> 15 united arab emirates 16,750 000,000 2008 est <\s>
+<s> 16 canada 16,590 000,000 2009 est <\s>
+<s> 17 india 12,620 000,000 2009 est <\s>
+<s> 18 taiwan 12,080 000,000 2008 est <\s>
+<s> 19 mexico 11,840 000,000 2009 est <\s>
+<s> 20 austria 10,960 000,000 2009 21 poland 9,954 000,000 2009 est <\s>
+<s> 22 hungary 9,708 000,000 2009 est <\s>
+<s> 23 czech republic 9,683 000,000 2009 est <\s>
+<s> 24 thailand 8,550 000,000 2008 est <\s>
+<s> 25 brazil 8,440 000,000 2009 est <\s>
+<s> 26 singapore 8,270 000,000 2008 est <\s>
+<s> 27 china 7,462 000,000 2009 28 slovakia 6,974 000,000 2009 est <\s>
+<s> 29 australia 6,560 000,000 2009 est <\s>
+<s> 30 romania 5,500 000,000 2008 est <\s>
+<s> 31 iran 5,200 000,000 2008 est <\s>
+<s> 32 portugal 4,895 000,000 2009 est <\s>
+<s> 33 ireland 4,723 000,000 2009 est <\s>
+<s> 34 finland 4,289 000,000 2009 35 kazakhstan 3,720 000,000 2009 est <\s>
+<s> 36 greece 3,556 000,000 2009 est <\s>
+<s> 37 lithuania 3,530 000,000 2008 est <\s>
+<s> 38 bulgaria 3,480 000,000 2008 39 switzerland 3,282 000,000 2009 est <\s>
+<s> 40 south africa 3,200 000,000 2008 est <\s>
+<s> 41 hong kong 2,830 000,000 2009 est <\s>
+<s> 42 jordan 2,720 000,000 2008 est <\s>
+<s> 43 argentina 2,660 000,000 2009 est <\s>
+<s> 44 moldova 2,520 000,000 2008 est <\s>
+<s> 45 serbia 2,400 000,000 2008 est <\s>
+<s> 46 latvia 2,050 000,000 2008 est <\s>
+<s> 47 armenia 1,930 000,000 2008 est <\s>
+<s> 48 venezuela 1,800 000,000 2009 est <\s>
+<s> 49 georgia 1,720 000,000 2008 est <\s>
+<s> 50 estonia 1,510 000,000 2008 est <\s>
+<s> 51 luxembourg 1,263 000,000 2009 est <\s>
+<s> 52 tunisia 1,250 000,000 2008 est <\s>
+<s> 53 sweden 1,229 000,000 2009 est <\s>
+<s> 54 croatia 1,220 000,000 2009 est <\s>
+<s> 55 slovenia 1,050 000,000 2009 est <\s>
+<s> 56 puerto rico 806,600 000                   2008 est <\s>
+<s> 57 kyrgyzstan 720,000 000                   2008 est <\s>
+<s> 58 chile 690,000 000                   2008 est <\s>
+<s> 59 morocco 500,000 000                   2008 est <\s>
+<s> 60 dominican republic 470,000 000                   2008 est <\s>
+<s> 61 oman 350,000 000                   2008 est <\s>
+<s> 62 bosnia and herzegovina 310,000 000                   2008 est <\s>
+<s> 63 kuwait 300,000 000                   2009 est <\s>
+<s> 64 tajikistan 250,000 000                   2009 est <\s>
+<s> 65 syria 140,000 000                   2008 est <\s>
+<s> 66 macau 97,800 000                    2009 est <\s>
+<s> 67 macedonia 82,000 000                    2009 est <\s>
+<s> 68 uruguay 70,000 000                    2008 est <\s>
+<s> 69 vietnam 380,000 2009 est <\s>
+<s> 70 afghanistan 0 2008 est <\s>
+<s> 71 albania 0 2008 est <\s>
+<s> 72 azerbaijan 0 2008 est <\s>
+<s> 73 bahrain 0 2008 est <\s>
+<s> 74 barbados 0 2008 est <\s>
+<s> 75 burkina faso 0 2008 est <\s>
+<s> 76 brunei 0 2008 est <\s>
+<s> 77 british virgin islands 0 2008 est <\s>
+<s> 78 botswana 0 2008 est <\s>
+<s> 79 bolivia 0 2008 est <\s>
+<s> 80 bhutan 0 2008 est <\s>
+<s> 81 bermuda 0 2008 est <\s>
+<s> 82 benin 0 2008 est <\s>
+<s> 83 belize 0 2008 est <\s>
+<s> 84 eritrea 0 2008 est <\s>
+<s> 85 equatorial guinea 0 2008 est <\s>
+<s> 86 el salvador 0 2008 est <\s>
+<s> 87 egypt 0 2009 est <\s>
+<s> 88 ecuador 0 2008 est <\s>
+<s> 89 dominica 0 2008 est <\s>
+<s> 90 djibouti 0 2008 est <\s>
+<s> 91 denmark 0 2008 92 cyprus 0 2008 est <\s>
+<s> 93 mauritius 0 2008 est <\s>
+<s> 94 mauritania 0 2008 est <\s>
+<s> 95 malta 0 2009 est <\s>
+<s> 96 mali 0 2008 est <\s>
+<s> 97 maldives 0 2009 est <\s>
+<s> 98 malaysia 0 2008 est <\s>
+<s> 99 malawi 0 2008 est <\s>
+<s> 100 madagascar 0 2008 est <\s>
+<s> 101 lebanon 0 2008 est <\s>
+<s> 102 peru 0 2008 est <\s>
+<s> 103 paraguay 0 2009 est <\s>
+<s> 104 papua new guinea 0 2008 est <\s>
+<s> 105 panama 0 2008 est <\s>
+<s> 106 pakistan 0 2008 est <\s>
+<s> 107 norway 0 2008 est <\s>
+<s> 108 niue 0 2008 est <\s>
+<s> 109 nigeria 0 2008 est <\s>
+<s> 110 niger 0 2008 est <\s>
+<s> 111 zimbabwe 0 2008 est <\s>

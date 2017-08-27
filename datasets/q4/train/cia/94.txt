@@ -1,0 +1,3600 @@
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>
+<s> 362 brunei 25.30 2008 est <\s>
+<s> 363 european union 25.20 2010 est <\s>
+<s> 364 central african republic 25.00 2001 est <\s>
+<s> 365 kyrgyzstan 25.00 2010 est <\s>
+<s> 366 tonga 25.00 fy05 06 est <\s>
+<s> 367 somalia 25.00 2005 est <\s>
+<s> 368 italy 24.90 2010 est <\s>
+<s> 369 netherlands 24.90 2010 est <\s>
+<s> 370 australia 24.80 2010 est <\s>
+<s> 371 ghana 24.70 2010 est <\s>
+<s> 372 guyana 24.70 2010 est <\s>
+<s> 373 iceland 24.70 2010 est <\s>
+<s> 374 angola 24.60 2008 est <\s>
+<s> 375 mauritius 24.60 2010 est <\s>
+<s> 376 kyrgyzstan 24.60 2010 est <\s>
+<s> 377 uganda 24.50 2010 est <\s>
+<s> 378 guatemala 24.40 2010 est <\s>
+<s> 379 suriname 24.40 2005 est <\s>
+<s> 380 guyana 24.30 2010 est <\s>
+<s> 381 kiribati 24.20 2004 382 new zealand 24.00 2010 est <\s>
+<s> 383 zimbabwe 24.00 2010 est <\s>
+<s> 384 pakistan 23.60 2010 est <\s>
+<s> 385 uganda 23.60 2010 est <\s>
+<s> 386 niue 23.50 2003 387 montserrat 23.10 1999 est <\s>
+<s> 388 haiti 23.00 2009 est <\s>
+<s> 389 portugal 23.00 2010 est <\s>
+<s> 390 costa rica 22.90 2010 est <\s>
+<s> 391 sao tome and principe 22.90 2010 est <\s>
+<s> 392 denmark 22.80 2010 est <\s>
+<s> 393 uruguay 22.80 2010 est <\s>
+<s> 394 japan 22.80 2010 est <\s>
+<s> 395 cuba 22.70 2010 est <\s>
+<s> 396 kosovo 22.60 2010 est <\s>
+<s> 397 serbia 22.60 2010 est <\s>
+<s> 398 tajikistan 22.60 2010 est <\s>
+<s> 399 united states 22.20 2010 est <\s>
+<s> 400 belgium 22.10 2010 est <\s>
+<s> 401 united kingdom 22.10 2010 est <\s>
+<s> 402 antigua and barbuda 22.00 2002 est <\s>
+<s> 403 kenya 22.00 2010 est <\s>
+<s> 404 armenia 22.00 2010 est <\s>
+<s> 405 pakistan 21.80 2010 est <\s>
+<s> 406 paraguay 21.80 2010 est <\s>
+<s> 407 malawi 21.70 2010 est <\s>
+<s> 408 burundi 21.40 2010 est <\s>
+<s> 409 senegal 21.40 2010 est <\s>
+<s> 410 cote d'ivoire 21.30 2010 est <\s>
+<s> 411 albania 21.20 2010 est <\s>
+<s> 412 uzbekistan 21.20 2010 est <\s>
+<s> 413 mongolia 21.20 2009 est <\s>
+<s> 414 qatar 21.10 2010 est <\s>
+<s> 415 dominican republic 21.00 2010 est <\s>
+<s> 416 sierra leone 21.00 2005 est <\s>
+<s> 417 korea north 20.90 2002 est <\s>
+<s> 418 burkina faso 20.70 2009 est <\s>
+<s> 419 latvia 20.60 2010 est <\s>
+<s> 420 vietnam 20.50 2010 est <\s>
+<s> 421 eritrea 20.40 2010 est <\s>
+<s> 422 french polynesia 20.40 2005 423 moldova 20.10 2010 est <\s>
+<s> 424 burma 20.00 2010 est <\s>
+<s> 425 haiti 20.00 2009 est <\s>
+<s> 426 cameroon 20.00 2010 est <\s>
+<s> 427 central african republic 20.00 2001 est <\s>
+<s> 428 zambia 19.70 2010 est <\s>
+<s> 429 albania 19.50 2010 est <\s>
+<s> 430 zimbabwe 19.50 2010 est <\s>
+<s> 431 france 19.20 2010 est <\s>
+<s> 432 tajikistan 19.20 2010 est <\s>
+<s> 433 virgin islands 19.00 2003 est <\s>
+<s> 434 cyprus 18.60 2010 est <\s>
+<s> 435 bangladesh 18.40 2010 est <\s>
+<s> 436 sint maarten 18.30 2008 est <\s>
+<s> 437 paraguay 18.20 2010 est <\s>
+<s> 438 tanzania 18.10 2010 est <\s>
+<s> 439 anguilla 18.00 2002 est <\s>
+<s> 440 grenada 18.00 2003 441 dominica 17.70 2004 est <\s>
+<s> 442 liberia 17.70 2002 est <\s>
+<s> 443 bhutan 17.60 2006 444 greece 17.60 2010 est <\s>
+<s> 445 syria 17.60 2010 est <\s>
+<s> 446 nicaragua 17.60 2010 est <\s>
+<s> 447 malta 17.40 2007 est <\s>
+<s> 448 morocco 17.10 2010 est <\s>
+<s> 449 mali 17.00 2001 est <\s>
+<s> 450 tonga 17.00 fy05 06 est <\s>
+<s> 451 niger 17.00 2001 452 belize 16.90 2008 est <\s>
+<s> 453 maldives 16.90 2009 est <\s>
+<s> 454 madagascar 16.70 2010 est <\s>
+<s> 455 panama 16.60 2010 est <\s>
+<s> 456 tuvalu 16.60 2002 457 gambia the 16.30 2010 est <\s>
+<s> 458 moldova 16.30 2010 est <\s>
+<s> 459 cape verde 16.20 2010 est <\s>
+<s> 460 india 16.10 2010 est <\s>
+<s> 461 barbados 16.00 2000 est <\s>
+<s> 462 faroe islands 16.00 2007 est <\s>
+<s> 463 kenya 16.00 2010 est <\s>
+<s> 464 lebanon 15.90 2010 est <\s>
+<s> 465 micronesia federated states of 15.20 2004 est <\s>
+<s> 466 cook islands 15.10 2004 467 curacao 15.00 2000 est <\s>
+<s> 468 nepal 15.00 fy09 est <\s>
+<s> 469 saint lucia 15.00 2005 est <\s>

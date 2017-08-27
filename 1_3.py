@@ -11,7 +11,7 @@ def read(data, label):
 def pass_over(data, label, W):
     flag = False
     count = 0
-    loss = np.zeros(784)
+    loss = np.zeros(len(data[0]))
     
     for i, sample in enumerate(data):
         g_x = 1 if np.dot(W, sample) > 0 else 0
@@ -53,6 +53,7 @@ def validate(data, label, W):
 def main():
     data = []
     label = []
+    np.random.seed()
     W = np.array(np.random.uniform(-1, 1, 784))
     
     # Read training data from file
