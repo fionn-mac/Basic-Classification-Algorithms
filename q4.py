@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import sys
+from sys import argv
 import os
 import numpy as np
 from operator import itemgetter
@@ -25,8 +25,8 @@ class FeatureVector(object):
 		self.Y.append(classid)
 		i = len(self.Y) - 1
 		
-		# filter(lambda a: a != "<s>", input)
-		# filter(lambda a: a != "<\s>", input)
+		filter(lambda a: a != "<s>", input)
+		filter(lambda a: a != "<\s>", input)
 		
 		count = len(input)
 		
@@ -67,7 +67,7 @@ class KNN(object):
 			predictClass = 0
 			count = {}
 			temp = sorted(valueMap.items(), key=itemgetter(1))
-			
+
 			for key in temp[:nn]:
 				if key[1][1] not in count:
 					count[key[1][1]] = 0
@@ -78,10 +78,11 @@ class KNN(object):
 					predictClass = key[1][1]
 			
 			# print "Predicted Class: ", predictClass, "Actual Class: ", self.Y_test[j]
-			if predictClass == self.Y_test[j]:
-				correct += 1
-
-		print "Accuracy :", float(correct)*100/float(j+1), "%  with K: ", nn
+			print predictClass
+		# 	if predictClass == self.Y_test[j]:
+		# 		correct += 1
+		# 
+		# print "Accuracy :", float(correct)*100/float(j+1), "%  with K: ", nn
 
 class Metrics(object):
 	def __init__(self,metric):
@@ -109,9 +110,8 @@ class Metrics(object):
 		"""
 
 if __name__ == '__main__':
-	datadir = './datasets/q4_1/'
 	classes = ['galsworthy/', 'galsworthy_2/', 'mill/', 'shelley/', 'thackerey/', 'thackerey_2/', 'wordsmith_prose/', 'cia/', 'johnfranklinjameson/', 'diplomaticcorr/']
-	inputdir = ['train/', 'test/']
+	inputdir = [argv[1], argv[2]]
 
 	vocab = 1000
 	trainsz = 1000
@@ -121,21 +121,21 @@ if __name__ == '__main__':
 	trainVec = FeatureVector(vocab, trainsz)
 	testVec = FeatureVector(vocab, testsz)
 
-	for idir in inputdir:
+	for index, idir in enumerate(inputdir):
 		classid = 1
 		for c in classes:
-			listing = os.listdir(datadir+idir+c)
+			listing = os.listdir(idir+c)
 			for filename in listing:
-				f = open(datadir+idir+c+filename,'r')
+				f = open(idir+c+filename,'r')
 				
 				inputs = []
 				for line in f:
 					inputs.extend(line.split())
 
-				if idir == 'train/':
-					trainVec.make_featurevector(inputs, classid)
-				else:
+				if index:
 					testVec.make_featurevector(inputs, classid)
+				else:
+					trainVec.make_featurevector(inputs, classid)
 			classid += 1
 
 	print('Finished making features.')
@@ -144,5 +144,5 @@ if __name__ == '__main__':
 
 	knn = KNN(trainVec, testVec)
 	
-	for i in xrange(10):
-		knn.classify(i+1)
+	# for i in xrange(10):
+	knn.classify(10)

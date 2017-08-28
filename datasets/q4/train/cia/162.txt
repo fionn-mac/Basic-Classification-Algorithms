@@ -1,0 +1,3600 @@
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>
+<s> 112 west bank 0 2008 est <\s>
+<s> 113 virgin islands 0 2008 est <\s>
+<s> 114 vanuatu 0 2008 est <\s>
+<s> 115 uruguay 0 2008 est <\s>
+<s> 116 uganda 0 2008 est <\s>
+<s> 117 turks and caicos islands 0 2008 est <\s>
+<s> 118 tonga 0 2008 est <\s>
+<s> 119 togo 0 2008 est <\s>
+<s> 120 timor-leste 0 2008 est <\s>
+<s> 121 switzerland 0 2008 est <\s>
+<s> 122 sweden 0 2008 est <\s>
+<s> 123 swaziland 0 2008 est <\s>
+<s> 124 suriname 0 2008 est <\s>
+<s> 125 sudan 0 2008 est <\s>
+<s> 126 sri lanka 0 2008 est <\s>
+<s> 127 somalia 0 2008 est <\s>
+<s> 128 solomon islands 0 2008 est <\s>
+<s> 129 slovenia 0 2009 est <\s>
+<s> 130 singapore 0 2008 est <\s>
+<s> 131 sierra leone 0 2008 est <\s>
+<s> 132 seychelles 0 2008 est <\s>
+<s> 133 sao tome and principe 0 2008 est <\s>
+<s> 134 samoa 0 2008 est <\s>
+<s> 135 saint vincent and the grenadines 0 2008 est <\s>
+<s> 136 saint pierre and miquelon 0 2008 est <\s>
+<s> 137 saint lucia 0 2008 est <\s>
+<s> 138 saint kitts and nevis 0 2008 est <\s>
+<s> 139 saint helena ascension and tristan da cunha 0 2008 est <\s>
+<s> 140 rwanda 0 2008 est <\s>
+<s> 141 puerto rico 0 2008 est <\s>
+<s> 142 paraguay 0 2009 est <\s>
+<s> 143 montserrat 0 2008 est <\s>
+<s> 144 mongolia 0 2008 est <\s>
+<s> 145 mauritius 0 2008 est <\s>
+<s> 146 mauritania 0 2008 est <\s>
+<s> 147 malta 0 2009 est <\s>
+<s> 148 mali 0 2008 est <\s>
+<s> 149 maldives 0 2009 est <\s>
+<s> 150 malawi 0 2008 est <\s>
+<s> 151 madagascar 0 2008 est <\s>
+<s> 152 panama 0 2008 est <\s>
+<s> 153 niue 0 2008 est <\s>
+<s> 154 niger 0 2008 est <\s>
+<s> 155 nicaragua 0 2008 est <\s>
+<s> 156 new caledonia 0 2008 est <\s>
+<s> 157 nepal 0 2009 est <\s>
+<s> 158 nauru 0 2008 est <\s>
+<s> 159 namibia 0 2008 est <\s>
+<s> 160 macedonia 0 2009 est <\s>
+<s> 161 macau 0 2009 est <\s>
+<s> 162 luxembourg 0 2008 est <\s>
+<s> 163 lithuania 0 2008 est <\s>
+<s> 164 liberia 0 2008 est <\s>
+<s> 165 lesotho 0 2008 est <\s>
+<s> 166 lebanon 0 2009 est <\s>
+<s> 167 latvia 0 2008 est <\s>
+<s> 168 laos 0 2008 est <\s>
+<s> 169 kosovo 0 2007 170 korea north 0 2008 est <\s>
+<s> 171 kiribati 0 2008 est <\s>
+<s> 172 kenya 0 2008 est <\s>
+<s> 173 jamaica 0 2008 est <\s>
+<s> 174 iceland 0 2008 est <\s>
+<s> 175 hong kong 0 2009 est <\s>
+<s> 176 el salvador 0 2008 est <\s>
+<s> 177 dominican republic 0 2008 est <\s>
+<s> 178 dominica 0 2008 est <\s>
+<s> 179 djibouti 0 2008 est <\s>
+<s> 180 cyprus 0 2008 est <\s>
+<s> 181 costa rica 0 2008 est <\s>
+<s> 182 cook islands 0 2008 est <\s>
+<s> 183 congo democratic republic of the 0 2008 est <\s>
+<s> 184 comoros 0 2008 est <\s>
+<s> 185 chad 0 2008 est <\s>
+<s> 186 central african republic 0 2008 est <\s>
+<s> 187 cayman islands 0 2008 est <\s>
+<s> 188 cape verde 0 2008 est <\s>
+<s> 189 cambodia 0 2008 est <\s>
+<s> 190 burundi 0 2008 est <\s>
+<s> 191 burkina faso 0 2008 est <\s>
+<s> 192 ghana 0 2008 est <\s>
+<s> 193 gambia the 0 2008 est <\s>
+<s> 194 french polynesia 0 2008 est <\s>
+<s> 195 fiji 0 2008 est <\s>
+<s> 196 faroe islands 0 2008 197 falkland islands islas malvinas 0 2008 est <\s>
+<s> 198 ethiopia 0 2008 est <\s>
+<s> 199 estonia 0 2008 est <\s>
+<s> 200 eritrea 0 2008 est <\s>
+<s> 201 botswana 0 2008 est <\s>
+<s> 202 bhutan 0 2008 est <\s>
+<s> 203 benin 0 2008 est <\s>
+<s> 204 belgium 0 2008 est <\s>
+<s> 205 bahamas the 0 2008 est <\s>
+<s> 206 aruba 0 2008 est <\s>
+<s> 207 antigua and barbuda 0 2008 est <\s>
+<s> rank code 2181 country comparison :: natural gas consumption this entry is the total natural gas consumed in cubic meters cu m <\s>
+<s> the discrepancy between the amount of natural gas produced and or imported and the amount consumed and or exported is due to the omission of stock changes and other complicating factors <\s>
+<s> rank country cu m date of information 1 united states 646,600 000,000 2009 est <\s>
+<s> 2 european union 489,400 000,000 2009 est <\s>
+<s> 3 russia 439,600 000,000 2009 4 iran 140,000 000,000 2008 est <\s>
+<s> 5 germany 96,260 000,000 2009 est <\s>

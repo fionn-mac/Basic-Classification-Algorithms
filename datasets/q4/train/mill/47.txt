@@ -1,0 +1,1000 @@
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>
+<s> define capital and examine the meaning of the term in the following statements a demand for commodities can not create capital <\s>
+<s> b credit is not a creation but a transfer of capital <\s>
+<s> c wages depend upon the proportion between population and capital <\s>
+<s> state the law of the value of money which governs general prices <\s>
+<s> what change is to be made in the statement if credit is to be taken into consideration <\s>
+<s> what is the part which instruments of credit other than bank notes play in the exchange of commodities <\s>
+<s> mention some of the principal features of a credit crisis <\s>
+<s> what are inconvertible notes <\s>
+<s> what objections are there to currency of this description <\s>
+<s> can an inconvertible currency be made to maintain the same value as a convertible currency and if so how <\s>
+<s> supposing that it can what objections are there nevertheless to it <\s>
+<s>    nothing is subject to more variation than paper money even when it is limited and has no guarantees for this simple reason that having no value of its own it depends on the idea that each person forms of those guarantees    comment on this passage <\s>
+<s> how is it that a bad dollar does the work of buying as well as a good one until it is found out <\s>
+<s> is it that it makes no difference whether it is made of gold or not <\s>
+<s> to what extent is a government capable of giving fictitious value to a paper or a metallic currency <\s>
+<s> in a country with an inconvertible paper currency how can it be determined whether the issues are excessive or not and why <\s>
+<s> what will be the effect if the circulating medium of a country is increased beyond its natural amount    1 when the medium is coin <\s>
+<s> 2 when it is coin and convertible paper <\s>
+<s> 3 when it is inconvertible paper <\s>
+<s> what is the error involved in the assumption frequently made by writers and public speakers that the currency of a country ought to increase in like ratio with its wealth and population <\s>
+<s> on what does the desire to use credit depend <\s>
+<s> what connection exists between the amount of notes and coin in circulation and the use of credit <\s>
+<s> compare the advantages and disadvantages of a metallic and paper currency <\s>
+<s> a member of congress advocated expansion of the paper currency by the following argument    our currency as well as everything else must keep pace with our growth as a nation .... <\s>
+<s> france has a circulation per capita of thirty dollars england of twenty five and we with our extent of territory and improvements certainly require more than either    state your opinion of this argument <\s>
+<s> trace the effects immediate and ultimate on general prices of a an extended system of credit b an enlarged issue of paper money and c an addition to the stock of precious metals respectively <\s>
+<s> what is the error in the common notion that    a paper currency can not be issued in excess so long as every note represents property or has a foundation of actual property to rest on   <\s>
+<s> explain the action of the check and clearing house system and state what is meant by the restoration of barter <\s>
+<s> state the relation between supply and demand as aggregates e g between the aggregate supply of commodities in a given community and the aggregate demand for them and show the bearing of the principle involved on the doctrine of    general over production    186 <\s>
+<s> prove that the increase of capital and the extension of industry can not lead to a general over production of commodities <\s>
+<s> what is the error of those who believe in the danger of over production <\s>
+<s> distinguish    excess of supply    from a    commercial crisis    189 <\s>
+<s> give the substance of mills examination of the theories of excess of supply <\s>
+<s>    when production is fully equal to consumption every discovery in the arts or in mechanics is a calamity because it only adds to the enjoyment of consumers the opportunity of obtaining commodities at a cheaper rate while it deprives the producers of even life itself    discuss this opinion of sismondi <\s>
+<s> explain the difference in the theories of dr <\s>
+<s> mill on over production and the excess of supply <\s>
+<s> peculiar cases of value <\s>
+<s> it costs as much to produce straw as to produce grain how then do you explain the comparatively low value of straw <\s>
+<s> suppose a considerable rise in the price of wool to be foreseen how should farmers expect the prices of mutton to be affected and why <\s>
+<s> explain the operation of the laws of value by which the relative prices of wool and mutton are regulated <\s>
+<s> international trade and values <\s>
+<s> what is the meaning of the statement that    it is not a difference in the absolute cost of production which determines the interchange of commodities between countries but a difference in the comparative cost    <\s>
+<s> what are the advantages which a country derives from foreign trade <\s>
+<s> explain clearly the following passage    we may often by trading with foreigners obtain their commodities at a smaller expense of labor and capital than they cost to the foreigners themselves    198 <\s>
+<s> is there any essential difference between trade between country and country and trade between county and county or even between man and man <\s>
+<s> what is the real nature of trade in all cases <\s>
+<s> why is it necessary to make any different statement of the laws of value for foreign than for domestic products <\s>
+<s> what is the cause for the existence of any international trade <\s>
+<s> how would a serious decline in the efficiency of england as compared with other countries in the production of manufactures affect the scale of money incomes and prices in england and why <\s>
+<s> mill refers the value of home products to the    cost of production    of foreign products to the    cost of acquisition    examine the truth of this distinction <\s>
+<s> it is said that in the home market the value of commodities depends on the cost of production in the foreign market on the cost of acquisition <\s>
+<s> comment on this distinction <\s>
+<s> is the cost of production the regulator of international values <\s>
+<s> discuss the following statement    international value is regulated just as inter provincial or inter parishional value is <\s>
+<s> coals and hops are exchanged between northumberland and kent on absolutely the same principles as iron and wine between lancashire and spain       ruskin    munera pulveris    p <\s>
+<s> what determines the value of imported commodities <\s>
+<s> why does cost of production fail to determine the value of commodities brought from a foreign country <\s>
+<s> does it also fail in the case of commodities brought from distant parts of the same country <\s>
+<s> it is on the matter of fact that there is not much migration of capital and labor from country to country that mr <\s>
+<s> mill has based his whole doctrine of    international trade and international values    explain and comment on the above statement <\s>
+<s> what are the causes which determine for a nation the cost of its imports <\s>
+<s> it follows from the theory of international values as laid down by mill that the permanent residence of americans in europe may enhance the cost of foreign imports to americans residing at home <\s>
+<s> explain in what way <\s>
+<s> suppose two countries a and b isolated from the rest of the world and a trade established between them <\s>
+<s> in consequence of the labor of a becoming less effective the cost of production of every article which can be produced in that country is greatly increased but so that the relation between the costs of any two articles remains the same <\s>
+<s> what if any will be the effect of the change on the trade between a and b <\s>
+<s> does your answer depend upon your using the phrase    cost of production    in a sense different from that given to it by some economists <\s>
+<s> show that every country gets its imports at less cost in proportion to the efficiency of its labor <\s>
+<s> what is the ordinary limit to the premium on foreign bills of exchange and why <\s>
+<s> what are the chief effects on the foreign exchanges which are produced by the breaking out of a war <\s>
+<s> account for the fact that in 1861 the exchanges on england in america fell considerably below specie point <\s>
+<s> suppose that the next harvest in england should be very defective and extraordinary supplies of american grain needed <\s>
+<s> how would this probably affect the price of bills of exchange between england and america and the profit on the exportation of english manufactures to the latter and why <\s>
+<s> trace the process by which the precious metals spread from the mines over the world <\s>
+<s> suppose the exchange between england and the united states to be heavily against england how will this fact affect the export and import trade between the two countries and why <\s>
+<s> what is meant by exchanges being against a country <\s>
+<s> enumerate the principal circumstances which affect the rate of exchange between two countries <\s>
+<s> how is the par of exchange ascertained <\s>
+<s> in what way are gold and silver distributed among the different trading countries <\s>
+<s> between different parts of the same country <\s>
+<s> trace the effects of large and continuous issues of inconvertible paper currency on the prices of commodities on importation and exportation and on the foreign exchanges <\s>
+<s> state the conditions under which international trade can permanently exist <\s>
+<s> what will be the ultimate effect of a large movement of foreign gold upon prices imports and exports in the receiving country <\s>
+<s> state the theory of the value of money i e    metallic money    and clear up any apparent inconsistencies between the following statements 1 the value of money depends on the cost of production at the worst mines 2 the value of money varies inversely as its quantity multiplied by its rapidity of circulation 3 the countries whose products are most in demand abroad and contain the greatest value in the smallest bulk which are nearest the mines and have the least demand for foreign productions are those in which money will be of lowest value <\s>
+<s> the effects of the depreciation of the paper currency in the united states are thus described by mr <\s>
+<s> wells    it renders it impossible to sell abroad the products which have cost too much at home and invites from other countries the products of a cheaper labor paid for in a sounder currency <\s>
+<s> it exaggerates imports while destroying our ability to pay in kind    state how far you agree with the deductions here drawn assigning your reasons where you differ <\s>
+<s> when the foreign exchanges are manifestly against a country and a balance of indebtedness is the cause the equilibrium can be restored in two ways <\s>
+<s> state and explain the operation of each <\s>
+<s> what are the conditions which determine for a country a high range of general prices <\s>
+<s> how far is this advantageous <\s>
+<s> what is the effect of the imposition of a tribute by one country on another upon the course of trade between them and the terms on which they exchange commodities and why <\s>
+<s> for what reasons may a nations exports habitually exceed or fall short of its imports <\s>
+<s> explain the real and nominal exchange <\s>
+<s> mills theory of the influence which a convertible currency exercises on foreign trade <\s>
+<s> what is the effect of a depreciated currency on 1 foreign trade and 2 the exchanges <\s>
+<s> how does the general rate of interest determine the selling price of stocks and land <\s>
+<s> is there any relation between the rate of interest and the value of money <\s>
+<s> what are the relations of interest and profit <\s>
+<s> on what causes does the rate of interest depend <\s>

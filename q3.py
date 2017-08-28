@@ -1,8 +1,9 @@
+from sys import argv
 import numpy as np
 from collections import defaultdict
 
 def read_train():
-    with open("datasets/q3/decision_tree_train.csv") as f:
+    with open(train_path) as f:
     # with open("datasets/q3/train.csv") as f:
         for i, line in enumerate(f):
             line = line.rstrip()
@@ -28,7 +29,7 @@ def read_train():
     return
 
 def read_test():
-    with open("datasets/q3/decision_tree_test.csv") as f:
+    with open(test_path) as f:
     # with open("datasets/q3/test.csv") as f:
         correct = 0
         total = 0
@@ -37,21 +38,23 @@ def read_test():
             temp = line.split(",")
             inAtt = []
             if i > 0:
-                for j, val in enumerate(temp):
+                j = 0
+                for val in temp:
+                    if j == 6:
+                        inAtt.append("Dummy Label")
                     if j < 6:
                         inAtt.append(float(val))
-                    elif j == 6:
-                        label = int(val)
-                        inAtt.append(label)
                     else:
                         inAtt.append(val)
+                    j += 1
                 classLabel = classify_test(inAtt, 0)
-                total += 1
+                print classLabel
+                # total += 1
                 # print classLabel, " ", label
-                if classLabel == label:
-                    correct += 1
+                # if classLabel == label:
+                #     correct += 1
     
-    print "Accuracy:",float(correct)*100/float(total-1),"%"
+    # print "Accuracy:",float(correct)*100/float(total-1),"%"
     return
 
 def classify_test(attribute, node):
@@ -254,9 +257,6 @@ def main():
     generate_tree(indices)
 
     read_test()
-    # for i in tree:
-    #     for j in tree[i]:
-    #         print "Node: ", i, j[0], "Attribute: ", j[1], "Value: ", j[2], "Index/Label: ", j[3]
 
 node = 0
 
@@ -267,5 +267,8 @@ discrete = []
 
 attributes = {}
 tree = defaultdict(list)
+
+train_path = argv[1]
+test_path = argv[2]
 
 main()

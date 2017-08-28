@@ -1,0 +1,200 @@
+<s> 4 ghana 39.80 2010 est <\s>
+<s> 5 cape verde 36.90 2010 est <\s>
+<s> 6 seychelles 36.20 2010 est <\s>
+<s> 7 belarus 36.00 2010 est <\s>
+<s> 8 vietnam 35.10 2010 est <\s>
+<s> 9 madagascar 34.60 2010 est <\s>
+<s> 10 guyana 34.10 2010 est <\s>
+<s> 11 armenia 33.30 2010 est <\s>
+<s> 12 qatar 33.00 2010 est <\s>
+<s> 13 india 32.00 2010 est <\s>
+<s> 14 indonesia 30.80 2010 est <\s>
+<s> 15 lebanon 30.80 2010 est <\s>
+<s> 16 montenegro 30.50 2006 est <\s>
+<s> 17 morocco 30.20 2010 est <\s>
+<s> 18 jordan 30.10 2010 est <\s>
+<s> 19 albania 29.80 2010 est <\s>
+<s> 20 equatorial guinea 29.10 2010 est <\s>
+<s> 21 haiti 28.90 2008 est <\s>
+<s> 22 gabon 28.80 2010 est <\s>
+<s> 23 korea south 28.70 2010 est <\s>
+<s> 24 botswana 28.20 2010 est <\s>
+<s> 25 gambia the 28.00 2010 est <\s>
+<s> 26 kazakhstan 27.90 2010 est <\s>
+<s> 27 malawi 27.70 2010 est <\s>
+<s> 28 iran 27.60 2010 est <\s>
+<s> 29 algeria 27.50 2010 est <\s>
+<s> 30 australia 27.40 2010 est <\s>
+<s> 31 singapore 27.20 2010 est <\s>
+<s> 32 panama 26.80 2010 est <\s>
+<s> 33 united arab emirates 26.80 2010 est <\s>
+<s> 34 bahrain 26.60 2010 est <\s>
+<s> 35 kyrgyzstan 26.40 2010 est <\s>
+<s> 36 oman 26.30 2010 est <\s>
+<s> 37 belize 26.20 2010 est <\s>
+<s> 38 tunisia 26.10 2010 est <\s>
+<s> 39 senegal 25.90 2010 est <\s>
+<s> 40 serbia 25.90 2010 est <\s>
+<s> 41 ethiopia 25.20 2010 est <\s>
+<s> 42 burundi 25.10 2010 est <\s>
+<s> 43 jamaica 25.10 2010 est <\s>
+<s> 44 peru 25.10 2010 est <\s>
+<s> 45 thailand 24.90 2010 est <\s>
+<s> 46 saudi arabia 24.50 2010 est <\s>
+<s> 47 namibia 24.00 2010 est <\s>
+<s> 48 bangladesh 23.80 2010 est <\s>
+<s> 49 mauritius 23.80 2010 est <\s>
+<s> 50 ecuador 23.70 2010 est <\s>
+<s> 51 sri lanka 23.60 2010 est <\s>
+<s> 52 chile 23.50 2010 est <\s>
+<s> 53 world 23.40 2010 est <\s>
+<s> 54 honduras 23.30 2010 est <\s>
+<s> 55 world 23.10 2010 est <\s>
+<s> 56 spain 22.90 2010 est <\s>
+<s> 57 bulgaria 22.80 2010 est <\s>
+<s> 58 colombia 22.80 2010 est <\s>
+<s> 59 nicaragua 22.80 2010 est <\s>
+<s> 60 czech republic 22.50 2010 est <\s>
+<s> 61 estonia 22.50 2010 est <\s>
+<s> 62 croatia 22.40 2010 est <\s>
+<s> 63 macedonia 22.30 2010 est <\s>
+<s> 64 hong kong 22.20 2010 est <\s>
+<s> 65 slovakia 22.20 2010 est <\s>
+<s> 66 canada 22.10 2010 est <\s>
+<s> 67 argentina 22.00 2010 est <\s>
+<s> 68 lesotho 21.90 2010 est <\s>
+<s> 69 moldova 21.70 2010 est <\s>
+<s> 70 taiwan 21.50 2010 est <\s>
+<s> 71 kenya 21.30 2010 est <\s>
+<s> 72 cameroon 21.10 2010 est <\s>
+<s> 73 mexico 21.10 2010 est <\s>
+<s> 74 romania 21.10 2010 est <\s>
+<s> 75 austria 21.00 2010 est <\s>
+<s> 76 zimbabwe 21.00 2010 est <\s>
+<s> 77 cambodia 20.90 2010 est <\s>
+<s> 78 tajikistan 20.90 2010 est <\s>
+<s> 79 uganda 20.90 2010 est <\s>
+<s> 80 belgium 20.80 2010 est <\s>
+<s> 81 costa rica 20.80 2010 est <\s>
+<s> 82 zambia 20.50 2010 est <\s>
+<s> 83 japan 20.30 2010 est <\s>
+<s> 84 sudan 20.20 2010 est <\s>
+<s> 85 malaysia 20.10 2010 est <\s>
+<s> 86 rwanda 20.00 2010 est <\s>
+<s> 87 france 19.90 2010 est <\s>
+<s> 88 south africa 19.90 2010 est <\s>
+<s> 89 switzerland 19.90 2010 est <\s>
+<s> 90 burkina faso 19.70 2010 est <\s>
+<s> 91 cyprus 19.70 2010 est <\s>
+<s> 92 new zealand 19.60 2010 est <\s>
+<s> 93 poland 19.50 2010 est <\s>
+<s> 94 hungary 19.40 2010 est <\s>
+<s> 95 uruguay 19.40 2010 est <\s>
+<s> 96 yemen 19.40 2010 est <\s>
+<s> 97 italy 19.10 2010 est <\s>
+<s> 98 portugal 19.00 2010 est <\s>
+<s> 99 russia 18.90 2010 est <\s>
+<s> 100 finland 18.70 2010 est <\s>
+<s> 101 slovenia 18.70 2010 est <\s>
+<s> 102 norway 18.60 2010 est <\s>
+<s> 103 european union 18.60 2010 est <\s>
+<s> 4 ghana 39.80 2010 est <\s>
+<s> 5 cape verde 36.90 2010 est <\s>
+<s> 6 seychelles 36.20 2010 est <\s>
+<s> 7 belarus 36.00 2010 est <\s>
+<s> 8 vietnam 35.10 2010 est <\s>
+<s> 9 madagascar 34.60 2010 est <\s>
+<s> 10 guyana 34.10 2010 est <\s>
+<s> 11 armenia 33.30 2010 est <\s>
+<s> 12 qatar 33.00 2010 est <\s>
+<s> 13 india 32.00 2010 est <\s>
+<s> 14 indonesia 30.80 2010 est <\s>
+<s> 15 lebanon 30.80 2010 est <\s>
+<s> 16 montenegro 30.50 2006 est <\s>
+<s> 17 morocco 30.20 2010 est <\s>
+<s> 18 jordan 30.10 2010 est <\s>
+<s> 19 albania 29.80 2010 est <\s>
+<s> 20 equatorial guinea 29.10 2010 est <\s>
+<s> 21 haiti 28.90 2008 est <\s>
+<s> 22 gabon 28.80 2010 est <\s>
+<s> 23 korea south 28.70 2010 est <\s>
+<s> 24 botswana 28.20 2010 est <\s>
+<s> 25 gambia the 28.00 2010 est <\s>
+<s> 26 kazakhstan 27.90 2010 est <\s>
+<s> 27 malawi 27.70 2010 est <\s>
+<s> 28 iran 27.60 2010 est <\s>
+<s> 29 algeria 27.50 2010 est <\s>
+<s> 30 australia 27.40 2010 est <\s>
+<s> 31 singapore 27.20 2010 est <\s>
+<s> 32 panama 26.80 2010 est <\s>
+<s> 33 united arab emirates 26.80 2010 est <\s>
+<s> 34 bahrain 26.60 2010 est <\s>
+<s> 35 kyrgyzstan 26.40 2010 est <\s>
+<s> 36 oman 26.30 2010 est <\s>
+<s> 37 belize 26.20 2010 est <\s>
+<s> 38 tunisia 26.10 2010 est <\s>
+<s> 39 senegal 25.90 2010 est <\s>
+<s> 40 serbia 25.90 2010 est <\s>
+<s> 41 ethiopia 25.20 2010 est <\s>
+<s> 42 burundi 25.10 2010 est <\s>
+<s> 43 jamaica 25.10 2010 est <\s>
+<s> 44 peru 25.10 2010 est <\s>
+<s> 45 thailand 24.90 2010 est <\s>
+<s> 46 saudi arabia 24.50 2010 est <\s>
+<s> 47 namibia 24.00 2010 est <\s>
+<s> 48 bangladesh 23.80 2010 est <\s>
+<s> 49 mauritius 23.80 2010 est <\s>
+<s> 50 ecuador 23.70 2010 est <\s>
+<s> 51 sri lanka 23.60 2010 est <\s>
+<s> 52 chile 23.50 2010 est <\s>
+<s> 53 world 23.40 2010 est <\s>
+<s> 54 honduras 23.30 2010 est <\s>
+<s> 55 world 23.10 2010 est <\s>
+<s> 56 spain 22.90 2010 est <\s>
+<s> 57 bulgaria 22.80 2010 est <\s>
+<s> 58 colombia 22.80 2010 est <\s>
+<s> 59 nicaragua 22.80 2010 est <\s>
+<s> 60 czech republic 22.50 2010 est <\s>
+<s> 61 estonia 22.50 2010 est <\s>
+<s> 62 croatia 22.40 2010 est <\s>
+<s> 63 macedonia 22.30 2010 est <\s>
+<s> 64 hong kong 22.20 2010 est <\s>
+<s> 65 slovakia 22.20 2010 est <\s>
+<s> 66 canada 22.10 2010 est <\s>
+<s> 67 argentina 22.00 2010 est <\s>
+<s> 68 lesotho 21.90 2010 est <\s>
+<s> 69 moldova 21.70 2010 est <\s>
+<s> 70 taiwan 21.50 2010 est <\s>
+<s> 71 kenya 21.30 2010 est <\s>
+<s> 72 cameroon 21.10 2010 est <\s>
+<s> 73 mexico 21.10 2010 est <\s>
+<s> 74 romania 21.10 2010 est <\s>
+<s> 75 austria 21.00 2010 est <\s>
+<s> 76 zimbabwe 21.00 2010 est <\s>
+<s> 77 cambodia 20.90 2010 est <\s>
+<s> 78 tajikistan 20.90 2010 est <\s>
+<s> 79 uganda 20.90 2010 est <\s>
+<s> 80 belgium 20.80 2010 est <\s>
+<s> 81 costa rica 20.80 2010 est <\s>
+<s> 82 zambia 20.50 2010 est <\s>
+<s> 83 japan 20.30 2010 est <\s>
+<s> 84 sudan 20.20 2010 est <\s>
+<s> 85 malaysia 20.10 2010 est <\s>
+<s> 86 rwanda 20.00 2010 est <\s>
+<s> 87 france 19.90 2010 est <\s>
+<s> 88 south africa 19.90 2010 est <\s>
+<s> 89 switzerland 19.90 2010 est <\s>
+<s> 90 burkina faso 19.70 2010 est <\s>
+<s> 91 cyprus 19.70 2010 est <\s>
+<s> 92 new zealand 19.60 2010 est <\s>
+<s> 93 poland 19.50 2010 est <\s>
+<s> 94 hungary 19.40 2010 est <\s>
+<s> 95 uruguay 19.40 2010 est <\s>
+<s> 96 yemen 19.40 2010 est <\s>
+<s> 97 italy 19.10 2010 est <\s>
+<s> 98 portugal 19.00 2010 est <\s>
+<s> 99 russia 18.90 2010 est <\s>
+<s> 100 finland 18.70 2010 est <\s>
+<s> 101 slovenia 18.70 2010 est <\s>
+<s> 102 norway 18.60 2010 est <\s>
+<s> 103 european union 18.60 2010 est <\s>

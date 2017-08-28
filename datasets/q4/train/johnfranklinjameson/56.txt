@@ -1,0 +1,3800 @@
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
+<s> blawfelt _capt wyllem albertsen privateer 9-16 17 n <\s>
+<s> blewfields bay jamaica 35 40 <\s>
+<s> blewfields bay nicaragua 10 n <\s>
+<s> block island 217 n 221 222 382 436 <\s>
+<s> _blue dove prize case 27-46 <\s>
+<s> boca del drago 90 <\s>
+<s> boca del toro 90 <\s>
+<s> bodleian library oxford documents from xv 197-200 259-275 <\s>
+<s> bolton henry 211 212 230 231 233 235 information 245-249 <\s>
+<s> bombay 154 194 195 letters from 155-159 <\s>
+<s> bona vista cape verde 191 206 <\s>
+<s> _bon rencontre le_ snow 573 n <\s>
+<s> boone nicholas printer 284 <\s>
+<s> bootman john trial 330-338 <\s>
+<s> boston mass jail or prison 150 229 308 516 ships from 184 186 <\s>
+<s> boston _memorial history 219 n 226 n 271 n <\s>
+<s> boston admiralty court documents from xv 347-354 356-378 431-444 <\s>
+<s> _boston gazette 345 n <\s>
+<s> _boston news-letter documents from 276-284 313-318 571-573 <\s>
+<s> boston record commissioners _reports_ 345 n 495 n <\s>
+<s> bourdett samuel 395 400 416 <\s>
+<s> bourne _sir_ arthur 165 <\s>
+<s> fox _english merchants 468 n <\s>
+<s> bourryau zachariah 456 468 470 and schaffer letters to freebody 448-450 451-453 <\s>
+<s> bowles _capt isaac 37 <\s>
+<s> bowne _capt obadiah 506 n 508 509 <\s>
+<s> boxford mass second church 428 n <\s>
+<s> bradford william _history of plymouth plantation 208 n <\s>
+<s> bradinham _dr robert 199 <\s>
+<s> bradish _capt joseph pirate 217 229 231 237 244 250 n 315 <\s>
+<s> bradley samuel 211 218 n <\s>
+<s> bradock _capt nicholas 277 <\s>
+<s> bradstreet _gov simon 18 138 <\s>
+<s> brailsford edward 287 289 <\s>
+<s> bramston _dr george report 275-276 <\s>
+<s> bramston sir john _autobiography_ 275 n <\s>
+<s> brandenburg company at st <\s>
+<s> thomas 233 235 236 <\s>
+<s> brandenburg-prussia fleet of 138-141 privateers and navy 82 83 treaty with denmark 235 n <\s>
+<s> brazil 191 200 278 n 327 331 <\s>
+<s> breedon _capt thomas 26 32 n <\s>
+<s> brett john of antigua 257 258 <\s>
+<s> brett _capt john 303 304 308 <\s>
+<s> bridge _rev thomas 279 n <\s>
+<s> bridgetown barbados 131 n <\s>
+<s> bridgman _capt alias _see_ every _capt henry <\s>
+<s> brigham a p _cape cod 293 n <\s>
+<s> _brintania_ _britannia_ prize 277 <\s>
+<s> bristol eng galley 317 ships 267 295 snow 316 <\s>
+<s> bristol mass and r i 285 n 510 n 512 514 n privateers 572 <\s>
+<s> bristol county mass sheriff 320 n <\s>
+<s> british museum documents from xv 3-8 82-133 <\s>
+<s> bromfield edward 324 338 <\s>
+<s> brooke _lord_ robert greville 3 <\s>
+<s> broom rex _vs 378 n <\s>
+<s> brother islands 383 385 <\s>
+<s> broughton thomas 287 289 <\s>
+<s> brown _capt 156 157 <\s>
+<s> brown david paul _the forum 473 n <\s>
+<s> brown john _apollo_ deposition 506-508 509 n <\s>
+<s> brown john pirate jamaica 298 examination 293-295 trial 303-306 <\s>
+<s> brown john _revenge_ 384 395 397 416 <\s>
+<s> brown and burton _vs franklyn 378 n <\s>
+<s> browne arthur _civil and admiralty law 454 n <\s>
+<s> browne samuel 324 338 <\s>
+<s> browne william depositions 30 35-36 <\s>
+<s> brown university library 453 n <\s>
+<s> bruce peter henry _memoirs_ 405 n 407 n 415 n 477 n <\s>
+<s> bruce philip a _institutional history of virginia 259 n <\s>
+<s> buccaneers attack on portobello 84-92 on the isthmus 92-99 at panama 99-101 in the south sea 101-109 at coquimbo 109-111 at juan fernandez 111-113 at arica 113-116 northward to costa rica 116-118 on the coast of costa rica 118-122 southward voyage 122-126 around patagonia 126-129 north to antigua 129-131 dispersal 131-133 sir henry morgan and 133-135 simon calderon on 135-137 <\s>
+<s> buckmaster edward examination 197-200 <\s>
+<s> buckner _maj william 261 <\s>
+<s> bumstead jeremiah diary 329 n 344 n 345 n <\s>
+<s> burchett josiah secretary 312 n <\s>
+<s> burke or burt william 212 231 233 235 <\s>
+<s> burlington n j 243 n <\s>
+<s> burn foelix 383 384 386 394 416 <\s>
+<s> burn flora 395 416 <\s>
+<s> burnett john 395 _see also bennett <\s>
+<s> burr george l _narratives of the witchcraft trials 234 n <\s>
+<s> burrell _sir_ william reports 530 n 567 n <\s>
+<s> burrill john pirate 323 n 326 328 329 340 <\s>
+<s> burt _pres william 195 n 196 <\s>
+<s> burt william _see_ burke <\s>
+<s> burton brown and _vs franklyn 378 n <\s>
+<s> nathaniel commission 1-3 diary 3-8 <\s>
+<s> button samuel 138 n deposition 140-141 <\s>
+<s> byfield nathaniel admiralty judge 285 <\s>
+<s> byfield _rev richard 285 n <\s>
+<s> bynkershoek cornelius van _quaestiones juris publici 447 n <\s>
+<s> cabañas cuba 537 n 543 554 <\s>
+<s> cabo pasado 122 135 136 <\s>
+<s> cade bartholomew 163 164 <\s>
+<s> cagigal de la vega _don_ francisco captain-general of cuba 547 certificate 554-555 <\s>
+<s> cal _don_ gerónimo de la 537 539 <\s>
+<s> calabar old 141 n <\s>
+<s> calamy edmund _nonconformists memorial 6 n <\s>
+<s> calderon simon 124 deposition 135-137 <\s>
+<s> caledonia on the isthmus 231 <\s>
+<s> calef robert _more wonders of the invisible world 234 n <\s>
