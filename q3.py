@@ -1,10 +1,9 @@
 import numpy as np
-from math import log
 from collections import defaultdict
 
 def read_train():
-    # with open("datasets/q3/decision_tree_train.csv") as f:
-    with open("datasets/q3/train.csv") as f:
+    with open("datasets/q3/decision_tree_train.csv") as f:
+    # with open("datasets/q3/train.csv") as f:
         for i, line in enumerate(f):
             line = line.rstrip()
             temp = line.split(",")
@@ -29,8 +28,8 @@ def read_train():
     return
 
 def read_test():
-    # with open("datasets/q3/decision_tree_test.csv") as f:
-    with open("datasets/q3/test.csv") as f:
+    with open("datasets/q3/decision_tree_test.csv") as f:
+    # with open("datasets/q3/test.csv") as f:
         correct = 0
         total = 0
         for i, line in enumerate(f):
@@ -48,11 +47,11 @@ def read_test():
                         inAtt.append(val)
                 classLabel = classify_test(inAtt, 0)
                 total += 1
-                print classLabel, " ", label
+                # print classLabel, " ", label
                 if classLabel == label:
                     correct += 1
     
-    print "Accuracy: ", float(correct)*100/float(total)
+    print "Accuracy:",float(correct)*100/float(total-1),"%"
     return
 
 def classify_test(attribute, node):
@@ -72,7 +71,8 @@ def classify_test(attribute, node):
             return 0 if count[0] > count[1] else 1
         else:
             elem = tree[node][0]
-            if attribute[attributes[elem[1]]] <= elem[2]:
+            # 
+            if attribute[attributes[elem[1]]] < elem[2]:
                 return classify_test(attribute, elem[3])
             else:
                 return classify_test(attribute, elem[4])
@@ -92,7 +92,8 @@ def classify_test(attribute, node):
         
         else:
             elem = tree[node][0]
-            if attribute[attributes[elem[1]]] <= elem[2]:
+            # 
+            if attribute[attributes[elem[1]]] < elem[2]:
                 return elem[3]
             else:
                 return 1 - elem[3]
@@ -102,8 +103,8 @@ def generate_tree(indices):
     curr = node
     end = False
     quality = float(1)
-    split_point = float(0)
 
+    # Decide which attribute to split on
     for i in continuous:
         retval = entropy_continuous(values[attributes[i]], indices)
         if retval[1] <= quality:
@@ -118,34 +119,36 @@ def generate_tree(indices):
             split_point = "discrete"
             attr = i
 
-    if quality == float(0.0):
+    if quality == float(0):
         end = True
 
     if split_point == "discrete":
         branches = []
-        directions = []
+        # Determine what values of the discrete attribute made it to this subtree
         for i in indices:
             if values[attributes[attr]][i] not in branches:
                 branches.append(values[attributes[attr]][i])
                 if end:
                     tree[curr].append(("end", attr, values[attributes[attr]][i], values[attributes["left"]][i]))
 
-        for i, j in enumerate(branches):
-            direction = []
+        for i, branch in enumerate(branches):
+            direction = [] # Contains indices for each branch
             for index in indices:
-                if values[attributes[attr]][index] == j:
+                if values[attributes[attr]][index] == branch:
                     direction.append(index)
 
             if not end:
                 node += 1
-                tree[curr].append(("continue", attr, j, node))
+                tree[curr].append(("continue", attr, branch, node))
                 generate_tree(direction)
 
     else:
+        # Index matrices for each direction
         left = []
         right = []
         for i in indices:
-            if values[attributes[attr]][i] <= split_point:
+            # 
+            if values[attributes[attr]][i] < split_point:
                 left.append(i)
             else:
                 right.append(i)
@@ -181,8 +184,7 @@ def entropy_discrete(data, indices):
         p = float(count[i][0])/float(count[i][0] + count[i][1])
         
         if p > 0 and p < 1:
-            quality += (-p*log(p, 2) - (1-p)*log(1-p, 2))*float(count[i][0] + 
-                        count[i][1])/float(len(indices))
+            quality += (-p*np.log2(p) - (1-p)*np.log2(1-p))*float(count[i][0] + count[i][1])/float(len(indices))
 
     return quality
 
@@ -198,18 +200,25 @@ def entropy_continuous(data, indices):
             high = data[i]
 
     retval = (high - low)/2
-    step = float(high - low)/float(10)
+    step = float(high - low)/float(100)
     
+    # if node == 0:
+    #     print "Low", low, "High", high, "Step", step
+
     while low < high:
         left = [0, 0]
         right = [0, 0]
         entropy = [0, 0]
 
         for i in indices:
-            if data[i] <= low:
+            #
+            if data[i] < low:
                 left[values[attributes["left"]][i]] += 1
             else:
                 right[values[attributes["left"]][i]] += 1
+
+        # if node == 0:
+        #     print "Low", low, "Left", left, "Right", right
 
         left_count = float(left[0] + left[1])
         right_count = float(right[0] + right[1])
@@ -223,18 +232,19 @@ def entropy_continuous(data, indices):
         if left[0] == 0 or left[0] == left_count:
             entropy[0] = 0
         else:
-            entropy[0] = -p_left*log(p_left, 2) - (1 - p_left)*log(1 - p_left, 2)
+            entropy[0] = -p_left*np.log2(p_left) - (1 - p_left)*np.log2(1 - p_left)
 
         if right[0] == 0 or right[0] == right_count:
             entropy[1] = 0
         else:
-            entropy[1] = -p_right*log(p_right, 2) - (1 - p_right)*log(1 - p_right, 2)
+            entropy[1] = -p_right*np.log2(p_right) - (1 - p_right)*np.log2(1 - p_right)
 
         quality = (entropy[0]*left_count + entropy[1]*right_count)/(left_count + right_count)
 
-        minval = min(minval, quality)
-        retval = low
-        
+        if quality < minval:
+            minval = quality
+            retval = low
+
         low += step
 
     return retval, minval
@@ -245,7 +255,8 @@ def main():
 
     read_test()
     # for i in tree:
-    #     print "Level: ", i, "Attribute: ", tree[i][0], "Value: ", tree[i][1]
+    #     for j in tree[i]:
+    #         print "Node: ", i, j[0], "Attribute: ", j[1], "Value: ", j[2], "Index/Label: ", j[3]
 
 node = 0
 
