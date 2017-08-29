@@ -103,6 +103,10 @@ class Metrics(object):
 		"""
 
 if __name__ == '__main__':
+
+    if len(argv) != 3:
+        print "Usage: python q1.py [relative/path/to/train/directory] [relative/path/to/test/directory]"
+
 	classes = ['galsworthy/', 'galsworthy_2/', 'mill/', 'shelley/', 'thackerey/', 'thackerey_2/', 'wordsmith_prose/', 'cia/', 'johnfranklinjameson/', 'diplomaticcorr/']
 	inputdir = [argv[1], argv[2]]
 	# inputdir = ['./datasets/q4_1/train/', './datasets/q4_1/test/']
