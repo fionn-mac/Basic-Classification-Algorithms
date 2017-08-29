@@ -1,15 +1,9 @@
 #!/usr/bin/env python
 
-import sys
+from sys import argv
 import os
 import numpy as np
 from operator import itemgetter
-
-"""Feel free to add any extra classes/functions etc as and when needed.
-This code is provided purely as a starting point to give you a fair idea
-of how to go about implementing machine learning algorithms in general as
-a part of the first assignment. Understand the code well"""
-
 
 class FeatureVector(object):
 	def __init__(self, vocabsize, numdata):
@@ -25,8 +19,8 @@ class FeatureVector(object):
 		self.Y.append(classid)
 		i = len(self.Y) - 1
 		
-		# filter(lambda a: a != "<s>", input)
-		# filter(lambda a: a != "<\s>", input)
+		filter(lambda a: a != "<s>", input)
+		filter(lambda a: a != "<\s>", input)
 		
 		count = len(input)
 		
@@ -43,7 +37,7 @@ class KNN(object):
 		self.Y_test = testVec.Y
 		self.metric = Metrics('accuracy')
 
-	def classify(self, nn):
+	def classify(self, nn=7):
 		"""
 		Takes input X_train, Y_train, X_test and Y_test and displays the accuracies.
 		"""
@@ -93,7 +87,7 @@ class Metrics(object):
 		elif self.metric == 'f1':
 			return self.f1_score()
 
-	def get_confmatrix(self,y_pred,y_test):
+	def get_confmatrix(self, y_pred, y_test):
 		"""
 		Implements a confusion matrix
 		"""
@@ -109,9 +103,9 @@ class Metrics(object):
 		"""
 
 if __name__ == '__main__':
-	datadir = './datasets/q4_1/'
 	classes = ['galsworthy/', 'galsworthy_2/', 'mill/', 'shelley/', 'thackerey/', 'thackerey_2/', 'wordsmith_prose/', 'cia/', 'johnfranklinjameson/', 'diplomaticcorr/']
-	inputdir = ['train/', 'test/']
+	inputdir = [argv[1], argv[2]]
+	# inputdir = ['./datasets/q4_1/train/', './datasets/q4_1/test/']
 
 	vocab = 1000
 	trainsz = 1000
@@ -121,28 +115,25 @@ if __name__ == '__main__':
 	trainVec = FeatureVector(vocab, trainsz)
 	testVec = FeatureVector(vocab, testsz)
 
-	for idir in inputdir:
+	for index, idir in enumerate(inputdir):
 		classid = 1
 		for c in classes:
-			listing = os.listdir(datadir+idir+c)
+			listing = os.listdir(idir+c)
 			for filename in listing:
-				f = open(datadir+idir+c+filename,'r')
+				f = open(idir+c+filename,'r')
 				
 				inputs = []
 				for line in f:
 					inputs.extend(line.split())
 
-				if idir == 'train/':
-					trainVec.make_featurevector(inputs, classid)
-				else:
+				if index:
 					testVec.make_featurevector(inputs, classid)
+				else:
+					trainVec.make_featurevector(inputs, classid)
 			classid += 1
 
 	print('Finished making features.')
 	print('Statistics ->')
-	# print(trainVec.X.shape, trainVec.Y.shape, testVec.X.shape, testVec.Y.shape)
 
 	knn = KNN(trainVec, testVec)
-	
-	for i in xrange(10):
-		knn.classify(i+1)
+	knn.classify(7)

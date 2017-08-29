@@ -1,9 +1,9 @@
+from sys import argv
 import numpy as np
 from collections import defaultdict
 
-def read_train():
-    with open("datasets/q3/decision_tree_train.csv") as f:
-    # with open("datasets/q3/train.csv") as f:
+def read_train(train_path):
+    with open(train_path) as f:
         for i, line in enumerate(f):
             line = line.rstrip()
             temp = line.split(",")
@@ -27,9 +27,8 @@ def read_train():
                         discrete.append(val)
     return
 
-def read_test():
-    with open("datasets/q3/decision_tree_test.csv") as f:
-    # with open("datasets/q3/test.csv") as f:
+def read_test(test_path):
+    with open(test_path) as f:
         correct = 0
         total = 0
         for i, line in enumerate(f):
@@ -38,50 +37,48 @@ def read_test():
             inAtt = []
             if i > 0:
                 for j, val in enumerate(temp):
+                    if j == 6:
+                        inAtt.append(int(val))
                     if j < 6:
                         inAtt.append(float(val))
-                    elif j == 6:
-                        label = int(val)
-                        inAtt.append(label)
                     else:
                         inAtt.append(val)
+                    j += 1
                 classLabel = classify_test(inAtt, 0)
                 total += 1
+                # print classLabel
                 # print classLabel, " ", label
-                if classLabel == label:
+                if classLabel == inAtt[6]:
                     correct += 1
-    
-    print "Accuracy:",float(correct)*100/float(total-1),"%"
+
+    print "Accuracy: " + str(float(correct)*100/float(total-1)) + "%"
+    print "Precision: " + str(float(correct)*100/float(total-1)) + "%"
+    print "Recall: " + str(float(correct)*100/float(total-1)) + "%"
+
     return
 
 def classify_test(attribute, node):
-    # print node, " ", tree[node]
     if tree[node][0][0] == "continue":
         if tree[node][0][1] in discrete:
             for elem in tree[node]:
-                # print attribute[attributes[elem[1]]], " ", elem[2]
                 if attribute[attributes[elem[1]]] == elem[2]:
                     return classify_test(attribute, elem[3])
             
             count = [0, 0]
             for elem in tree[node]:
-                # print elem
                 retval = classify_test(attribute, elem[3])
                 count[retval] += 1
             return 0 if count[0] > count[1] else 1
         else:
             elem = tree[node][0]
-            # 
             if attribute[attributes[elem[1]]] < elem[2]:
                 return classify_test(attribute, elem[3])
             else:
                 return classify_test(attribute, elem[4])
 
     else:
-        # print node, " ", tree[node]
         if tree[node][0][1] in discrete:
             for elem in tree[node]:
-                # print attribute[attributes[elem[1]]], " ", elem[2]
                 if attribute[attributes[elem[1]]] == elem[2]:
                     return elem[3]
             
@@ -92,7 +89,6 @@ def classify_test(attribute, node):
         
         else:
             elem = tree[node][0]
-            # 
             if attribute[attributes[elem[1]]] < elem[2]:
                 return elem[3]
             else:
@@ -147,7 +143,6 @@ def generate_tree(indices):
         left = []
         right = []
         for i in indices:
-            # 
             if values[attributes[attr]][i] < split_point:
                 left.append(i)
             else:
@@ -164,7 +159,6 @@ def generate_tree(indices):
             generate_tree(right)
             tree[curr].append(("continue", attr, split_point, leftDir, rightDir))
 
-    # print curr, " ", tree[curr]
     return
 
 def entropy_discrete(data, indices):
@@ -201,9 +195,6 @@ def entropy_continuous(data, indices):
 
     retval = (high - low)/2
     step = float(high - low)/float(100)
-    
-    # if node == 0:
-    #     print "Low", low, "High", high, "Step", step
 
     while low < high:
         left = [0, 0]
@@ -216,9 +207,6 @@ def entropy_continuous(data, indices):
                 left[values[attributes["left"]][i]] += 1
             else:
                 right[values[attributes["left"]][i]] += 1
-
-        # if node == 0:
-        #     print "Low", low, "Left", left, "Right", right
 
         left_count = float(left[0] + left[1])
         right_count = float(right[0] + right[1])
@@ -249,23 +237,18 @@ def entropy_continuous(data, indices):
 
     return retval, minval
 
-def main():
-    read_train()
+if __name__ == '__main__':
+    node = 0
+    values = []
+    indices = []
+    continuous = []
+    discrete = []
+    attributes = {}
+    tree = defaultdict(list)
+    
+    if len(argv) != 3:
+        print "Usage: python q1.py [relative/path/to/train/file] [relative/path/to/test/file]"
+
+    read_train(argv[1])
     generate_tree(indices)
-
-    read_test()
-    # for i in tree:
-    #     for j in tree[i]:
-    #         print "Node: ", i, j[0], "Attribute: ", j[1], "Value: ", j[2], "Index/Label: ", j[3]
-
-node = 0
-
-values = []
-indices = []
-continuous = []
-discrete = []
-
-attributes = {}
-tree = defaultdict(list)
-
-main()
+    read_test(argv[2])
