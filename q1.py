@@ -27,7 +27,7 @@ def read_test(data):
 def single_perceptron(data, label, W, margin):
     count = 0
     for sample in data:
-        if float(np.dot(W, sample))/float(np.linalg.norm(sample)) - margin <= 0:
+        if np.dot(W, sample)/np.dot(sample, sample) <= margin:
             np.add(W, sample, out=W)
             count += 1
 
@@ -38,7 +38,7 @@ def batch_perceptron(data, label, W, margin):
     loss = np.zeros(len(data[0]))
 
     for i, sample in enumerate(data):
-        if float(np.dot(W, sample))/float(np.linalg.norm(sample)) - margin <= 0:
+        if np.dot(W, sample)/np.dot(sample, sample) <= margin:
             np.add(loss, sample, out=loss)
             count += 1
 
@@ -48,7 +48,7 @@ def batch_perceptron(data, label, W, margin):
 def train(data, label, W, margin, single):
     flag = True
     
-    for epoch in xrange(20):
+    for epoch in xrange(1000):
         if single:
             single_perceptron(data, label, W, margin)
         else:
@@ -60,15 +60,15 @@ def validate(data, label, W, margin):
     count = 0
     
     for sample in data:
-        if float(np.dot(W, sample))/float(np.linalg.norm(sample)) - margin <= 0:
+        if np.dot(W, sample) <= 0:
             count += 1
 
     return float(len(data) - count)*100/float(len(data))
 
 def test(data, W, margin):
-    for i, sample in enumerate(data):
+    for sample in data:
         predictLabel = 0
-        if float(np.dot(W, sample))/float(np.linalg.norm(sample)) - margin > 0:
+        if np.dot(W, sample) > 0:
             predictLabel = 1
 
         print predictLabel
@@ -93,13 +93,13 @@ def main():
     data_validate = data[i+1:]
     label_validate = label[i+1:]
     single = 1
-    
+
     for i in xrange(4):
         maxAccuracy = float(0)
         marginFinal = 0
         if i % 2:
             # Single and Batch with Margin; may not converge
-            for margin in np.arange(200, 201, 50):
+            for margin in np.arange(0.001, 0.101, 0.05):
                 W = np.zeros(len(data[0]))
                 train(data_train, label_train, W, margin, single) #Train model
                 accuracy = validate(data_validate, label_validate, W, margin) #Validate model
@@ -108,6 +108,7 @@ def main():
                     marginFinal = margin
                     maxAccuracy = accuracy
 
+            # print marginFinal, maxAccuracy
             test(data_test, WFinal, marginFinal)
 
         else:

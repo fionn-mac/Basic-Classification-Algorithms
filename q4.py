@@ -48,6 +48,8 @@ class KNN(object):
 		Takes input X_train, Y_train, X_test and Y_test and displays the accuracies.
 		"""
 		
+		# global classes
+		
 		correct = 0
 		for j, fileStat in enumerate(self.X_test):
 			valueMap = {}
@@ -78,10 +80,10 @@ class KNN(object):
 					predictClass = key[1][1]
 			
 			# print "Predicted Class: ", predictClass, "Actual Class: ", self.Y_test[j]
-			print predictClass
-		# 	if predictClass == self.Y_test[j]:
-		# 		correct += 1
-		# 
+			print classes[predictClass-1].strip('/')
+			# if predictClass == self.Y_test[j]:
+			# 	correct += 1
+		
 		# print "Accuracy :", float(correct)*100/float(j+1), "%  with K: ", nn
 
 class Metrics(object):
@@ -112,6 +114,7 @@ class Metrics(object):
 if __name__ == '__main__':
 	classes = ['galsworthy/', 'galsworthy_2/', 'mill/', 'shelley/', 'thackerey/', 'thackerey_2/', 'wordsmith_prose/', 'cia/', 'johnfranklinjameson/', 'diplomaticcorr/']
 	inputdir = [argv[1], argv[2]]
+	# inputdir = ['./datasets/q4_1/train/', './datasets/q4_1/test/']
 
 	vocab = 1000
 	trainsz = 1000
@@ -132,6 +135,7 @@ if __name__ == '__main__':
 				for line in f:
 					inputs.extend(line.split())
 
+				# print inputs
 				if index:
 					testVec.make_featurevector(inputs, classid)
 				else:
@@ -145,4 +149,4 @@ if __name__ == '__main__':
 	knn = KNN(trainVec, testVec)
 	
 	# for i in xrange(10):
-	knn.classify(10)
+	knn.classify(7)

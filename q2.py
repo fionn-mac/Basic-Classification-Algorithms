@@ -51,6 +51,18 @@ def pass_over(data, norm, W, margin, n):
 
     return
 
+def modified_perceptron(data, W):
+    accuracy = 0.0
+    for epoch in xrange(200):
+        count = 0
+        for i, sample in enumerate(data):
+            if np.dot(W, sample) < 0:
+                np.add(W, (1 - accuracy)*sample, out=W)
+                count += 1
+        accuracy = float(i - count + 1)/float(i+1)
+        # print accuracy
+    return
+
 def train(data, norm, W, margin):
     n = 1e-1
     
@@ -63,7 +75,7 @@ def validate(data, W, margin):
     count = 0
 
     for sample in data:
-        if np.dot(W, sample) <= margin:
+        if np.dot(W, sample) <= 0:
             count += 1
 
     accuracy = float(len(data) - count)*100/float(len(data))
@@ -74,7 +86,7 @@ def test(data, W, margin):
     count = 0
     for sample in data:
         predictLabel = 2
-        if np.dot(W, sample) > margin:
+        if np.dot(W, sample) > 0:
             predictLabel = 4
 
         print predictLabel
@@ -105,7 +117,10 @@ def main():
         maxAccuracy = float(0)
         marginFinal = 0
         if i:
-            pass
+            W = np.array(np.random.uniform(-1, 1, len(data[0]))) #Initialize Weight Matrix
+            modified_perceptron(data, W)
+            test(data_test, W, 0)
+            
         else:
             # Single Perceptron with Relaxation and Margin; May not converge
             for margin in np.arange(0, 0.01, 0.001):
